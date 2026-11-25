@@ -44,6 +44,6 @@ const renderConcepts=data=>{const rows=JSON.parse(read('data/calculators.json'))
 const patchConcepts=function(html,data){const block=renderConcepts(data),marker=/<!-- concepts:begin -->[\s\S]*?<!-- concepts:end -->/;return marker.test(html)?html.replace(marker,()=>block):html.replace("</main>",'<div class="shell">'+block+'</div></main>');};
 data.toolConcepts=JSON.parse(read('registry/public-release.json')).includeToolConcepts?extractConcepts(JSON.parse(read('registry/blueprint-assets.master.json'))):[];
 const output={ 'data/blueprint-public.json':JSON.stringify(data,null,2)+'\n' };
-for(const r of ["/","/editions/","/blueprint/","/playbooks/","/ai-lab/","/automations/","/tools/","/partners/","/resources/","/field-notes/","/start/","/about/"]){const p=r==='/'?'index.html':r.slice(1)+'index.html';output[p]=renderPage(read(p),r,data);}
+for(const r of ["/","/editions/","/blueprint/","/playbooks/","/ai-lab/","/automations/","/tools/","/partners/","/resources/","/field-notes/","/start/","/about/"]){if(r==="/")continue;const p=r.slice(1)+"index.html";output[p]=renderPage(read(p),r,data);}
 output['tools/index.html']=patchConcepts(output['tools/index.html'],data);
 if(process.argv.includes('--check')){for(const [p,v] of Object.entries(output))if(read(p)!==v)throw Error('Generated file is stale: '+p);console.log('Registry is current.');}else{for(const [p,v] of Object.entries(output))write(p,v);console.log('Generated '+data.assets.length+' public records across 12 routes.');}

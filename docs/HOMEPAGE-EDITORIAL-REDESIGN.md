@@ -1,0 +1,3 @@
+# Homepage editorial redesign
+
+Distinct from existing Phase 6B resource ecosystem work. Root homepage is a manually owned editorial surface; public-registry and ecosystem generators intentionally skip index.html. The Editorial Desk and catalog counts refresh from existing public JSON catalogs in homepage.js; static fallback is retained. site.js supplies the homepage calculator. The social preview is temporary permanent-brand artwork and is displayed uncropped at 16:9. No author portrait was present in the repository; typographic manifesto used instead. Six design variations, article pages, and production-only Vercel configuration remain untouched. Navigation simplification is scoped to the homepage. Existing catalog statuses and disclosures preserved.
