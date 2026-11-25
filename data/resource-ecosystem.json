@@ -21,6 +21,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -56,6 +57,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -89,6 +91,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -115,6 +118,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -152,10 +156,11 @@
       "relationship": "active (source recorded)",
       "url": "https://bankbreezy.com/",
       "affiliate_url": "https://bankbreezy.com/jason/",
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/partner-bank-breezy.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "brand-icon",
+      "image_provenance": "Public site icon supplied by bankbreezy.com.",
       "download_url": null,
       "related_images": []
     },
@@ -186,6 +191,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -218,6 +224,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -247,6 +254,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -275,6 +283,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -300,6 +309,7 @@
       "companion_links": [],
       "link_status": "platform_access_unconfirmed",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -328,6 +338,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -362,6 +373,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -392,6 +404,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -428,10 +441,11 @@
       "relationship": "active (source recorded)",
       "url": "https://davidallencapital.com",
       "affiliate_url": "https://davidallencapital.com/jason/",
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/dac-independent-agent.png",
       "companion_links": [],
       "link_status": "access_or_rate_limit",
-      "image_role": null,
+      "image_role": "partner-branding",
+      "image_provenance": "Existing DAC independent-agent brand artwork; not an official corporate logo.",
       "download_url": null,
       "related_images": []
     },
@@ -461,6 +475,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -489,6 +504,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -517,6 +533,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -546,10 +563,11 @@
       "relationship": "active (source recorded)",
       "url": "https://www.forafinancial.com/",
       "affiliate_url": "https://forafinancial.pxf.io/c/2229127/2015280/24953",
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/partner-fora-financial.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "brand-icon",
+      "image_provenance": "Public site icon supplied by forafinancial.com.",
       "download_url": null,
       "related_images": []
     },
@@ -575,6 +593,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -608,6 +627,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -641,6 +661,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -666,6 +687,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -699,6 +721,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -724,6 +747,7 @@
       "companion_links": [],
       "link_status": "possible_gate_or_soft_error",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -765,6 +789,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": "logo",
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -797,6 +822,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -818,10 +844,11 @@
       "relationship": "editorial recommendation",
       "url": "https://www.hubspot.com/",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/partner-hubspot.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "brand-icon",
+      "image_provenance": "Public site icon supplied by hubspot.com.",
       "download_url": null,
       "related_images": []
     },
@@ -848,6 +875,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -874,6 +902,7 @@
       "companion_links": [],
       "link_status": "http_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -903,6 +932,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -933,6 +963,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": "logo",
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -958,6 +989,7 @@
       "companion_links": [],
       "link_status": "http_error",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -981,6 +1013,7 @@
       "companion_links": [],
       "link_status": "http_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1002,10 +1035,11 @@
       "relationship": "editorial recommendation",
       "url": "https://n8n.io/",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/partner-n8n.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "brand-icon",
+      "image_provenance": "Public site icon supplied by n8n.io.",
       "download_url": null,
       "related_images": []
     },
@@ -1031,6 +1065,7 @@
       "companion_links": [],
       "link_status": "http_reachable",
       "image_role": "logo",
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1058,10 +1093,11 @@
       "relationship": "active (source recorded)",
       "url": "https://newsilver.com/",
       "affiliate_url": "https://fxo.co/ItIN",
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/partner-new-silver.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "brand-icon",
+      "image_provenance": "Public site icon supplied by newsilver.com.",
       "download_url": null,
       "related_images": []
     },
@@ -1087,6 +1123,7 @@
       "companion_links": [],
       "link_status": "not_checked",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1120,6 +1157,7 @@
       "companion_links": [],
       "link_status": "http_reachable",
       "image_role": "logo",
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1153,6 +1191,7 @@
       "companion_links": [],
       "link_status": "access_or_rate_limit",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1178,6 +1217,7 @@
       "companion_links": [],
       "link_status": "http_not_found",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1211,6 +1251,7 @@
       "companion_links": [],
       "link_status": "redirect_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1237,6 +1278,7 @@
       "companion_links": [],
       "link_status": "unconfirmed",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1267,6 +1309,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1298,10 +1341,11 @@
       "relationship": "active (source recorded)",
       "url": "https://www.rok.biz/",
       "affiliate_url": "https://go.mypartner.io/business-financing/?ref=0014x00000H3JAsAAN",
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/rok-financial.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "logo",
+      "image_provenance": "Existing ROK Financial logo in owner media library.",
       "download_url": null,
       "related_images": []
     },
@@ -1333,6 +1377,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1359,6 +1404,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1389,6 +1435,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1412,10 +1459,11 @@
       "relationship": "active (source recorded)",
       "url": "https://www.subto.com/",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/partner-subto.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "brand-icon",
+      "image_provenance": "Public site icon supplied by subto.com.",
       "download_url": null,
       "related_images": []
     },
@@ -1437,10 +1485,11 @@
       "relationship": "editorial recommendation",
       "url": "https://supabase.com/",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/partner-supabase.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "brand-icon",
+      "image_provenance": "Public site icon supplied by supabase.com.",
       "download_url": null,
       "related_images": []
     },
@@ -1467,6 +1516,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1488,10 +1538,11 @@
       "relationship": "editorial recommendation",
       "url": "https://tally.so/",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/partner-tally.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "brand-icon",
+      "image_provenance": "Public site icon supplied by tally.so.",
       "download_url": null,
       "related_images": []
     },
@@ -1528,6 +1579,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1558,6 +1610,7 @@
       "companion_links": [],
       "link_status": "possible_gate_or_soft_error",
       "image_role": "logo",
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1587,10 +1640,11 @@
       "relationship": "active (source recorded)",
       "url": "https://uplyftcapital.com/",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/partner-uplyft-capital.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "brand-icon",
+      "image_provenance": "Public site icon supplied by uplyftcapital.com.",
       "download_url": null,
       "related_images": []
     },
@@ -1625,6 +1679,7 @@
       "companion_links": [],
       "link_status": "http_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1646,10 +1701,11 @@
       "relationship": "editorial recommendation",
       "url": "https://vercel.com/",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/partner-vercel.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "brand-icon",
+      "image_provenance": "Public site icon supplied by vercel.com.",
       "download_url": null,
       "related_images": []
     },
@@ -1682,6 +1738,7 @@
       "companion_links": [],
       "link_status": "http_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1707,6 +1764,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1728,10 +1786,11 @@
       "relationship": "editorial recommendation",
       "url": "https://www.wix.com/",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/partner-wix.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "brand-icon",
+      "image_provenance": "Public site icon supplied by wix.com.",
       "download_url": null,
       "related_images": []
     },
@@ -1755,6 +1814,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1778,6 +1838,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1801,6 +1862,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1824,6 +1886,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1847,6 +1910,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1870,6 +1934,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1893,6 +1958,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1916,6 +1982,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1939,6 +2006,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1962,6 +2030,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -1985,6 +2054,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2008,6 +2078,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2031,6 +2102,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2054,6 +2126,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2077,6 +2150,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2100,6 +2174,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2123,6 +2198,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2146,6 +2222,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2169,6 +2246,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2192,6 +2270,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2215,6 +2294,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2238,6 +2318,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2261,6 +2342,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2284,6 +2366,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2307,6 +2390,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2330,6 +2414,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2353,6 +2438,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2376,6 +2462,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2399,6 +2486,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2422,6 +2510,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2445,6 +2534,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2468,6 +2558,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2491,6 +2582,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2514,6 +2606,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2537,6 +2630,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2560,6 +2654,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2583,6 +2678,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2606,6 +2702,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2629,6 +2726,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2652,6 +2750,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2675,6 +2774,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2698,6 +2798,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2721,6 +2822,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2744,6 +2846,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2767,6 +2870,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2790,6 +2894,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2813,6 +2918,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2836,6 +2942,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2859,6 +2966,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2882,6 +2990,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2905,6 +3014,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2928,6 +3038,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2951,6 +3062,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2974,6 +3086,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -2997,6 +3110,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3020,6 +3134,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3043,6 +3158,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3066,6 +3182,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3089,6 +3206,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3112,6 +3230,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3135,6 +3254,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3158,6 +3278,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3181,6 +3302,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3204,6 +3326,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3227,6 +3350,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3250,6 +3374,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3273,6 +3398,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3296,6 +3422,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3319,6 +3446,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3342,6 +3470,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3365,6 +3494,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3388,6 +3518,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3411,6 +3542,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3434,6 +3566,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3457,6 +3590,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3480,6 +3614,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3503,6 +3638,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3526,6 +3662,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3549,6 +3686,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3572,6 +3710,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3595,6 +3734,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3618,6 +3758,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3641,6 +3782,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3664,6 +3806,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3687,6 +3830,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3710,6 +3854,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3733,6 +3878,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3756,6 +3902,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3779,6 +3926,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3802,6 +3950,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3825,6 +3974,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3848,6 +3998,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3871,6 +4022,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3894,6 +4046,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3917,6 +4070,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3940,6 +4094,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3963,6 +4118,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -3986,6 +4142,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4009,6 +4166,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4032,6 +4190,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4055,6 +4214,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4078,6 +4238,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4101,6 +4262,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4124,6 +4286,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4147,6 +4310,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4170,6 +4334,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4193,6 +4358,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4216,6 +4382,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4239,6 +4406,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4262,6 +4430,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4285,6 +4454,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4308,6 +4478,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4331,6 +4502,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4354,6 +4526,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4377,6 +4550,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4400,6 +4574,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4423,6 +4598,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4446,6 +4622,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4469,6 +4646,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4492,6 +4670,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4515,6 +4694,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4538,6 +4718,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4561,6 +4742,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4584,6 +4766,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4607,6 +4790,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4630,6 +4814,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4653,6 +4838,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4676,6 +4862,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4699,6 +4886,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4722,6 +4910,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4745,6 +4934,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4768,6 +4958,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4791,6 +4982,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4814,6 +5006,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4837,6 +5030,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4860,6 +5054,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4883,6 +5078,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4906,6 +5102,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4935,6 +5132,7 @@
       "companion_links": [],
       "link_status": "platform_access_unconfirmed",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4962,6 +5160,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -4989,6 +5188,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5017,6 +5217,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5044,6 +5245,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5072,6 +5274,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5100,6 +5303,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5127,6 +5331,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5156,6 +5361,7 @@
       "companion_links": [],
       "link_status": "platform_access_unconfirmed",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5184,6 +5390,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5212,6 +5419,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5240,6 +5448,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5268,6 +5477,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5296,6 +5506,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5323,6 +5534,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5350,6 +5562,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5377,6 +5590,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5405,6 +5619,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5433,6 +5648,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5460,6 +5676,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5488,6 +5705,7 @@
       "companion_links": [],
       "link_status": "platform_access_unconfirmed",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5517,6 +5735,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5545,6 +5764,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5574,6 +5794,7 @@
       "companion_links": [],
       "link_status": "platform_access_unconfirmed",
       "image_role": "illustration",
+      "image_provenance": null,
       "download_url": null,
       "related_images": [
         "/assets/images/resources/ai-crm-blueprint.webp",
@@ -5605,6 +5826,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5621,10 +5843,11 @@
       "url": "https://onboarding-kappa-gules.vercel.app/",
       "repository_url": "https://github.com/JFeimster/Onboarding",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-onboarding.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://onboarding-kappa-gules.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5641,10 +5864,11 @@
       "url": "https://staged-funding.vercel.app/",
       "repository_url": "https://github.com/JFeimster/staged-funding",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-staged-funding.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://staged-funding.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5661,10 +5885,11 @@
       "url": "https://estimator-lyart.vercel.app/",
       "repository_url": "https://github.com/JFeimster/estimator",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-estimator.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://estimator-lyart.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5681,10 +5906,11 @@
       "url": "https://moonshine-capital.vercel.app/",
       "repository_url": "https://github.com/JFeimster/moonshine-capital",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-moonshine-capital.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://moonshine-capital.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5701,10 +5927,11 @@
       "url": "https://ai-funding-coach.vercel.app/",
       "repository_url": "https://github.com/JFeimster/ai-funding-coach",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-ai-funding-coach.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://ai-funding-coach.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5721,10 +5948,11 @@
       "url": "https://moonsine-partner-page.vercel.app/",
       "repository_url": "https://github.com/JFeimster/Moonsine-Partner-Page",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-moonsine-partner-page.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://moonsine-partner-page.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5745,6 +5973,7 @@
       "companion_links": [],
       "link_status": "http_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5761,10 +5990,11 @@
       "url": "https://dac-pay.vercel.app/",
       "repository_url": "https://github.com/JFeimster/DAC-pay",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-dac-pay.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://dac-pay.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5781,10 +6011,11 @@
       "url": "https://partner-hub-mocha.vercel.app/",
       "repository_url": "https://github.com/JFeimster/PartnerHub",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-partnerhub.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://partner-hub-mocha.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5801,10 +6032,11 @@
       "url": "https://moonshine-ai-directory.vercel.app/",
       "repository_url": "https://github.com/JFeimster/moonshine-ai-directory",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-moonshine-ai-directory.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://moonshine-ai-directory.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5821,10 +6053,11 @@
       "url": "https://amazon-payout-unlocker.vercel.app/",
       "repository_url": "https://github.com/JFeimster/amazon-payout-unlocker",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-amazon-payout-unlocker.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://amazon-payout-unlocker.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5845,6 +6078,7 @@
       "companion_links": [],
       "link_status": "http_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5861,10 +6095,11 @@
       "url": "https://affiliate-launch-kit-generator.vercel.app/",
       "repository_url": "https://github.com/JFeimster/affiliate-launch-kit-generator",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-affiliate-launch-kit-generator.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://affiliate-launch-kit-generator.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5881,10 +6116,11 @@
       "url": "https://funding-embed.vercel.app/",
       "repository_url": "https://github.com/JFeimster/funding-embed",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-funding-embed.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://funding-embed.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5901,10 +6137,11 @@
       "url": "https://operator-funding-site.vercel.app/",
       "repository_url": "https://github.com/JFeimster/operator-funding-site",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-operator-funding-site.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://operator-funding-site.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5921,10 +6158,11 @@
       "url": "https://moonshine-broker.vercel.app/",
       "repository_url": "https://github.com/JFeimster/moonshine-broker",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-moonshine-broker.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://moonshine-broker.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5941,10 +6179,11 @@
       "url": "https://moonshine-funding-landing.vercel.app/",
       "repository_url": "https://github.com/JFeimster/moonshine-funding-static",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-moonshine-funding-static.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://moonshine-funding-landing.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -5965,6 +6204,7 @@
       "companion_links": [],
       "link_status": "http_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -5981,10 +6221,11 @@
       "url": "https://agency-lab.vercel.app/",
       "repository_url": "https://github.com/JFeimster/agency-lab",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-agency-lab.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://agency-lab.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -6005,6 +6246,7 @@
       "companion_links": [],
       "link_status": "http_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6025,6 +6267,7 @@
       "companion_links": [],
       "link_status": "http_reachable",
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6041,10 +6284,11 @@
       "url": "https://start-your-agency.vercel.app/",
       "repository_url": "https://github.com/JFeimster/start-your-agency",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-start-your-agency.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://start-your-agency.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -6061,10 +6305,11 @@
       "url": "https://capital-stack.vercel.app/",
       "repository_url": "https://github.com/JFeimster/CapitalStack",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-capitalstack.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://capital-stack.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -6081,10 +6326,11 @@
       "url": "https://funding-ceo.vercel.app/",
       "repository_url": "https://github.com/JFeimster/funding-ceo",
       "affiliate_url": null,
-      "image_url": null,
+      "image_url": "/assets/images/resources/phase-7a/application-funding-ceo.webp",
       "companion_links": [],
       "link_status": "http_reachable",
-      "image_role": null,
+      "image_role": "screenshot",
+      "image_provenance": "Anonymous public landing-page screenshot from https://funding-ceo.vercel.app/; no functionality claim.",
       "download_url": null,
       "related_images": []
     },
@@ -6105,6 +6351,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6125,6 +6372,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6145,6 +6393,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6165,6 +6414,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6185,6 +6435,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6205,6 +6456,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6225,6 +6477,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6245,6 +6498,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6265,6 +6519,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6285,6 +6540,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6305,6 +6561,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6325,6 +6582,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6345,6 +6603,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6365,6 +6624,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6385,6 +6645,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6405,6 +6666,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6425,6 +6687,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6445,6 +6708,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6465,6 +6729,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6485,6 +6750,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6505,6 +6771,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6525,6 +6792,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6545,6 +6813,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6565,6 +6834,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6585,6 +6855,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6605,6 +6876,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6625,6 +6897,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6645,6 +6918,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6665,6 +6939,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6685,6 +6960,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6705,6 +6981,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6725,6 +7002,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6745,6 +7023,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6765,6 +7044,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6785,6 +7065,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6805,6 +7086,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6825,6 +7107,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6845,6 +7128,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6865,6 +7149,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6885,6 +7170,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6905,6 +7191,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6925,6 +7212,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6945,6 +7233,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6965,6 +7254,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -6985,6 +7275,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7005,6 +7296,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7025,6 +7317,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7045,6 +7338,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7065,6 +7359,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7085,6 +7380,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7105,6 +7401,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7125,6 +7422,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7145,6 +7443,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7165,6 +7464,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7185,6 +7485,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7205,6 +7506,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7225,6 +7527,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7245,6 +7548,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7265,6 +7569,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7285,6 +7590,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7305,6 +7611,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7325,6 +7632,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7345,6 +7653,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7365,6 +7674,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7385,6 +7695,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7405,6 +7716,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7425,6 +7737,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7445,6 +7758,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7465,6 +7779,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7485,6 +7800,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7505,6 +7821,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7525,6 +7842,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7545,6 +7863,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7565,6 +7884,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7585,6 +7905,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7605,6 +7926,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7625,6 +7947,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7645,6 +7968,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7665,6 +7989,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7685,6 +8010,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7705,6 +8031,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7725,6 +8052,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7745,6 +8073,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7765,6 +8094,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7785,6 +8115,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7805,6 +8136,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7825,6 +8157,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7845,6 +8178,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7865,6 +8199,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7885,6 +8220,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7905,6 +8241,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7925,6 +8262,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7945,6 +8283,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7965,6 +8304,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -7985,6 +8325,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8005,6 +8346,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8025,6 +8367,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8045,6 +8388,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8065,6 +8409,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8085,6 +8430,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8105,6 +8451,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8125,6 +8472,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8145,6 +8493,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8165,6 +8514,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8185,6 +8535,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8205,6 +8556,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8225,6 +8577,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8245,6 +8598,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8265,6 +8619,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8285,6 +8640,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8305,6 +8661,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8325,6 +8682,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8345,6 +8703,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8365,6 +8724,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8385,6 +8745,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8405,6 +8766,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8425,6 +8787,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8445,6 +8808,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8465,6 +8829,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8485,6 +8850,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8505,6 +8871,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8525,6 +8892,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8545,6 +8913,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8565,6 +8934,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8585,6 +8955,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8605,6 +8976,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8625,6 +8997,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8645,6 +9018,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8665,6 +9039,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8685,6 +9060,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8705,6 +9081,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8725,6 +9102,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8745,6 +9123,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8765,6 +9144,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8785,6 +9165,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8805,6 +9186,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8825,6 +9207,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8845,6 +9228,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8865,6 +9249,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8885,6 +9270,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8905,6 +9291,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8925,6 +9312,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8945,6 +9333,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8965,6 +9354,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -8985,6 +9375,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9005,6 +9396,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9025,6 +9417,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9045,6 +9438,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9065,6 +9459,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9085,6 +9480,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9105,6 +9501,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9125,6 +9522,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9145,6 +9543,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9165,6 +9564,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9185,6 +9585,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9205,6 +9606,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9225,6 +9627,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9245,6 +9648,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9265,6 +9669,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9285,6 +9690,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9305,6 +9711,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9325,6 +9732,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9345,6 +9753,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9365,6 +9774,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9386,6 +9796,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9407,6 +9818,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9428,6 +9840,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9449,6 +9862,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9470,6 +9884,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9491,6 +9906,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9512,6 +9928,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9533,6 +9950,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9554,6 +9972,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9575,6 +9994,7 @@
       "companion_links": [],
       "link_status": null,
       "image_role": null,
+      "image_provenance": null,
       "download_url": null,
       "related_images": []
     },
@@ -9597,7 +10017,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "platform_access_unconfirmed"
+      "link_status": "platform_access_unconfirmed",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-80de1286a2c081",
@@ -9618,7 +10039,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "platform_access_unconfirmed"
+      "link_status": "platform_access_unconfirmed",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-d3a257bcf5469f",
@@ -9644,7 +10066,8 @@
         }
       ],
       "affiliate_url": null,
-      "link_status": "platform_access_unconfirmed"
+      "link_status": "platform_access_unconfirmed",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-73e2806f295852",
@@ -9665,7 +10088,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-60046de0f9c3fd",
@@ -9715,7 +10139,8 @@
         }
       ],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-59a09ea9d7f29d",
@@ -9735,7 +10160,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-7c221447f5ee96",
@@ -9761,7 +10187,8 @@
         }
       ],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-e312b3aa9c0c44",
@@ -9782,7 +10209,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-2d4ef7af1bd9c9",
@@ -9803,7 +10231,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-9cacb6b489ec1a",
@@ -9824,7 +10253,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-1f5467041f5f20",
@@ -9845,7 +10275,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-6a64b5227cf263",
@@ -9865,7 +10296,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-28948e523f4969",
@@ -9885,7 +10317,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-d53960914e65cb",
@@ -9905,7 +10338,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-052e61bc083695",
@@ -9926,7 +10360,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-5f9e797600d69d",
@@ -9946,7 +10381,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-117c961695fca7",
@@ -9968,7 +10404,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "local"
+      "link_status": "local",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-8a72d225f2689b",
@@ -9990,7 +10427,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "local"
+      "link_status": "local",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-a2af1f00b9c96f",
@@ -10011,7 +10449,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "local"
+      "link_status": "local",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-838ed58f0d1c40",
@@ -10048,7 +10487,8 @@
         }
       ],
       "affiliate_url": null,
-      "link_status": "local"
+      "link_status": "local",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-follow-up-script-pack-2026",
@@ -10081,7 +10521,8 @@
         }
       ],
       "affiliate_url": null,
-      "link_status": "local"
+      "link_status": "local",
+      "image_provenance": null
     },
     {
       "id": "resource-bpa-9a92854bbec44d",
@@ -10102,7 +10543,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-editorial-ai-prompts",
@@ -10124,7 +10566,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-editorial-claude-skills",
@@ -10145,7 +10588,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-editorial-registry-build",
@@ -10166,7 +10610,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "local"
+      "link_status": "local",
+      "image_provenance": null
     },
     {
       "id": "resource-editorial-six-designs",
@@ -10186,7 +10631,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "local"
+      "link_status": "local",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-loan-broker-vs-affiliate",
@@ -10207,7 +10653,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-ai-call-summaries-loan-brokers",
@@ -10228,7 +10675,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-alternative-lending-software",
@@ -10249,7 +10697,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-ai-for-business-loan-brokers",
@@ -10270,7 +10719,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-mcp-servers-for-lending",
@@ -10291,7 +10741,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-how-loan-brokers-can-use-ai",
@@ -10312,7 +10763,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-ai-crm-automation-for-loan-brokers",
@@ -10333,7 +10785,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-business-loan-broker-requirements-for-beginners-2026",
@@ -10354,7 +10807,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-the-loan-broker-s-guide-to-residual-commissions-and-long-term-equity",
@@ -10375,7 +10829,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-commercial-loan-broker-training",
@@ -10396,7 +10851,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-broker-in-a-box-vs-diy",
@@ -10417,7 +10873,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-ai-lead-generation-for-brokers",
@@ -10443,7 +10900,8 @@
         }
       ],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-wix-how-to-build-a-commission-only-sales-team-the-no-bs-blueprint-for-recruiting-and-leading-sub-broker",
@@ -10464,7 +10922,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "possible_gate_or_soft_error"
+      "link_status": "possible_gate_or_soft_error",
+      "image_provenance": null
     },
     {
       "id": "resource-tools-funding-agent-30-day-sprint",
@@ -10485,7 +10944,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-tools-partner-7-day-activation-kit",
@@ -10506,7 +10966,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-tools-partner-ai-tools-quickstart",
@@ -10527,7 +10988,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-tools-partner-sales-swipe-pack",
@@ -10548,7 +11010,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-tools-broker-objection-response-guide",
@@ -10569,7 +11032,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-tools-client-relationship-followup-kit",
@@ -10590,7 +11054,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-tools-partner-3p-recruitment-playbook",
@@ -10611,7 +11076,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-tools-funding-deal-qualification-kit",
@@ -10632,7 +11098,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-tools-funding-agent-revenue-calculator",
@@ -10653,7 +11120,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     },
     {
       "id": "resource-tools-crm-graveyard-recovery-kit",
@@ -10674,7 +11142,8 @@
       "related_images": [],
       "companion_links": [],
       "affiliate_url": null,
-      "link_status": "http_reachable"
+      "link_status": "http_reachable",
+      "image_provenance": null
     }
   ],
   "edition_associations": {

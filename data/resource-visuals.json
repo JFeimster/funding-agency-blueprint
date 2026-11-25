@@ -1,12 +1,162 @@
 {
+  "application-affiliate-launch-kit-generator": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-affiliate-launch-kit-generator.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://affiliate-launch-kit-generator.vercel.app/; no functionality claim."
+  },
+  "application-agency-lab": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-agency-lab.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://agency-lab.vercel.app/; no functionality claim."
+  },
+  "application-ai-funding-coach": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-ai-funding-coach.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://ai-funding-coach.vercel.app/; no functionality claim."
+  },
+  "application-amazon-payout-unlocker": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-amazon-payout-unlocker.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://amazon-payout-unlocker.vercel.app/; no functionality claim."
+  },
+  "application-capitalstack": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-capitalstack.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://capital-stack.vercel.app/; no functionality claim."
+  },
+  "application-dac-pay": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-dac-pay.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://dac-pay.vercel.app/; no functionality claim."
+  },
+  "application-estimator": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-estimator.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://estimator-lyart.vercel.app/; no functionality claim."
+  },
+  "application-funding-ceo": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-funding-ceo.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://funding-ceo.vercel.app/; no functionality claim."
+  },
+  "application-funding-embed": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-funding-embed.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://funding-embed.vercel.app/; no functionality claim."
+  },
+  "application-moonshine-ai-directory": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-moonshine-ai-directory.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://moonshine-ai-directory.vercel.app/; no functionality claim."
+  },
+  "application-moonshine-broker": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-moonshine-broker.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://moonshine-broker.vercel.app/; no functionality claim."
+  },
+  "application-moonshine-capital": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-moonshine-capital.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://moonshine-capital.vercel.app/; no functionality claim."
+  },
+  "application-moonshine-funding-static": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-moonshine-funding-static.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://moonshine-funding-landing.vercel.app/; no functionality claim."
+  },
+  "application-moonsine-partner-page": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-moonsine-partner-page.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://moonsine-partner-page.vercel.app/; no functionality claim."
+  },
+  "application-onboarding": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-onboarding.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://onboarding-kappa-gules.vercel.app/; no functionality claim."
+  },
+  "application-operator-funding-site": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-operator-funding-site.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://operator-funding-site.vercel.app/; no functionality claim."
+  },
+  "application-partnerhub": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-partnerhub.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://partner-hub-mocha.vercel.app/; no functionality claim."
+  },
+  "application-staged-funding": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-staged-funding.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://staged-funding.vercel.app/; no functionality claim."
+  },
+  "application-start-your-agency": {
+    "image_role": "screenshot",
+    "image_url": "/assets/images/resources/phase-7a/application-start-your-agency.webp",
+    "provenance": "Anonymous public landing-page screenshot from https://start-your-agency.vercel.app/; no functionality claim."
+  },
+  "partner-bank-breezy": {
+    "image_role": "brand-icon",
+    "image_url": "/assets/images/resources/phase-7a/partner-bank-breezy.webp",
+    "provenance": "Public site icon supplied by bankbreezy.com."
+  },
   "partner-david-allen-capital": {
-    "image_url": "/assets/images/resources/phase-7a/dac-independent-agent.png",
     "image_role": "partner-branding",
+    "image_url": "/assets/images/resources/phase-7a/dac-independent-agent.png",
     "provenance": "Existing DAC independent-agent brand artwork; not an official corporate logo."
   },
+  "partner-fora-financial": {
+    "image_role": "brand-icon",
+    "image_url": "/assets/images/resources/phase-7a/partner-fora-financial.webp",
+    "provenance": "Public site icon supplied by forafinancial.com."
+  },
+  "partner-hubspot": {
+    "image_role": "brand-icon",
+    "image_url": "/assets/images/resources/phase-7a/partner-hubspot.webp",
+    "provenance": "Public site icon supplied by hubspot.com."
+  },
+  "partner-n8n": {
+    "image_role": "brand-icon",
+    "image_url": "/assets/images/resources/phase-7a/partner-n8n.webp",
+    "provenance": "Public site icon supplied by n8n.io."
+  },
+  "partner-new-silver": {
+    "image_role": "brand-icon",
+    "image_url": "/assets/images/resources/phase-7a/partner-new-silver.webp",
+    "provenance": "Public site icon supplied by newsilver.com."
+  },
   "partner-rok-financial": {
-    "image_url": "/assets/images/resources/phase-7a/rok-financial.webp",
     "image_role": "logo",
+    "image_url": "/assets/images/resources/phase-7a/rok-financial.webp",
     "provenance": "Existing ROK Financial logo in owner media library."
+  },
+  "partner-subto": {
+    "image_role": "brand-icon",
+    "image_url": "/assets/images/resources/phase-7a/partner-subto.webp",
+    "provenance": "Public site icon supplied by subto.com."
+  },
+  "partner-supabase": {
+    "image_role": "brand-icon",
+    "image_url": "/assets/images/resources/phase-7a/partner-supabase.webp",
+    "provenance": "Public site icon supplied by supabase.com."
+  },
+  "partner-tally": {
+    "image_role": "brand-icon",
+    "image_url": "/assets/images/resources/phase-7a/partner-tally.webp",
+    "provenance": "Public site icon supplied by tally.so."
+  },
+  "partner-uplyft-capital": {
+    "image_role": "brand-icon",
+    "image_url": "/assets/images/resources/phase-7a/partner-uplyft-capital.webp",
+    "provenance": "Public site icon supplied by uplyftcapital.com."
+  },
+  "partner-vercel": {
+    "image_role": "brand-icon",
+    "image_url": "/assets/images/resources/phase-7a/partner-vercel.webp",
+    "provenance": "Public site icon supplied by vercel.com."
+  },
+  "partner-wix": {
+    "image_role": "brand-icon",
+    "image_url": "/assets/images/resources/phase-7a/partner-wix.webp",
+    "provenance": "Public site icon supplied by wix.com."
   }
 }
