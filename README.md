@@ -41,7 +41,7 @@ The master registry contains 259 records. Phase 4 exports 29 connected resources
 - `registry/blueprint-assets.master.json`: source inventory.
 - `registry/public-release.json`: release selection.
 - `data/blueprint-public.json`: generated public catalog.
-- `data/partners.json`: existing mixed partner seed catalog.
+- `data/partners.json`: combined partner catalog; separate funding, affiliate and technology projections.
 - `scripts/generate-public-registry.mjs`: dependency-free JSON and HTML generator.
 - `downloads/`: original downloadable resources.
 
@@ -70,3 +70,9 @@ Separate funding providers, affiliate software, and independently recommended te
 ## Publication boundaries
 
 Educational examples are not funding offers or income promises. The registry folder is excluded from Vercel deployment by `.vercelignore`, not from GitHub visibility. Keep borrower and recruit CRM records, internal payout arrangements and private source links out of public exports. Repository visibility is managed separately.
+
+## Phase 5 — Partner ecosystem and registry enrichment
+
+Partner directories: `/partners/funding/`, `/partners/affiliates/`, `/partners/technology/`. 59 distinct entities, 41 funding listings, 38 affiliate-program listings and 18 technology listings (overlapping classifications). Affiliate status is source-recorded; recommendations do not imply affiliation.
+
+Public catalogs: funding-partners, affiliate-programs, recommended-tools, funding-products, calculators, ai-agents, ai-agent-concepts, applications and offers under `data/`. Includes 138 calculator specifications (119 original concepts matched), 25 GPT assets, 164 AI concepts, 24 public repository/deployment matches and 10 Moonshine offer concepts. No borrower or recruit CRM records imported. Concepts do not require live URLs. Deployment inventory links are not runtime guarantees. Phase 4 generator preserves the enriched calculator section; other Phase 5 catalogs are curated snapshots of upstream registries.

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "magnet-forge",
+    "title": "Magnet Forge",
+    "description": "Turn one source asset into a fast lead magnet that captures email and qualifies intent",
+    "audience": "Founders, brokers, affiliates",
+    "category": "Lead Magnet / Entry",
+    "status": "Development concept"
+  },
+  {
+    "id": "capital-readiness-brief",
+    "title": "Capital Readiness Brief",
+    "description": "Quick self-assessment that segments prospects by readiness and routes them to the right next step",
+    "audience": "Business owners exploring funding",
+    "category": "Assessment / Lead Qualifier",
+    "status": "Development concept"
+  },
+  {
+    "id": "workshop-funnel-starter",
+    "title": "Workshop Funnel Starter",
+    "description": "Turn one workshop or webinar into a replay funnel with CTA and follow-up",
+    "audience": "Educators, lenders, consultants, affiliates",
+    "category": "Funnel Build",
+    "status": "Development concept"
+  },
+  {
+    "id": "partner-recruiter-pack",
+    "title": "Partner Recruiter Pack",
+    "description": "Recruit affiliates faster with a deck, FAQ, landing page copy, and onboarding assets",
+    "audience": "Affiliate teams and recruiting partners",
+    "category": "Recruitment Enablement",
+    "status": "Development concept"
+  },
+  {
+    "id": "signal-sprint",
+    "title": "Signal Sprint",
+    "description": "Turn one source asset into a week or month of distribution-ready content",
+    "audience": "Funding agencies, partners, fintech creators",
+    "category": "Repurposing Sprint",
+    "status": "Development concept"
+  },
+  {
+    "id": "broker-brain-vault",
+    "title": "Broker Brain Vault",
+    "description": "Create an internal AI-ready knowledge base for training, objections, SOPs, and lender logic",
+    "audience": "Broker teams, affiliate orgs",
+    "category": "Knowledge Base",
+    "status": "Development concept"
+  },
+  {
+    "id": "funnel-stack-buildout",
+    "title": "Funnel Stack Buildout",
+    "description": "Build an educational pre-funding funnel that warms and qualifies leads",
+    "audience": "Founders and business owners preparing for funding",
+    "category": "Education Funnel",
+    "status": "Development concept"
+  },
+  {
+    "id": "narrative-kit",
+    "title": "Narrative Kit",
+    "description": "Package raw business info into cleaner lender-facing narrative assets",
+    "audience": "Fundraising/funding applicants",
+    "category": "Submission Support",
+    "status": "Development concept"
+  },
+  {
+    "id": "content-ops-install",
+    "title": "Content Ops Install",
+    "description": "Install an AI-driven content and lead magnet operating system for broker growth",
+    "audience": "Loan brokers, partner teams",
+    "category": "Flagship Ops Service",
+    "status": "Development concept"
+  },
+  {
+    "id": "submission-story-builder",
+    "title": "Submission Story Builder",
+    "description": "Create the story, memo, FAQ, and supporting assets behind a stronger submission package",
+    "audience": "Founders, acquirers, operators",
+    "category": "Premium Packaging",
+    "status": "Development concept"
+  }
+]
