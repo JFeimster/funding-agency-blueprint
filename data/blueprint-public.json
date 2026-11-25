@@ -21,7 +21,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-c85151fb910e3e",
@@ -37,7 +38,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-3f642d49a8ed95",
@@ -54,7 +56,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-7abf8d9b3e55df",
@@ -70,7 +73,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-80de1286a2c081",
@@ -86,7 +90,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-d3a257bcf5469f",
@@ -97,12 +102,18 @@
         "/automations/",
         "/resources/"
       ],
-      "label": "Source-linked video · playback untested",
+      "label": "Source-linked video · Wix companion article published",
       "url": "https://youtu.be/-KEEAlEBDO0",
-      "image_url": null,
-      "image_role": null,
+      "image_url": "https://static.wixstatic.com/media/d981d2_1f1a95b17058478789b563acd06d7b82~mv2.png",
+      "image_role": "video-thumbnail",
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": [
+        {
+          "label": "Published automation guide and templates",
+          "url": "https://www.distilledfunding.com/post/funding-agency-automation-n8n-templates"
+        }
+      ]
     },
     {
       "id": "bpa-73e2806f295852",
@@ -118,7 +129,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-60046de0f9c3fd",
@@ -129,12 +141,42 @@
         "/tools/",
         "/playbooks/"
       ],
-      "label": "Configured domain · runtime untested",
+      "label": "Application + public broker guide · companion sources verified",
       "url": "https://funding-product-matrix.vercel.app/",
       "image_url": "/assets/images/resources/funding-product-matrix.webp",
       "image_role": "document-cover",
       "download_url": "/downloads/funding-product-matrix-for-brokers.pdf",
-      "related_images": []
+      "related_images": [],
+      "companion_links": [
+        {
+          "label": "Canonical Tools Hub page",
+          "url": "https://tools.distilledfunding.com/funding-product-matrix"
+        },
+        {
+          "label": "Published broker guide",
+          "url": "https://www.distilledfunding.com/post/funding-product-matrix"
+        },
+        {
+          "label": "Source-linked YouTube breakdown",
+          "url": "https://youtu.be/d3llRn13oQ4"
+        },
+        {
+          "label": "One-page PDF",
+          "url": "https://raw.githubusercontent.com/JFeimster/funding-product-matrix/main/docs/funding-product-matrix-for-brokers-one-page.pdf"
+        },
+        {
+          "label": "CSV matrix",
+          "url": "https://raw.githubusercontent.com/JFeimster/funding-product-matrix/main/docs/funding-product-matrix-for-brokers.csv"
+        },
+        {
+          "label": "Excel matrix",
+          "url": "https://raw.githubusercontent.com/JFeimster/funding-product-matrix/main/docs/funding-product-matrix-for-brokers.xlsx"
+        },
+        {
+          "label": "GitHub Pages alternate",
+          "url": "https://jfeimster.github.io/funding-product-matrix/"
+        }
+      ]
     },
     {
       "id": "bpa-59a09ea9d7f29d",
@@ -149,7 +191,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-7c221447f5ee96",
@@ -160,12 +203,18 @@
         "/tools/",
         "/resources/"
       ],
-      "label": "Configured domain · runtime untested",
+      "label": "Vercel production READY · browser access not confirmed",
       "url": "https://tools.distilledfunding.com/",
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": [
+        {
+          "label": "Production alias",
+          "url": "https://distilled-funding-tools.vercel.app/"
+        }
+      ]
     },
     {
       "id": "bpa-e312b3aa9c0c44",
@@ -181,7 +230,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-2d4ef7af1bd9c9",
@@ -197,7 +247,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-9cacb6b489ec1a",
@@ -213,7 +264,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-1f5467041f5f20",
@@ -229,7 +281,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-6a64b5227cf263",
@@ -244,7 +297,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-239f8e40c44cac",
@@ -259,7 +313,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-28948e523f4969",
@@ -274,7 +329,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-d53960914e65cb",
@@ -289,7 +345,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-052e61bc083695",
@@ -305,7 +362,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-5f9e797600d69d",
@@ -320,7 +378,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-117c961695fca7",
@@ -337,7 +396,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-8a72d225f2689b",
@@ -354,7 +414,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-a2af1f00b9c96f",
@@ -370,7 +431,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-455fe70454d784",
@@ -386,7 +448,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "bpa-838ed58f0d1c40",
@@ -405,6 +468,20 @@
       "download_url": "/downloads/ai-loan-broker-stack-2026-operator-playbook.pdf",
       "related_images": [
         "/assets/images/resources/five-tool-starter-stack.webp"
+      ],
+      "companion_links": [
+        {
+          "label": "Tools Hub — gated editable version",
+          "url": "https://tools.distilledfunding.com/ai-loan-broker-stack"
+        },
+        {
+          "label": "Published article: 27 AI Tools",
+          "url": "https://www.distilledfunding.com/post/ai-tools-for-loan-brokers"
+        },
+        {
+          "label": "Source-listed companion video (not confirmed as 5-Tool video)",
+          "url": "https://youtu.be/1mD0qUNNR5E"
+        }
       ]
     },
     {
@@ -424,7 +501,34 @@
       "download_url": "/downloads/follow-up-script-pack-2026.pdf",
       "related_images": [
         "/assets/images/resources/automate-your-follow-ups.webp"
+      ],
+      "companion_links": [
+        {
+          "label": "Tools Hub — gated editable version",
+          "url": "https://tools.distilledfunding.com/follow-up-script-pack"
+        },
+        {
+          "label": "Published CRM automation article",
+          "url": "https://www.distilledfunding.com/post/ai-crm-automation-for-loan-brokers"
+        }
       ]
+    },
+    {
+      "id": "bpa-9a92854bbec44d",
+      "title": "Business Owner Discovery & Prospecting Playbook",
+      "description": "Question-led discovery, referral introduction prompts and follow-up checklist.",
+      "kind": "guide",
+      "routes": [
+        "/playbooks/",
+        "/start/"
+      ],
+      "label": "Upstream published · email unlock on Tools Hub · access check separate",
+      "url": "https://tools.distilledfunding.com/business-owner-discovery-playbook",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "editorial-ai-prompts",
@@ -436,12 +540,13 @@
         "/resources/",
         "/playbooks/"
       ],
-      "label": "Publisher article link · access untested",
+      "label": "Wix published · Nov 24, 2026",
       "url": "https://www.distilledfunding.com/post/ai-prompts-for-business-funding",
-      "image_url": null,
-      "image_role": null,
+      "image_url": "https://static.wixstatic.com/media/d981d2_f65fa23a30694c6ebc24a18ebd228126~mv2.png",
+      "image_role": "article-cover",
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "editorial-claude-skills",
@@ -452,12 +557,13 @@
         "/ai-lab/",
         "/resources/"
       ],
-      "label": "Publisher article link · access untested",
+      "label": "Wix published · Nov 19, 2026",
       "url": "https://www.distilledfunding.com/post/claude-skills-for-finance",
-      "image_url": null,
-      "image_role": null,
+      "image_url": "https://static.wixstatic.com/media/d981d2_9c1df9fa97144d21888907555972d11a~mv2.png",
+      "image_role": "article-cover",
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "editorial-registry-build",
@@ -473,7 +579,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "editorial-six-designs",
@@ -488,7 +595,8 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
     },
     {
       "id": "editorial-from-scratch",
@@ -505,7 +613,404 @@
       "image_url": null,
       "image_role": null,
       "download_url": null,
-      "related_images": []
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-loan-broker-vs-affiliate",
+      "title": "Loan Broker vs Affiliate: Which Business Model Actually Makes More Money?",
+      "description": "Compare the economics, responsibilities and tradeoffs of broker and affiliate models.",
+      "kind": "article",
+      "routes": [
+        "/blueprint/",
+        "/playbooks/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/loan-broker-vs-affiliate",
+      "image_url": "https://static.wixstatic.com/media/d981d2_5e1159b898a04df48a2e3b9232acc48d~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-ai-call-summaries-loan-brokers",
+      "title": "AI Call Summaries for Loan Brokers",
+      "description": "Turn funding conversations into structured notes, CRM tasks and follow-up.",
+      "kind": "article",
+      "routes": [
+        "/automations/",
+        "/ai-lab/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/ai-call-summaries-loan-brokers",
+      "image_url": "https://static.wixstatic.com/media/d981d2_a38201e5f1f94734acf8a5744e6cab43~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-alternative-lending-software",
+      "title": "Alternative Lending Software 2026",
+      "description": "Explore software platforms used by alternative lending brokers and funders.",
+      "kind": "article",
+      "routes": [
+        "/tools/",
+        "/resources/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/alternative-lending-software",
+      "image_url": "https://static.wixstatic.com/media/d981d2_a3f097d5dde34423a157fed2d3d441f5~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-ai-for-business-loan-brokers",
+      "title": "AI for Business Loan Brokers: What to Automate and What to Keep Human",
+      "description": "Separate automated workflows from tasks requiring human judgment and oversight.",
+      "kind": "article",
+      "routes": [
+        "/ai-lab/",
+        "/automations/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/ai-for-business-loan-brokers",
+      "image_url": "https://static.wixstatic.com/media/d981d2_1f82a10829be4a839966c79be2829854~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-mcp-servers-for-lending",
+      "title": "Best MCP Servers for Lending & Loan Brokers in 2026",
+      "description": "A published guide to MCP tools supporting lending and broker workflows.",
+      "kind": "article",
+      "routes": [
+        "/ai-lab/",
+        "/tools/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/mcp-servers-for-lending",
+      "image_url": "https://static.wixstatic.com/media/d981d2_9d92e1676e014ee4a872a3d60fa6050e~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-how-loan-brokers-can-use-ai",
+      "title": "How Loan Brokers Can Use AI Without Becoming Spam Goblins",
+      "description": "A guide to using AI for broker outreach without sacrificing human relationships.",
+      "kind": "article",
+      "routes": [
+        "/ai-lab/",
+        "/automations/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/how-loan-brokers-can-use-ai",
+      "image_url": "https://static.wixstatic.com/media/d981d2_9b85d3e21b3141b38220d4147c2d48d0~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-ai-crm-automation-for-loan-brokers",
+      "title": "AI CRM Automation for Loan Brokers",
+      "description": "Build follow-up systems around CRM stages, triggers and human escalation.",
+      "kind": "article",
+      "routes": [
+        "/automations/",
+        "/playbooks/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/ai-crm-automation-for-loan-brokers",
+      "image_url": "/assets/images/resources/ai-crm-automation-for-loan-brokers.webp",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-business-loan-broker-requirements-for-beginners-2026",
+      "title": "Business Loan Broker Requirements for Beginners (2026)",
+      "description": "An introduction to product knowledge, compliance awareness and lender relationships.",
+      "kind": "article",
+      "routes": [
+        "/start/",
+        "/blueprint/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/business-loan-broker-requirements-for-beginners-2026",
+      "image_url": "https://static.wixstatic.com/media/d981d2_74483d61b8c840c291ea4bb3861721ff~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-the-loan-broker-s-guide-to-residual-commissions-and-long-term-equity",
+      "title": "The Loan Broker’s Guide to Residual Commissions and Long-Term Equity",
+      "description": "Explore recurring revenue models and long-term relationship economics.",
+      "kind": "article",
+      "routes": [
+        "/playbooks/",
+        "/blueprint/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/the-loan-broker-s-guide-to-residual-commissions-and-long-term-equity",
+      "image_url": "https://static.wixstatic.com/media/d981d2_d701e2e3043348bba2c3826079752823~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-commercial-loan-broker-training",
+      "title": "Commercial Loan Broker Training: How to Close Your First Deal",
+      "description": "Publisher training article covering early broker development and deal execution.",
+      "kind": "article",
+      "routes": [
+        "/start/",
+        "/playbooks/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/commercial-loan-broker-training",
+      "image_url": "https://static.wixstatic.com/media/d981d2_e2f2798175ee4bfab97caf10cfec3e48~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-broker-in-a-box-vs-diy",
+      "title": "Broker-in-a-Box vs. Building Your Own Shop",
+      "description": "Compare joining an existing operating platform with building an independent agency.",
+      "kind": "article",
+      "routes": [
+        "/blueprint/",
+        "/start/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/broker-in-a-box-vs-diy",
+      "image_url": "https://static.wixstatic.com/media/d981d2_9a482f84f73a4db6bff2be6749a85d06~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "wix-ai-lead-generation-for-brokers",
+      "title": "AI Lead Generation for Brokers",
+      "description": "A published prospecting guide with a companion video; marketing outcomes are not guaranteed.",
+      "kind": "article",
+      "routes": [
+        "/ai-lab/",
+        "/playbooks/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/ai-lead-generation-for-brokers",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [
+        {
+          "label": "Wix source-linked video",
+          "url": "https://youtu.be/GzlgSQwWGfo"
+        }
+      ]
+    },
+    {
+      "id": "wix-how-to-build-a-commission-only-sales-team-the-no-bs-blueprint-for-recruiting-and-leading-sub-broker",
+      "title": "How to Build a Commission-Only Sales Team",
+      "description": "A guide to recruiting and developing sub-brokers.",
+      "kind": "article",
+      "routes": [
+        "/blueprint/",
+        "/playbooks/"
+      ],
+      "label": "Wix published article · 2026",
+      "url": "https://www.distilledfunding.com/post/how-to-build-a-commission-only-sales-team-the-no-bs-blueprint-for-recruiting-and-leading-sub-broker",
+      "image_url": "https://static.wixstatic.com/media/d981d2_8a964f361e964183802189bc9cd5e0e7~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "tools-funding-agent-30-day-sprint",
+      "title": "Funding Agent 30-Day Sprint Playbook",
+      "description": "A first-month execution system for turning outreach into conversations and deal opportunities.",
+      "kind": "guide",
+      "routes": [
+        "/start/",
+        "/playbooks/"
+      ],
+      "label": "Upstream published · email unlock on Tools Hub · access check separate",
+      "url": "https://tools.distilledfunding.com/funding-agent-30-day-sprint",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "tools-partner-7-day-activation-kit",
+      "title": "Partner 7-Day Activation Kit",
+      "description": "Eight day-by-day launch actions and completion checkpoints.",
+      "kind": "guide",
+      "routes": [
+        "/start/",
+        "/partners/"
+      ],
+      "label": "Upstream published · email unlock on Tools Hub · access check separate",
+      "url": "https://tools.distilledfunding.com/partner-7-day-activation-kit",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "tools-partner-ai-tools-quickstart",
+      "title": "Partner AI Tools Quickstart",
+      "description": "Tool selection by workflow, human oversight and AI resources.",
+      "kind": "guide",
+      "routes": [
+        "/ai-lab/",
+        "/playbooks/"
+      ],
+      "label": "Upstream published · free resource · access check separate",
+      "url": "https://tools.distilledfunding.com/partner-ai-tools-quickstart",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "tools-partner-sales-swipe-pack",
+      "title": "Partner Sales Swipe Pack — Original Outreach Scripts",
+      "description": "Editable prospecting, referral and reactivation messages with consent reminders.",
+      "kind": "guide",
+      "routes": [
+        "/playbooks/",
+        "/resources/"
+      ],
+      "label": "Upstream published · email unlock on Tools Hub · access check separate",
+      "url": "https://tools.distilledfunding.com/partner-sales-swipe-pack",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "tools-broker-objection-response-guide",
+      "title": "Funding Broker Objection-Handling Field Guide",
+      "description": "Practical objection responses, escalation and stop conditions.",
+      "kind": "guide",
+      "routes": [
+        "/playbooks/",
+        "/start/"
+      ],
+      "label": "Upstream published · email unlock on Tools Hub · access check separate",
+      "url": "https://tools.distilledfunding.com/broker-objection-response-guide",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "tools-client-relationship-followup-kit",
+      "title": "Client Relationship & Follow-Up Operations Kit",
+      "description": "Client-stage playbook, consent-aware follow-up and pipeline template.",
+      "kind": "guide",
+      "routes": [
+        "/automations/",
+        "/playbooks/"
+      ],
+      "label": "Upstream published · email unlock on Tools Hub · access check separate",
+      "url": "https://tools.distilledfunding.com/client-relationship-followup-kit",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "tools-partner-3p-recruitment-playbook",
+      "title": "Partner Recruitment & 3P Activation Playbook",
+      "description": "Partner recruitment, activation and accountability guidance.",
+      "kind": "guide",
+      "routes": [
+        "/partners/",
+        "/blueprint/"
+      ],
+      "label": "Upstream published · email unlock on Tools Hub · access check separate",
+      "url": "https://tools.distilledfunding.com/partner-3p-recruitment-playbook",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "tools-funding-deal-qualification-kit",
+      "title": "Funding Deal Qualification & Packaging Kit",
+      "description": "Screening worksheet, document readiness matrix and next-step checklist.",
+      "kind": "guide",
+      "routes": [
+        "/playbooks/",
+        "/tools/"
+      ],
+      "label": "Upstream published · email unlock on Tools Hub · access check separate",
+      "url": "https://tools.distilledfunding.com/funding-deal-qualification-kit",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "tools-funding-agent-revenue-calculator",
+      "title": "Funding Agent Revenue Calculator",
+      "description": "Reverse-engineer income goals into activity assumptions and funding volume.",
+      "kind": "guide",
+      "routes": [
+        "/tools/",
+        "/playbooks/"
+      ],
+      "label": "Upstream published · email unlock on Tools Hub · access check separate",
+      "url": "https://tools.distilledfunding.com/funding-agent-revenue-calculator",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
+    },
+    {
+      "id": "tools-crm-graveyard-recovery-kit",
+      "title": "CRM Graveyard Recovery Kit",
+      "description": "A nine-file recovery stack for stale leads and human-reviewed follow-up.",
+      "kind": "guide",
+      "routes": [
+        "/automations/",
+        "/playbooks/"
+      ],
+      "label": "Upstream published · email unlock on Tools Hub · access check separate",
+      "url": "https://tools.distilledfunding.com/crm-graveyard-recovery-kit",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": []
     }
   ],
   "toolConcepts": [

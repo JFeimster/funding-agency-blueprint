@@ -18,6 +18,8 @@
       "url": "https://www.7figurescredit.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -51,6 +53,8 @@
       "url": "https://www.7figuresfunding.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -82,6 +86,8 @@
       "url": "https://8fig.co/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -106,6 +112,8 @@
       "url": "https://badcreditloans.com",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -145,6 +153,8 @@
       "url": "https://bankbreezy.com/",
       "affiliate_url": "https://bankbreezy.com/jason/",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -173,6 +183,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -203,6 +215,8 @@
       "url": "https://capchase.com/",
       "affiliate_url": "https://capchase.com/referrals?referralId=395c26d9",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -230,6 +244,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -256,6 +272,8 @@
       "url": null,
       "affiliate_url": "https://fxo.co/IwM9",
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -279,6 +297,8 @@
       "url": "https://chatgpt.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "platform_access_unconfirmed",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -305,6 +325,8 @@
       "url": "https://clear.co/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -337,6 +359,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -365,6 +389,8 @@
       "url": "https://creditsuite.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -403,6 +429,8 @@
       "url": "https://davidallencapital.com",
       "affiliate_url": "https://davidallencapital.com/jason/",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "access_or_rate_limit",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -430,6 +458,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -456,6 +486,8 @@
       "url": null,
       "affiliate_url": "https://equitynetinc.sjv.io/Kj1aOv",
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -482,6 +514,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -513,6 +547,8 @@
       "url": "https://www.forafinancial.com/",
       "affiliate_url": "https://forafinancial.pxf.io/c/2229127/2015280/24953",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -536,6 +572,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -567,6 +605,8 @@
       "url": "https://www.fundandgrow.com/",
       "affiliate_url": "https://www.fundandgrow.com/jasonfeimster/",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -598,6 +638,8 @@
       "url": "https://www.fundandgrow.com/",
       "affiliate_url": "https://www.fundandgrow.com/jasonfeimster/",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -621,6 +663,8 @@
       "url": "https://fundera.com",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -652,6 +696,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -675,6 +721,8 @@
       "url": "https://github.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "possible_gate_or_soft_error",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -714,6 +762,8 @@
       "url": "https://gokapital.com",
       "affiliate_url": null,
       "image_url": "/assets/images/resources/gokapital.png",
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": "logo",
       "download_url": null,
       "related_images": []
@@ -744,6 +794,8 @@
       "url": null,
       "affiliate_url": "https://www.gfprequal.com/mc",
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -767,6 +819,8 @@
       "url": "https://www.hubspot.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -791,6 +845,8 @@
       "url": null,
       "affiliate_url": "https://try.kiavi.com/wc6dxe4vsra5",
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -815,6 +871,8 @@
       "url": "https://www.kriya.co/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -842,6 +900,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -870,6 +930,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": "/assets/images/resources/lendio.jpg",
+      "companion_links": [],
+      "link_status": null,
       "image_role": "logo",
       "download_url": null,
       "related_images": []
@@ -893,6 +955,8 @@
       "url": "https://maxlend.com",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_error",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -914,6 +978,8 @@
       "url": "https://myfigures.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -937,6 +1003,8 @@
       "url": "https://n8n.io/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -960,6 +1028,8 @@
       "url": "https://www.nav.com/",
       "affiliate_url": null,
       "image_url": "/assets/images/resources/nav-white.webp",
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": "logo",
       "download_url": null,
       "related_images": []
@@ -989,6 +1059,8 @@
       "url": "https://newsilver.com/",
       "affiliate_url": "https://fxo.co/ItIN",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1012,6 +1084,8 @@
       "url": "https://www.notion.so/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "not_checked",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1043,6 +1117,8 @@
       "url": "https://www.onrampfunds.com/",
       "affiliate_url": null,
       "image_url": "/assets/images/resources/onramp.png",
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": "logo",
       "download_url": null,
       "related_images": []
@@ -1074,6 +1150,8 @@
       "url": "https://opmmastery.com",
       "affiliate_url": "https://opmmastery.referralrock.com/v2/1",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "access_or_rate_limit",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1097,6 +1175,8 @@
       "url": "https://www.getparker.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_not_found",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1128,6 +1208,8 @@
       "url": "https://payability.com",
       "affiliate_url": "https://fas.st/t/P7LZc7v7",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "redirect_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1152,6 +1234,8 @@
       "url": "https://personallaons.com/",
       "affiliate_url": "https://fxo.co/IpnR",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "unconfirmed",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1180,6 +1264,8 @@
       "url": null,
       "affiliate_url": "https://api.fintelconnect.com/t/l/645b368ec92e38001ba614ac",
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1213,6 +1299,8 @@
       "url": "https://www.rok.biz/",
       "affiliate_url": "https://go.mypartner.io/business-financing/?ref=0014x00000H3JAsAAN",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1242,6 +1330,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1266,6 +1356,8 @@
       "url": null,
       "affiliate_url": "https://fxo.co/IqZE",
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1294,6 +1386,8 @@
       "url": null,
       "affiliate_url": "https://fxo.co/IwSM",
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1319,6 +1413,8 @@
       "url": "https://www.subto.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1342,6 +1438,8 @@
       "url": "https://supabase.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1366,6 +1464,8 @@
       "url": null,
       "affiliate_url": "https://fxo.co/IwMA",
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1389,6 +1489,8 @@
       "url": "https://tally.so/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1423,6 +1525,8 @@
       "url": null,
       "affiliate_url": "https://lp.thefinancefactory.com/lp/r/6018",
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1451,6 +1555,8 @@
       "url": "https://weareuncapped.com",
       "affiliate_url": "https://portal.weareuncapped.com/registration?referral=moonshinecapital",
       "image_url": "/assets/images/resources/uncapped.png",
+      "companion_links": [],
+      "link_status": "possible_gate_or_soft_error",
       "image_role": "logo",
       "download_url": null,
       "related_images": []
@@ -1482,6 +1588,8 @@
       "url": "https://uplyftcapital.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1514,6 +1622,8 @@
       "url": "https://www.upstart.com/",
       "affiliate_url": "https://upstart.9c65.net/qnKBjj",
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1537,6 +1647,8 @@
       "url": "https://vercel.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1567,6 +1679,8 @@
       "url": "https://visiolending.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1590,6 +1704,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1613,6 +1729,8 @@
       "url": "https://www.wix.com/",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1634,6 +1752,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1655,6 +1775,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1676,6 +1798,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1697,6 +1821,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1718,6 +1844,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1739,6 +1867,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1760,6 +1890,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1781,6 +1913,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1802,6 +1936,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1823,6 +1959,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1844,6 +1982,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1865,6 +2005,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1886,6 +2028,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1907,6 +2051,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1928,6 +2074,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1949,6 +2097,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1970,6 +2120,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -1991,6 +2143,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2012,6 +2166,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2033,6 +2189,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2054,6 +2212,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2075,6 +2235,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2096,6 +2258,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2117,6 +2281,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2138,6 +2304,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2159,6 +2327,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2180,6 +2350,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2201,6 +2373,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2222,6 +2396,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2243,6 +2419,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2264,6 +2442,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2285,6 +2465,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2306,6 +2488,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2327,6 +2511,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2348,6 +2534,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2369,6 +2557,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2390,6 +2580,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2411,6 +2603,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2432,6 +2626,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2453,6 +2649,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2474,6 +2672,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2495,6 +2695,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2516,6 +2718,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2537,6 +2741,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2558,6 +2764,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2579,6 +2787,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2600,6 +2810,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2621,6 +2833,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2642,6 +2856,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2663,6 +2879,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2684,6 +2902,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2705,6 +2925,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2726,6 +2948,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2747,6 +2971,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2768,6 +2994,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2789,6 +3017,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2810,6 +3040,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2831,6 +3063,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2852,6 +3086,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2873,6 +3109,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2894,6 +3132,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2915,6 +3155,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2936,6 +3178,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2957,6 +3201,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2978,6 +3224,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -2999,6 +3247,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3020,6 +3270,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3041,6 +3293,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3062,6 +3316,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3083,6 +3339,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3104,6 +3362,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3125,6 +3385,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3146,6 +3408,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3167,6 +3431,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3188,6 +3454,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3209,6 +3477,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3230,6 +3500,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3251,6 +3523,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3272,6 +3546,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3293,6 +3569,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3314,6 +3592,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3335,6 +3615,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3356,6 +3638,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3377,6 +3661,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3398,6 +3684,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3419,6 +3707,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3440,6 +3730,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3461,6 +3753,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3482,6 +3776,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3503,6 +3799,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3524,6 +3822,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3545,6 +3845,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3566,6 +3868,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3587,6 +3891,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3608,6 +3914,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3629,6 +3937,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3650,6 +3960,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3671,6 +3983,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3692,6 +4006,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3713,6 +4029,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3734,6 +4052,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3755,6 +4075,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3776,6 +4098,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3797,6 +4121,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3818,6 +4144,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3839,6 +4167,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3860,6 +4190,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3881,6 +4213,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3902,6 +4236,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3923,6 +4259,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3944,6 +4282,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3965,6 +4305,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -3986,6 +4328,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4007,6 +4351,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4028,6 +4374,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4049,6 +4397,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4070,6 +4420,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4091,6 +4443,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4112,6 +4466,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4133,6 +4489,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4154,6 +4512,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4175,6 +4535,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4196,6 +4558,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4217,6 +4581,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4238,6 +4604,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4259,6 +4627,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4280,6 +4650,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4301,6 +4673,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4322,6 +4696,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4343,6 +4719,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4364,6 +4742,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4385,6 +4765,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4406,6 +4788,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4427,6 +4811,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4448,6 +4834,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4469,6 +4857,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4490,6 +4880,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4511,6 +4903,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4538,6 +4932,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "platform_access_unconfirmed",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4563,6 +4959,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4588,6 +4986,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4614,6 +5014,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4639,6 +5041,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4665,6 +5069,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4691,6 +5097,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4716,6 +5124,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4726,13 +5136,13 @@
       "kind": "gpt",
       "title": "Loan Broker Automation Architect GPT",
       "description": "Designs automation systems for loan brokers, funding agencies, and broker operations.",
-      "status": "In Development",
+      "status": "Source-listed GPT · access unconfirmed",
       "categories": [
         "Productivity & Automation",
         "Business Operations",
         "Sales & Client Relations"
       ],
-      "url": null,
+      "url": "https://chatgpt.com/g/g-6a214c8c41d48191bebafa39c853412f-loan-broker-automation-architect",
       "outputs": [
         "Automation map",
         "Trigger/action logic",
@@ -4743,6 +5153,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "platform_access_unconfirmed",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4769,6 +5181,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4795,6 +5209,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4821,6 +5237,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4847,6 +5265,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4873,6 +5293,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4898,6 +5320,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4923,6 +5347,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4948,6 +5374,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -4974,6 +5402,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5000,6 +5430,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5025,6 +5457,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5051,6 +5485,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "platform_access_unconfirmed",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5078,6 +5514,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5104,6 +5542,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5131,6 +5571,8 @@
       ],
       "affiliate_url": null,
       "image_url": "/assets/images/resources/automate-your-follow-ups.webp",
+      "companion_links": [],
+      "link_status": "platform_access_unconfirmed",
       "image_role": "illustration",
       "download_url": null,
       "related_images": [
@@ -5160,6 +5602,8 @@
       ],
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5178,6 +5622,8 @@
       "repository_url": "https://github.com/JFeimster/Onboarding",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5196,6 +5642,8 @@
       "repository_url": "https://github.com/JFeimster/staged-funding",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5214,6 +5662,8 @@
       "repository_url": "https://github.com/JFeimster/estimator",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5232,6 +5682,8 @@
       "repository_url": "https://github.com/JFeimster/moonshine-capital",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5250,6 +5702,8 @@
       "repository_url": "https://github.com/JFeimster/ai-funding-coach",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5268,6 +5722,8 @@
       "repository_url": "https://github.com/JFeimster/Moonsine-Partner-Page",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5286,6 +5742,8 @@
       "repository_url": "https://github.com/JFeimster/DAC-Comp",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5304,6 +5762,8 @@
       "repository_url": "https://github.com/JFeimster/DAC-pay",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5322,6 +5782,8 @@
       "repository_url": "https://github.com/JFeimster/PartnerHub",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5340,6 +5802,8 @@
       "repository_url": "https://github.com/JFeimster/moonshine-ai-directory",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5358,6 +5822,8 @@
       "repository_url": "https://github.com/JFeimster/amazon-payout-unlocker",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5376,6 +5842,8 @@
       "repository_url": "https://github.com/JFeimster/Funding-Any-Reason",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5394,6 +5862,8 @@
       "repository_url": "https://github.com/JFeimster/affiliate-launch-kit-generator",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5412,6 +5882,8 @@
       "repository_url": "https://github.com/JFeimster/funding-embed",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5430,6 +5902,8 @@
       "repository_url": "https://github.com/JFeimster/operator-funding-site",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5448,6 +5922,8 @@
       "repository_url": "https://github.com/JFeimster/moonshine-broker",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5466,6 +5942,8 @@
       "repository_url": "https://github.com/JFeimster/moonshine-funding-static",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5484,6 +5962,8 @@
       "repository_url": "https://github.com/JFeimster/FinOps-AI-Agents",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5502,6 +5982,8 @@
       "repository_url": "https://github.com/JFeimster/agency-lab",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5520,6 +6002,8 @@
       "repository_url": "https://github.com/JFeimster/cashflow",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5538,6 +6022,8 @@
       "repository_url": "https://github.com/JFeimster/Agent-Hunt",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5556,6 +6042,8 @@
       "repository_url": "https://github.com/JFeimster/start-your-agency",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5574,6 +6062,8 @@
       "repository_url": "https://github.com/JFeimster/CapitalStack",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5592,6 +6082,8 @@
       "repository_url": "https://github.com/JFeimster/funding-ceo",
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": "http_reachable",
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5610,6 +6102,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5628,6 +6122,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5646,6 +6142,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5664,6 +6162,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5682,6 +6182,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5700,6 +6202,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5718,6 +6222,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5736,6 +6242,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5754,6 +6262,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5772,6 +6282,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5790,6 +6302,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5808,6 +6322,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5826,6 +6342,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5844,6 +6362,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5862,6 +6382,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5880,6 +6402,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5898,6 +6422,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5916,6 +6442,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5934,6 +6462,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5952,6 +6482,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5970,6 +6502,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -5988,6 +6522,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6006,6 +6542,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6024,6 +6562,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6042,6 +6582,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6060,6 +6602,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6078,6 +6622,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6096,6 +6642,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6114,6 +6662,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6132,6 +6682,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6150,6 +6702,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6168,6 +6722,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6186,6 +6742,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6204,6 +6762,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6222,6 +6782,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6240,6 +6802,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6258,6 +6822,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6276,6 +6842,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6294,6 +6862,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6312,6 +6882,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6330,6 +6902,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6348,6 +6922,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6366,6 +6942,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6384,6 +6962,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6402,6 +6982,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6420,6 +7002,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6438,6 +7022,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6456,6 +7042,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6474,6 +7062,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6492,6 +7082,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6510,6 +7102,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6528,6 +7122,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6546,6 +7142,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6564,6 +7162,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6582,6 +7182,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6600,6 +7202,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6618,6 +7222,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6636,6 +7242,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6654,6 +7262,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6672,6 +7282,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6690,6 +7302,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6708,6 +7322,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6726,6 +7342,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6744,6 +7362,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6762,6 +7382,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6780,6 +7402,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6798,6 +7422,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6816,6 +7442,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6834,6 +7462,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6852,6 +7482,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6870,6 +7502,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6888,6 +7522,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6906,6 +7542,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6924,6 +7562,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6942,6 +7582,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6960,6 +7602,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6978,6 +7622,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -6996,6 +7642,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7014,6 +7662,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7032,6 +7682,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7050,6 +7702,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7068,6 +7722,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7086,6 +7742,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7104,6 +7762,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7122,6 +7782,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7140,6 +7802,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7158,6 +7822,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7176,6 +7842,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7194,6 +7862,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7212,6 +7882,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7230,6 +7902,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7248,6 +7922,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7266,6 +7942,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7284,6 +7962,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7302,6 +7982,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7320,6 +8002,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7338,6 +8022,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7356,6 +8042,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7374,6 +8062,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7392,6 +8082,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7410,6 +8102,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7428,6 +8122,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7446,6 +8142,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7464,6 +8162,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7482,6 +8182,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7500,6 +8202,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7518,6 +8222,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7536,6 +8242,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7554,6 +8262,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7572,6 +8282,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7590,6 +8302,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7608,6 +8322,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7626,6 +8342,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7644,6 +8362,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7662,6 +8382,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7680,6 +8402,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7698,6 +8422,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7716,6 +8442,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7734,6 +8462,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7752,6 +8482,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7770,6 +8502,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7788,6 +8522,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7806,6 +8542,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7824,6 +8562,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7842,6 +8582,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7860,6 +8602,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7878,6 +8622,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7896,6 +8642,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7914,6 +8662,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7932,6 +8682,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7950,6 +8702,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7968,6 +8722,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -7986,6 +8742,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8004,6 +8762,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8022,6 +8782,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8040,6 +8802,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8058,6 +8822,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8076,6 +8842,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8094,6 +8862,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8112,6 +8882,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8130,6 +8902,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8148,6 +8922,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8166,6 +8942,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8184,6 +8962,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8202,6 +8982,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8220,6 +9002,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8238,6 +9022,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8256,6 +9042,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8274,6 +9062,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8292,6 +9082,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8310,6 +9102,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8328,6 +9122,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8346,6 +9142,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8364,6 +9162,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8382,6 +9182,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8400,6 +9202,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8418,6 +9222,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8436,6 +9242,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8454,6 +9262,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8472,6 +9282,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8490,6 +9302,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8508,6 +9322,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8526,6 +9342,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8544,6 +9362,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8563,6 +9383,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8582,6 +9404,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8601,6 +9425,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8620,6 +9446,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8639,6 +9467,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8658,6 +9488,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8677,6 +9509,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8696,6 +9530,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8715,6 +9551,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8734,6 +9572,8 @@
       "url": null,
       "affiliate_url": null,
       "image_url": null,
+      "companion_links": [],
+      "link_status": null,
       "image_role": null,
       "download_url": null,
       "related_images": []
@@ -8755,7 +9595,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "platform_access_unconfirmed"
     },
     {
       "id": "resource-bpa-80de1286a2c081",
@@ -8774,7 +9616,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "platform_access_unconfirmed"
     },
     {
       "id": "resource-bpa-d3a257bcf5469f",
@@ -8782,18 +9626,25 @@
       "kind": "resource",
       "title": "Funding Agency Automations — Video",
       "description": "A video associated with the agency automation playbook. Map your own process using the companion workflow checklist.",
-      "status": "Source-linked video · playback untested",
+      "status": "Source-linked video · Wix companion article published",
       "categories": [],
       "url": "https://youtu.be/-KEEAlEBDO0",
       "routes": [
         "/automations/",
         "/resources/"
       ],
-      "image_url": null,
-      "image_role": null,
+      "image_url": "https://static.wixstatic.com/media/d981d2_1f1a95b17058478789b563acd06d7b82~mv2.png",
+      "image_role": "video-thumbnail",
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [
+        {
+          "label": "Published automation guide and templates",
+          "url": "https://www.distilledfunding.com/post/funding-agency-automation-n8n-templates"
+        }
+      ],
+      "affiliate_url": null,
+      "link_status": "platform_access_unconfirmed"
     },
     {
       "id": "resource-bpa-73e2806f295852",
@@ -8812,7 +9663,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-60046de0f9c3fd",
@@ -8820,7 +9673,7 @@
       "kind": "resource",
       "title": "Funding Product Matrix",
       "description": "Explore the existing Funding Product Matrix application and its comprehensive 20-page broker guide. Confirm current provider criteria independently.",
-      "status": "Configured domain · runtime untested",
+      "status": "Application + public broker guide · companion sources verified",
       "categories": [],
       "url": "https://funding-product-matrix.vercel.app/",
       "routes": [
@@ -8831,7 +9684,38 @@
       "image_role": "document-cover",
       "download_url": "/downloads/funding-product-matrix-for-brokers.pdf",
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [
+        {
+          "label": "Canonical Tools Hub page",
+          "url": "https://tools.distilledfunding.com/funding-product-matrix"
+        },
+        {
+          "label": "Published broker guide",
+          "url": "https://www.distilledfunding.com/post/funding-product-matrix"
+        },
+        {
+          "label": "Source-linked YouTube breakdown",
+          "url": "https://youtu.be/d3llRn13oQ4"
+        },
+        {
+          "label": "One-page PDF",
+          "url": "https://raw.githubusercontent.com/JFeimster/funding-product-matrix/main/docs/funding-product-matrix-for-brokers-one-page.pdf"
+        },
+        {
+          "label": "CSV matrix",
+          "url": "https://raw.githubusercontent.com/JFeimster/funding-product-matrix/main/docs/funding-product-matrix-for-brokers.csv"
+        },
+        {
+          "label": "Excel matrix",
+          "url": "https://raw.githubusercontent.com/JFeimster/funding-product-matrix/main/docs/funding-product-matrix-for-brokers.xlsx"
+        },
+        {
+          "label": "GitHub Pages alternate",
+          "url": "https://jfeimster.github.io/funding-product-matrix/"
+        }
+      ],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-59a09ea9d7f29d",
@@ -8849,7 +9733,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-7c221447f5ee96",
@@ -8857,7 +9743,7 @@
       "kind": "resource",
       "title": "Distilled Funding Tools",
       "description": "Visit the existing Moonshine Capital tools hub.",
-      "status": "Configured domain · runtime untested",
+      "status": "Vercel production READY · browser access not confirmed",
       "categories": [],
       "url": "https://tools.distilledfunding.com/",
       "routes": [
@@ -8868,7 +9754,14 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [
+        {
+          "label": "Production alias",
+          "url": "https://distilled-funding-tools.vercel.app/"
+        }
+      ],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-e312b3aa9c0c44",
@@ -8887,7 +9780,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-2d4ef7af1bd9c9",
@@ -8906,7 +9801,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-9cacb6b489ec1a",
@@ -8925,7 +9822,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-1f5467041f5f20",
@@ -8944,7 +9843,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-6a64b5227cf263",
@@ -8962,7 +9863,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-28948e523f4969",
@@ -8980,7 +9883,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-d53960914e65cb",
@@ -8998,7 +9903,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-052e61bc083695",
@@ -9017,7 +9924,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-5f9e797600d69d",
@@ -9035,7 +9944,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-bpa-117c961695fca7",
@@ -9055,7 +9966,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "local"
     },
     {
       "id": "resource-bpa-8a72d225f2689b",
@@ -9075,7 +9988,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "local"
     },
     {
       "id": "resource-bpa-a2af1f00b9c96f",
@@ -9094,7 +10009,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "local"
     },
     {
       "id": "resource-bpa-838ed58f0d1c40",
@@ -9116,7 +10033,22 @@
       "related_images": [
         "/assets/images/resources/five-tool-starter-stack.webp"
       ],
-      "affiliate_url": null
+      "companion_links": [
+        {
+          "label": "Tools Hub — gated editable version",
+          "url": "https://tools.distilledfunding.com/ai-loan-broker-stack"
+        },
+        {
+          "label": "Published article: 27 AI Tools",
+          "url": "https://www.distilledfunding.com/post/ai-tools-for-loan-brokers"
+        },
+        {
+          "label": "Source-listed companion video (not confirmed as 5-Tool video)",
+          "url": "https://youtu.be/1mD0qUNNR5E"
+        }
+      ],
+      "affiliate_url": null,
+      "link_status": "local"
     },
     {
       "id": "resource-bpa-follow-up-script-pack-2026",
@@ -9138,7 +10070,39 @@
       "related_images": [
         "/assets/images/resources/automate-your-follow-ups.webp"
       ],
-      "affiliate_url": null
+      "companion_links": [
+        {
+          "label": "Tools Hub — gated editable version",
+          "url": "https://tools.distilledfunding.com/follow-up-script-pack"
+        },
+        {
+          "label": "Published CRM automation article",
+          "url": "https://www.distilledfunding.com/post/ai-crm-automation-for-loan-brokers"
+        }
+      ],
+      "affiliate_url": null,
+      "link_status": "local"
+    },
+    {
+      "id": "resource-bpa-9a92854bbec44d",
+      "source_id": "bpa-9a92854bbec44d",
+      "kind": "resource",
+      "title": "Business Owner Discovery & Prospecting Playbook",
+      "description": "Question-led discovery, referral introduction prompts and follow-up checklist.",
+      "status": "Upstream published · email unlock on Tools Hub · access check separate",
+      "categories": [],
+      "url": "https://tools.distilledfunding.com/business-owner-discovery-playbook",
+      "routes": [
+        "/playbooks/",
+        "/start/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     },
     {
       "id": "resource-editorial-ai-prompts",
@@ -9146,7 +10110,7 @@
       "kind": "resource",
       "title": "AI Prompts for Business Funding",
       "description": "A Moonshine Capital article on practical AI prompt templates for funding work.",
-      "status": "Publisher article link · access untested",
+      "status": "Wix published · Nov 24, 2026",
       "categories": [],
       "url": "https://www.distilledfunding.com/post/ai-prompts-for-business-funding",
       "routes": [
@@ -9154,11 +10118,13 @@
         "/resources/",
         "/playbooks/"
       ],
-      "image_url": null,
-      "image_role": null,
+      "image_url": "https://static.wixstatic.com/media/d981d2_f65fa23a30694c6ebc24a18ebd228126~mv2.png",
+      "image_role": "article-cover",
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
     },
     {
       "id": "resource-editorial-claude-skills",
@@ -9166,18 +10132,20 @@
       "kind": "resource",
       "title": "Claude Skills for Finance",
       "description": "A companion publisher article on finance-focused Claude Skills.",
-      "status": "Publisher article link · access untested",
+      "status": "Wix published · Nov 19, 2026",
       "categories": [],
       "url": "https://www.distilledfunding.com/post/claude-skills-for-finance",
       "routes": [
         "/ai-lab/",
         "/resources/"
       ],
-      "image_url": null,
-      "image_role": null,
+      "image_url": "https://static.wixstatic.com/media/d981d2_9c1df9fa97144d21888907555972d11a~mv2.png",
+      "image_role": "article-cover",
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
     },
     {
       "id": "resource-editorial-registry-build",
@@ -9196,7 +10164,9 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "local"
     },
     {
       "id": "resource-editorial-six-designs",
@@ -9214,71 +10184,578 @@
       "image_role": null,
       "download_url": null,
       "related_images": [],
-      "affiliate_url": null
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "local"
+    },
+    {
+      "id": "resource-wix-loan-broker-vs-affiliate",
+      "source_id": "wix-loan-broker-vs-affiliate",
+      "kind": "resource",
+      "title": "Loan Broker vs Affiliate: Which Business Model Actually Makes More Money?",
+      "description": "Compare the economics, responsibilities and tradeoffs of broker and affiliate models.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/loan-broker-vs-affiliate",
+      "routes": [
+        "/blueprint/",
+        "/playbooks/"
+      ],
+      "image_url": "https://static.wixstatic.com/media/d981d2_5e1159b898a04df48a2e3b9232acc48d~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-ai-call-summaries-loan-brokers",
+      "source_id": "wix-ai-call-summaries-loan-brokers",
+      "kind": "resource",
+      "title": "AI Call Summaries for Loan Brokers",
+      "description": "Turn funding conversations into structured notes, CRM tasks and follow-up.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/ai-call-summaries-loan-brokers",
+      "routes": [
+        "/automations/",
+        "/ai-lab/"
+      ],
+      "image_url": "https://static.wixstatic.com/media/d981d2_a38201e5f1f94734acf8a5744e6cab43~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-alternative-lending-software",
+      "source_id": "wix-alternative-lending-software",
+      "kind": "resource",
+      "title": "Alternative Lending Software 2026",
+      "description": "Explore software platforms used by alternative lending brokers and funders.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/alternative-lending-software",
+      "routes": [
+        "/tools/",
+        "/resources/"
+      ],
+      "image_url": "https://static.wixstatic.com/media/d981d2_a3f097d5dde34423a157fed2d3d441f5~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-ai-for-business-loan-brokers",
+      "source_id": "wix-ai-for-business-loan-brokers",
+      "kind": "resource",
+      "title": "AI for Business Loan Brokers: What to Automate and What to Keep Human",
+      "description": "Separate automated workflows from tasks requiring human judgment and oversight.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/ai-for-business-loan-brokers",
+      "routes": [
+        "/ai-lab/",
+        "/automations/"
+      ],
+      "image_url": "https://static.wixstatic.com/media/d981d2_1f82a10829be4a839966c79be2829854~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-mcp-servers-for-lending",
+      "source_id": "wix-mcp-servers-for-lending",
+      "kind": "resource",
+      "title": "Best MCP Servers for Lending & Loan Brokers in 2026",
+      "description": "A published guide to MCP tools supporting lending and broker workflows.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/mcp-servers-for-lending",
+      "routes": [
+        "/ai-lab/",
+        "/tools/"
+      ],
+      "image_url": "https://static.wixstatic.com/media/d981d2_9d92e1676e014ee4a872a3d60fa6050e~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-how-loan-brokers-can-use-ai",
+      "source_id": "wix-how-loan-brokers-can-use-ai",
+      "kind": "resource",
+      "title": "How Loan Brokers Can Use AI Without Becoming Spam Goblins",
+      "description": "A guide to using AI for broker outreach without sacrificing human relationships.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/how-loan-brokers-can-use-ai",
+      "routes": [
+        "/ai-lab/",
+        "/automations/"
+      ],
+      "image_url": "https://static.wixstatic.com/media/d981d2_9b85d3e21b3141b38220d4147c2d48d0~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-ai-crm-automation-for-loan-brokers",
+      "source_id": "wix-ai-crm-automation-for-loan-brokers",
+      "kind": "resource",
+      "title": "AI CRM Automation for Loan Brokers",
+      "description": "Build follow-up systems around CRM stages, triggers and human escalation.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/ai-crm-automation-for-loan-brokers",
+      "routes": [
+        "/automations/",
+        "/playbooks/"
+      ],
+      "image_url": "/assets/images/resources/ai-crm-automation-for-loan-brokers.webp",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-business-loan-broker-requirements-for-beginners-2026",
+      "source_id": "wix-business-loan-broker-requirements-for-beginners-2026",
+      "kind": "resource",
+      "title": "Business Loan Broker Requirements for Beginners (2026)",
+      "description": "An introduction to product knowledge, compliance awareness and lender relationships.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/business-loan-broker-requirements-for-beginners-2026",
+      "routes": [
+        "/start/",
+        "/blueprint/"
+      ],
+      "image_url": "https://static.wixstatic.com/media/d981d2_74483d61b8c840c291ea4bb3861721ff~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-the-loan-broker-s-guide-to-residual-commissions-and-long-term-equity",
+      "source_id": "wix-the-loan-broker-s-guide-to-residual-commissions-and-long-term-equity",
+      "kind": "resource",
+      "title": "The Loan Broker’s Guide to Residual Commissions and Long-Term Equity",
+      "description": "Explore recurring revenue models and long-term relationship economics.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/the-loan-broker-s-guide-to-residual-commissions-and-long-term-equity",
+      "routes": [
+        "/playbooks/",
+        "/blueprint/"
+      ],
+      "image_url": "https://static.wixstatic.com/media/d981d2_d701e2e3043348bba2c3826079752823~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-commercial-loan-broker-training",
+      "source_id": "wix-commercial-loan-broker-training",
+      "kind": "resource",
+      "title": "Commercial Loan Broker Training: How to Close Your First Deal",
+      "description": "Publisher training article covering early broker development and deal execution.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/commercial-loan-broker-training",
+      "routes": [
+        "/start/",
+        "/playbooks/"
+      ],
+      "image_url": "https://static.wixstatic.com/media/d981d2_e2f2798175ee4bfab97caf10cfec3e48~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-broker-in-a-box-vs-diy",
+      "source_id": "wix-broker-in-a-box-vs-diy",
+      "kind": "resource",
+      "title": "Broker-in-a-Box vs. Building Your Own Shop",
+      "description": "Compare joining an existing operating platform with building an independent agency.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/broker-in-a-box-vs-diy",
+      "routes": [
+        "/blueprint/",
+        "/start/"
+      ],
+      "image_url": "https://static.wixstatic.com/media/d981d2_9a482f84f73a4db6bff2be6749a85d06~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-ai-lead-generation-for-brokers",
+      "source_id": "wix-ai-lead-generation-for-brokers",
+      "kind": "resource",
+      "title": "AI Lead Generation for Brokers",
+      "description": "A published prospecting guide with a companion video; marketing outcomes are not guaranteed.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/ai-lead-generation-for-brokers",
+      "routes": [
+        "/ai-lab/",
+        "/playbooks/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [
+        {
+          "label": "Wix source-linked video",
+          "url": "https://youtu.be/GzlgSQwWGfo"
+        }
+      ],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-wix-how-to-build-a-commission-only-sales-team-the-no-bs-blueprint-for-recruiting-and-leading-sub-broker",
+      "source_id": "wix-how-to-build-a-commission-only-sales-team-the-no-bs-blueprint-for-recruiting-and-leading-sub-broker",
+      "kind": "resource",
+      "title": "How to Build a Commission-Only Sales Team",
+      "description": "A guide to recruiting and developing sub-brokers.",
+      "status": "Wix published article · 2026",
+      "categories": [],
+      "url": "https://www.distilledfunding.com/post/how-to-build-a-commission-only-sales-team-the-no-bs-blueprint-for-recruiting-and-leading-sub-broker",
+      "routes": [
+        "/blueprint/",
+        "/playbooks/"
+      ],
+      "image_url": "https://static.wixstatic.com/media/d981d2_8a964f361e964183802189bc9cd5e0e7~mv2.png",
+      "image_role": "article-cover",
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "possible_gate_or_soft_error"
+    },
+    {
+      "id": "resource-tools-funding-agent-30-day-sprint",
+      "source_id": "tools-funding-agent-30-day-sprint",
+      "kind": "resource",
+      "title": "Funding Agent 30-Day Sprint Playbook",
+      "description": "A first-month execution system for turning outreach into conversations and deal opportunities.",
+      "status": "Upstream published · email unlock on Tools Hub · access check separate",
+      "categories": [],
+      "url": "https://tools.distilledfunding.com/funding-agent-30-day-sprint",
+      "routes": [
+        "/start/",
+        "/playbooks/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
+    },
+    {
+      "id": "resource-tools-partner-7-day-activation-kit",
+      "source_id": "tools-partner-7-day-activation-kit",
+      "kind": "resource",
+      "title": "Partner 7-Day Activation Kit",
+      "description": "Eight day-by-day launch actions and completion checkpoints.",
+      "status": "Upstream published · email unlock on Tools Hub · access check separate",
+      "categories": [],
+      "url": "https://tools.distilledfunding.com/partner-7-day-activation-kit",
+      "routes": [
+        "/start/",
+        "/partners/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
+    },
+    {
+      "id": "resource-tools-partner-ai-tools-quickstart",
+      "source_id": "tools-partner-ai-tools-quickstart",
+      "kind": "resource",
+      "title": "Partner AI Tools Quickstart",
+      "description": "Tool selection by workflow, human oversight and AI resources.",
+      "status": "Upstream published · free resource · access check separate",
+      "categories": [],
+      "url": "https://tools.distilledfunding.com/partner-ai-tools-quickstart",
+      "routes": [
+        "/ai-lab/",
+        "/playbooks/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
+    },
+    {
+      "id": "resource-tools-partner-sales-swipe-pack",
+      "source_id": "tools-partner-sales-swipe-pack",
+      "kind": "resource",
+      "title": "Partner Sales Swipe Pack — Original Outreach Scripts",
+      "description": "Editable prospecting, referral and reactivation messages with consent reminders.",
+      "status": "Upstream published · email unlock on Tools Hub · access check separate",
+      "categories": [],
+      "url": "https://tools.distilledfunding.com/partner-sales-swipe-pack",
+      "routes": [
+        "/playbooks/",
+        "/resources/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
+    },
+    {
+      "id": "resource-tools-broker-objection-response-guide",
+      "source_id": "tools-broker-objection-response-guide",
+      "kind": "resource",
+      "title": "Funding Broker Objection-Handling Field Guide",
+      "description": "Practical objection responses, escalation and stop conditions.",
+      "status": "Upstream published · email unlock on Tools Hub · access check separate",
+      "categories": [],
+      "url": "https://tools.distilledfunding.com/broker-objection-response-guide",
+      "routes": [
+        "/playbooks/",
+        "/start/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
+    },
+    {
+      "id": "resource-tools-client-relationship-followup-kit",
+      "source_id": "tools-client-relationship-followup-kit",
+      "kind": "resource",
+      "title": "Client Relationship & Follow-Up Operations Kit",
+      "description": "Client-stage playbook, consent-aware follow-up and pipeline template.",
+      "status": "Upstream published · email unlock on Tools Hub · access check separate",
+      "categories": [],
+      "url": "https://tools.distilledfunding.com/client-relationship-followup-kit",
+      "routes": [
+        "/automations/",
+        "/playbooks/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
+    },
+    {
+      "id": "resource-tools-partner-3p-recruitment-playbook",
+      "source_id": "tools-partner-3p-recruitment-playbook",
+      "kind": "resource",
+      "title": "Partner Recruitment & 3P Activation Playbook",
+      "description": "Partner recruitment, activation and accountability guidance.",
+      "status": "Upstream published · email unlock on Tools Hub · access check separate",
+      "categories": [],
+      "url": "https://tools.distilledfunding.com/partner-3p-recruitment-playbook",
+      "routes": [
+        "/partners/",
+        "/blueprint/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
+    },
+    {
+      "id": "resource-tools-funding-deal-qualification-kit",
+      "source_id": "tools-funding-deal-qualification-kit",
+      "kind": "resource",
+      "title": "Funding Deal Qualification & Packaging Kit",
+      "description": "Screening worksheet, document readiness matrix and next-step checklist.",
+      "status": "Upstream published · email unlock on Tools Hub · access check separate",
+      "categories": [],
+      "url": "https://tools.distilledfunding.com/funding-deal-qualification-kit",
+      "routes": [
+        "/playbooks/",
+        "/tools/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
+    },
+    {
+      "id": "resource-tools-funding-agent-revenue-calculator",
+      "source_id": "tools-funding-agent-revenue-calculator",
+      "kind": "resource",
+      "title": "Funding Agent Revenue Calculator",
+      "description": "Reverse-engineer income goals into activity assumptions and funding volume.",
+      "status": "Upstream published · email unlock on Tools Hub · access check separate",
+      "categories": [],
+      "url": "https://tools.distilledfunding.com/funding-agent-revenue-calculator",
+      "routes": [
+        "/tools/",
+        "/playbooks/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
+    },
+    {
+      "id": "resource-tools-crm-graveyard-recovery-kit",
+      "source_id": "tools-crm-graveyard-recovery-kit",
+      "kind": "resource",
+      "title": "CRM Graveyard Recovery Kit",
+      "description": "A nine-file recovery stack for stale leads and human-reviewed follow-up.",
+      "status": "Upstream published · email unlock on Tools Hub · access check separate",
+      "categories": [],
+      "url": "https://tools.distilledfunding.com/crm-graveyard-recovery-kit",
+      "routes": [
+        "/automations/",
+        "/playbooks/"
+      ],
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "companion_links": [],
+      "affiliate_url": null,
+      "link_status": "http_reachable"
     }
   ],
   "edition_associations": {
     "your-funding-agency-just-got-two-ai-employees": [
+      "resource-wix-how-loan-brokers-can-use-ai",
       "gpt-broker-follow-up-machine-gpt",
-      "application-affiliate-launch-kit-generator",
-      "application-moonshine-broker",
-      "gpt-agent-launch-site-builder",
-      "gpt-funding-workflow-sop-builder-gpt",
-      "resource-bpa-838ed58f0d1c40"
+      "gpt-loan-broker-automation-architect-gpt",
+      "resource-wix-ai-for-business-loan-brokers",
+      "resource-wix-loan-broker-vs-affiliate",
+      "application-affiliate-launch-kit-generator"
     ],
     "your-income-problem-isnt-leads-its-your-identity": [
       "gpt-broker-follow-up-machine-gpt",
+      "gpt-loan-broker-automation-architect-gpt",
       "gpt-agent-launch-site-builder",
       "resource-bpa-follow-up-script-pack-2026",
-      "application-affiliate-launch-kit-generator",
-      "application-dac-pay",
-      "application-moonshine-broker"
+      "resource-tools-client-relationship-followup-kit",
+      "resource-tools-crm-graveyard-recovery-kit"
     ],
     "stop-selling-funding-start-being-the-local-plug": [
+      "resource-tools-broker-objection-response-guide",
+      "resource-wix-how-loan-brokers-can-use-ai",
       "resource-bpa-838ed58f0d1c40",
-      "application-affiliate-launch-kit-generator",
-      "application-dac-pay",
-      "application-moonshine-broker",
-      "application-operator-funding-site",
-      "application-start-your-agency"
+      "resource-tools-partner-sales-swipe-pack",
+      "resource-wix-business-loan-broker-requirements-for-beginners-2026",
+      "application-affiliate-launch-kit-generator"
     ],
     "stop-quoting-rates-start-closing-deals-the-january-gym-funding-play-what-dac-just-changed": [
       "application-start-your-agency",
-      "application-affiliate-launch-kit-generator",
-      "application-amazon-payout-unlocker",
-      "application-capitalstack",
-      "application-moonshine-broker",
-      "application-moonshine-capital"
+      "resource-bpa-9a92854bbec44d",
+      "resource-tools-broker-objection-response-guide",
+      "resource-wix-commercial-loan-broker-training",
+      "resource-wix-how-loan-brokers-can-use-ai",
+      "application-affiliate-launch-kit-generator"
     ],
     "taking-your-funding-business-to-the-next-level-without-chasing-instant-gratification": [
       "gpt-agent-launch-site-builder",
+      "resource-wix-commercial-loan-broker-training",
       "application-ai-funding-coach",
       "application-dac-comp",
       "application-dac-pay",
-      "application-moonshine-broker",
-      "partner-david-allen-capital"
+      "application-moonshine-broker"
     ],
     "structure-over-your-goal-why-motivation-is-a-scam-and-what-actually-works": [
+      "resource-wix-ai-call-summaries-loan-brokers",
+      "resource-tools-funding-agent-revenue-calculator",
       "gpt-broker-follow-up-machine-gpt",
-      "application-agency-lab",
-      "application-agent-hunt",
-      "application-moonshine-broker",
-      "application-onboarding",
-      "gpt-funding-workflow-sop-builder-gpt"
+      "resource-tools-funding-agent-30-day-sprint",
+      "resource-wix-ai-crm-automation-for-loan-brokers",
+      "resource-wix-ai-for-business-loan-brokers"
     ],
-    "how-to-kill-the-identity-crisis-that-follows-rejection": [],
-    "nervous-system-hijackwhy-you-cant-just-get-over-it": [],
+    "how-to-kill-the-identity-crisis-that-follows-rejection": [
+      "resource-tools-partner-sales-swipe-pack",
+      "resource-tools-client-relationship-followup-kit",
+      "resource-tools-funding-agent-30-day-sprint",
+      "resource-wix-how-loan-brokers-can-use-ai",
+      "resource-wix-how-to-build-a-commission-only-sales-team-the-no-bs-blueprint-for-recruiting-and-leading-sub-broker"
+    ],
+    "nervous-system-hijackwhy-you-cant-just-get-over-it": [
+      "resource-tools-funding-agent-30-day-sprint",
+      "resource-tools-partner-sales-swipe-pack",
+      "resource-tools-client-relationship-followup-kit",
+      "resource-wix-ai-crm-automation-for-loan-brokers",
+      "resource-wix-how-loan-brokers-can-use-ai",
+      "resource-wix-how-to-build-a-commission-only-sales-team-the-no-bs-blueprint-for-recruiting-and-leading-sub-broker"
+    ],
     "rejection-sensitivity-the-killer-you-never-saw-coming": [
+      "resource-tools-client-relationship-followup-kit",
+      "resource-tools-partner-sales-swipe-pack",
       "resource-bpa-2d4ef7af1bd9c9",
-      "resource-bpa-follow-up-script-pack-2026"
+      "resource-bpa-9a92854bbec44d",
+      "resource-bpa-follow-up-script-pack-2026",
+      "resource-tools-broker-objection-response-guide"
     ],
     "game-plan-the-unfiltered-truth-about-building-your-funding-empire-before-the-rents-late-again": [
+      "resource-tools-funding-agent-revenue-calculator",
       "gpt-agent-launch-site-builder",
+      "resource-tools-funding-agent-30-day-sprint",
       "application-agent-hunt",
       "application-dac-comp",
-      "application-funding-ceo",
-      "gpt-funding-workflow-sop-builder-gpt",
-      "resource-bpa-73e2806f295852"
+      "application-funding-ceo"
     ],
     "the-lampstand-effect-how-to-recruit-a-team-that-actually-gives-a-damn": [
       "gpt-agent-launch-site-builder",
@@ -9289,18 +10766,20 @@
       "resource-bpa-838ed58f0d1c40"
     ],
     "how-to-turn-a-stack-of-coupons-into-a-6-figure-funding-hustle": [
+      "resource-tools-funding-agent-30-day-sprint",
+      "resource-tools-partner-sales-swipe-pack",
+      "resource-wix-ai-call-summaries-loan-brokers",
       "application-affiliate-launch-kit-generator",
       "application-agent-hunt",
-      "application-capitalstack",
-      "application-dac-pay",
-      "resource-bpa-838ed58f0d1c40"
+      "application-capitalstack"
     ],
     "the-gospel-according-to-grind-why-most-leaders-fail-and-how-you-wont": [
       "application-agent-hunt",
       "gpt-agent-launch-site-builder",
+      "resource-wix-how-to-build-a-commission-only-sales-team-the-no-bs-blueprint-for-recruiting-and-leading-sub-broker",
       "application-finops-ai-agents",
       "gpt-broker-follow-up-machine-gpt",
-      "resource-bpa-80de1286a2c081"
+      "gpt-loan-broker-automation-architect-gpt"
     ],
     "most-entrepreneurs-stay-broke-because-they-do-this-and-youre-probably-doing-it-too": [
       "application-affiliate-launch-kit-generator",
@@ -9312,26 +10791,27 @@
     ],
     "recruit-to-invite-the-raw-real-strategy-that-scales-teams-even-if-youre-broke-and-new": [
       "gpt-agent-launch-site-builder",
+      "resource-wix-commercial-loan-broker-training",
       "application-affiliate-launch-kit-generator",
       "application-operator-funding-site",
       "partner-gokapital",
-      "partner-new-silver",
-      "partner-opm-mastery"
+      "partner-new-silver"
     ],
     "from-broke-to-multiplying-the-no-bs-guide-to-building-a-high-performing-sales-culture": [
       "gpt-agent-launch-site-builder",
+      "resource-wix-how-to-build-a-commission-only-sales-team-the-no-bs-blueprint-for-recruiting-and-leading-sub-broker",
       "resource-bpa-60046de0f9c3fd",
+      "resource-wix-commercial-loan-broker-training",
       "application-ai-funding-coach",
-      "application-amazon-payout-unlocker",
-      "application-operator-funding-site",
-      "gpt-broker-follow-up-machine-gpt"
+      "application-amazon-payout-unlocker"
     ],
     "welcome-to-the-funding-agency-blueprint": [
       "application-affiliate-launch-kit-generator",
       "application-ai-funding-coach",
       "gpt-agent-launch-site-builder",
       "resource-bpa-7abf8d9b3e55df",
-      "resource-bpa-a2af1f00b9c96f"
+      "resource-bpa-a2af1f00b9c96f",
+      "resource-tools-partner-sales-swipe-pack"
     ]
   }
 }
