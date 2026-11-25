@@ -1,0 +1,2 @@
+# Phase 6B
+Run `node scripts/generate-public-registry.mjs` followed by `node scripts/generate-resource-ecosystem.mjs` and `node scripts/generate-resource-ecosystem.mjs --check`. Commit generated pages, registry and sitemap together. Existing catalogs remain canonical. No runtime certification is implied by a link. Concepts remain specifications. Typographic marks are placeholders for verified logos.
