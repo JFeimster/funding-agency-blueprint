@@ -32,3 +32,7 @@ Intended future URL: `https://media.distilledfunding.com/the-funding-agency/`. T
 ## Deploy / GitHub
 
 The file `scripts/publish-github.ps1` creates a new GitHub repository and pushes the site with the user’s authenticated GitHub CLI. It is not run automatically. For GitHub repo creation, the GitHub integration currently exposes no repository-create action.
+
+## Additional design studies
+
+Independent Magazine Editorial, Nocturnal Editorial Noir, and Dada Riot are standalone homepage prototypes under `sites/`. Broker’s Manifesto remains the primary 12-route publication. All six studies retain the illustrative calculator; photography is not yet supplied.
