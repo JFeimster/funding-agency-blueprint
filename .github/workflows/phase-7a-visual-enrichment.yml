@@ -1,0 +1,60 @@
+name: Phase 7A — recover visuals and publish
+on:
+  push:
+    branches: [phase-7a-visual-enrichment]
+permissions:
+  contents: write
+concurrency:
+  group: phase-7a-visual-enrichment
+  cancel-in-progress: false
+jobs:
+  visuals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '22'
+      - name: Recover existing public visuals
+        run: |
+          python3 -m venv /tmp/visual-env
+          /tmp/visual-env/bin/pip install --quiet pillow playwright
+          /tmp/visual-env/bin/playwright install chromium --with-deps
+          /tmp/visual-env/bin/python scripts/recover-resource-visuals.py
+      - name: Generate and validate
+        run: |
+          node scripts/generate-public-registry.mjs
+          node scripts/generate-resource-ecosystem.mjs
+          node scripts/generate-public-registry.mjs --check
+          node scripts/generate-resource-ecosystem.mjs --check
+          python3 - <<'PY'
+          import json,hashlib,pathlib,subprocess,tempfile,shutil
+          p=pathlib.Path('.')
+          before=json.loads(subprocess.check_output(['git','show','7227d1d193f942f212cb770155fa9b903b43065f:data/resource-ecosystem.json']))['records']
+          after=json.loads((p/'data/resource-ecosystem.json').read_text())['records']
+          assert {r['id'] for r in before}=={r['id'] for r in after}
+          assert len(after)==len({r['id'] for r in after})==469
+          published=[r for r in json.loads((p/'data/editions.json').read_text()) if r['status']=='published']
+          assert len(published)==17
+          keys={'id','slug','edition_number','title','status','publication_date','series','topic','description','seo_title','seo_description','link','reading_minutes','source_sha256','eyebrow','related'}
+          with tempfile.TemporaryDirectory() as d:
+              s=pathlib.Path(d);(s/'articles').mkdir()
+              for r in published:
+                  src=p/'content/editions'/(r['slug']+'.md')
+                  assert hashlib.sha256(src.read_bytes()).hexdigest()==r['source_sha256']
+                  shutil.copyfile(src,s/'articles'/src.name)
+              (s/'editions-source.json').write_text(json.dumps([{k:v for k,v in r.items() if k in keys} for r in published]))
+              subprocess.run(['python3','tests/test-publication-fixture.py',str(s)],check=True)
+          print('469 IDs, 17 article hashes, publication fixture passed')
+          PY
+      - name: Commit generated output
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Generate Phase 7A visual enrichment"
+          git push origin HEAD:phase-7a-visual-enrichment

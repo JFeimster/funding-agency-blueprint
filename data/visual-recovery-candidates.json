@@ -1,0 +1,258 @@
+{
+  "partners": [
+    {
+      "id": "partner-bank-breezy",
+      "title": "Bank Breezy",
+      "url": "https://bankbreezy.com/"
+    },
+    {
+      "id": "partner-fora-financial",
+      "title": "Fora Financial",
+      "url": "https://www.forafinancial.com/"
+    },
+    {
+      "id": "partner-hubspot",
+      "title": "HubSpot",
+      "url": "https://www.hubspot.com/"
+    },
+    {
+      "id": "partner-kriya",
+      "title": "Kriya",
+      "url": "https://www.kriya.co/"
+    },
+    {
+      "id": "partner-my-figures",
+      "title": "My Figures",
+      "url": "https://myfigures.com/"
+    },
+    {
+      "id": "partner-n8n",
+      "title": "n8n",
+      "url": "https://n8n.io/"
+    },
+    {
+      "id": "partner-new-silver",
+      "title": "New Silver",
+      "url": "https://newsilver.com/"
+    },
+    {
+      "id": "partner-subto",
+      "title": "Subto",
+      "url": "https://www.subto.com/"
+    },
+    {
+      "id": "partner-supabase",
+      "title": "Supabase",
+      "url": "https://supabase.com/"
+    },
+    {
+      "id": "partner-tally",
+      "title": "Tally",
+      "url": "https://tally.so/"
+    },
+    {
+      "id": "partner-uplyft-capital",
+      "title": "Uplyft Capital",
+      "url": "https://uplyftcapital.com/"
+    },
+    {
+      "id": "partner-upstart",
+      "title": "Upstart",
+      "url": "https://www.upstart.com/"
+    },
+    {
+      "id": "partner-vercel",
+      "title": "Vercel",
+      "url": "https://vercel.com/"
+    },
+    {
+      "id": "partner-visio-lending",
+      "title": "Visio Lending",
+      "url": "https://visiolending.com/"
+    },
+    {
+      "id": "partner-wix",
+      "title": "Wix",
+      "url": "https://www.wix.com/"
+    }
+  ],
+  "applications": [
+    {
+      "id": "application-onboarding",
+      "title": "Onboarding",
+      "url": "https://onboarding-kappa-gules.vercel.app/"
+    },
+    {
+      "id": "application-staged-funding",
+      "title": "staged-funding",
+      "url": "https://staged-funding.vercel.app/"
+    },
+    {
+      "id": "application-estimator",
+      "title": "estimator",
+      "url": "https://estimator-lyart.vercel.app/"
+    },
+    {
+      "id": "application-moonshine-capital",
+      "title": "moonshine-capital",
+      "url": "https://moonshine-capital.vercel.app/"
+    },
+    {
+      "id": "application-ai-funding-coach",
+      "title": "ai-funding-coach",
+      "url": "https://ai-funding-coach.vercel.app/"
+    },
+    {
+      "id": "application-moonsine-partner-page",
+      "title": "Moonsine-Partner-Page",
+      "url": "https://moonsine-partner-page.vercel.app/"
+    },
+    {
+      "id": "application-dac-comp",
+      "title": "DAC-Comp",
+      "url": "https://dac-comp.vercel.app/"
+    },
+    {
+      "id": "application-dac-pay",
+      "title": "DAC-pay",
+      "url": "https://dac-pay.vercel.app/"
+    },
+    {
+      "id": "application-partnerhub",
+      "title": "PartnerHub",
+      "url": "https://partner-hub-mocha.vercel.app/"
+    },
+    {
+      "id": "application-moonshine-ai-directory",
+      "title": "moonshine-ai-directory",
+      "url": "https://moonshine-ai-directory.vercel.app/"
+    },
+    {
+      "id": "application-amazon-payout-unlocker",
+      "title": "amazon-payout-unlocker",
+      "url": "https://amazon-payout-unlocker.vercel.app/"
+    },
+    {
+      "id": "application-funding-any-reason",
+      "title": "Funding-Any-Reason",
+      "url": "https://funding-any-reason.vercel.app/"
+    },
+    {
+      "id": "application-affiliate-launch-kit-generator",
+      "title": "affiliate-launch-kit-generator",
+      "url": "https://affiliate-launch-kit-generator.vercel.app/"
+    },
+    {
+      "id": "application-funding-embed",
+      "title": "funding-embed",
+      "url": "https://funding-embed.vercel.app/"
+    },
+    {
+      "id": "application-operator-funding-site",
+      "title": "operator-funding-site",
+      "url": "https://operator-funding-site.vercel.app/"
+    },
+    {
+      "id": "application-moonshine-broker",
+      "title": "moonshine-broker",
+      "url": "https://moonshine-broker.vercel.app/"
+    },
+    {
+      "id": "application-moonshine-funding-static",
+      "title": "moonshine-funding-static",
+      "url": "https://moonshine-funding-landing.vercel.app/"
+    },
+    {
+      "id": "application-finops-ai-agents",
+      "title": "FinOps-AI-Agents",
+      "url": "https://finops-ai-sooty.vercel.app/"
+    },
+    {
+      "id": "application-agency-lab",
+      "title": "agency-lab",
+      "url": "https://agency-lab.vercel.app/"
+    },
+    {
+      "id": "application-cashflow",
+      "title": "cashflow",
+      "url": "https://cashflow-sable-nu.vercel.app/"
+    },
+    {
+      "id": "application-agent-hunt",
+      "title": "Agent-Hunt",
+      "url": "https://agent-hunt.vercel.app/"
+    },
+    {
+      "id": "application-start-your-agency",
+      "title": "start-your-agency",
+      "url": "https://start-your-agency.vercel.app/"
+    },
+    {
+      "id": "application-capitalstack",
+      "title": "CapitalStack",
+      "url": "https://capital-stack.vercel.app/"
+    },
+    {
+      "id": "application-funding-ceo",
+      "title": "funding-ceo",
+      "url": "https://funding-ceo.vercel.app/"
+    }
+  ],
+  "gpts": [
+    {
+      "id": "gpt-ai-agent-generator",
+      "title": "AI Agent Generator",
+      "url": "https://chatgpt.com/g/g-688113e552c08191b6178443f971fea0-ai-agent-generator"
+    },
+    {
+      "id": "gpt-no-code-gpt-builder",
+      "title": "No-Code GPT Builder",
+      "url": "https://chatgpt.com/g/g-6876070e97a88191aaa47b0c53ec4d02-no-code-gpt-builder"
+    },
+    {
+      "id": "gpt-bizcredit-builder-gpt",
+      "title": "BizCredit Builder GPT",
+      "url": "https://chatgpt.com/g/g-6836dda9d7e881918dd6018226121e03-credit-builder-gpt"
+    },
+    {
+      "id": "gpt-bank-match-gpt",
+      "title": "Bank Match GPT",
+      "url": "https://chatgpt.com/g/g-6836cbfa2f8481918fd90ffc89cf563d-bank-match-gpt"
+    },
+    {
+      "id": "gpt-startup-valuation-expert",
+      "title": "Startup Valuation Expert",
+      "url": "https://chatgpt.com/g/g-684022bef9f08191a158d81c6517c977-startup-valuation-expert"
+    },
+    {
+      "id": "gpt-resumetailor-ai",
+      "title": "ResumeTailor AI",
+      "url": "https://chatgpt.com/g/g-67f19f6b42e48191ac8a32555e2a0309-resumetailor-ai"
+    },
+    {
+      "id": "gpt-deepprompt-architect",
+      "title": "DeepPrompt Architect",
+      "url": "https://chatgpt.com/g/g-683f3dba4c948191b909e47e15bc2546-deepprompt-architect"
+    },
+    {
+      "id": "gpt-industry-analysis-bot",
+      "title": "Industry Analysis Bot",
+      "url": "https://chatgpt.com/g/g-vBgeRtZjf-industry-analysis-bot"
+    },
+    {
+      "id": "gpt-personalized-tax-planning-strategy",
+      "title": "Personalized Tax Planning Strategy",
+      "url": "https://chatgpt.com/g/g-6745b6f144f0819194508301c42f641f-personalized-tax-planning-strategy"
+    },
+    {
+      "id": "gpt-real-time-cash-flow-analyzer",
+      "title": "Real-Time Cash Flow Analyzer",
+      "url": "https://chatgpt.com/g/g-68781e74d5ec81919da08f5dc2183522-real-time-cash-flow-analyzer"
+    },
+    {
+      "id": "gpt-gpt-stack-builder",
+      "title": "GPT Stack Builder",
+      "url": "https://chatgpt.com/g/g-687729cd579881918d552b97cb33b29e-gpt-stack-builder"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Phase 7A — Visual enrichment
+
+Existing imagery has priority. Partner branding, official-site icons, source-linked GPT avatars and anonymous application screenshots are distinct roles; the latter do not certify functionality. No credentials, forms, private GPT editor links or generated replacement logos are used. All existing image paths retain precedence. Concepts and unavailable artwork use reusable category-coded CSS tiles, not one image per concept. Source candidates are public destinations only; Drive identifiers and temporary credentials are not committed. The branch-only workflow regenerates both catalogs and checks the edition fixture before committing. Missing or blocked destinations are nonblocking.
