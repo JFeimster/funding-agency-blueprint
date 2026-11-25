@@ -185,16 +185,17 @@ published, changed = [], set()
 for item, raw in incoming:
     slug = item['slug']
     old = old_published.get(slug)
+    draft = next((x for x in old_unpublished if x.get('slug') == slug or x.get('title') == item['title']), None)
     if old and old['edition_number'] != item['edition_number']:
         raise ValueError('Existing edition number changed: ' + slug)
     if old and old['source_sha256'] != item['source_sha256']:
         changed.add(slug)
     if not old:
         changed.add(slug)
-    row = dict(old or {})
+    row = dict(old or draft or {})
     if not old or slug in changed:
         row.update(item)
-    row['id'] = old['id'] if old else next((x['id'] for x in old_unpublished if x.get('slug') == slug or x.get('title') == item['title']), item['id'])
+    row['id'] = old['id'] if old else draft['id'] if draft else item['id']
     row['status'] = 'published'
     if slug in artwork:
         dest = ROOT / 'assets/images/editions' / (slug + artwork[slug].suffix.lower())

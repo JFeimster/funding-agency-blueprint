@@ -31,8 +31,7 @@ with tempfile.TemporaryDirectory(prefix='fab-publication-fixture-') as temp:
         'topic': 'Agency Architecture', 'description': 'Isolated fixture, never published.',
         'seo_title': 'Fixture edition', 'seo_description': 'Fixture description',
         'link': 'https://www.linkedin.com/pulse/fixture-edition/', 'reading_minutes': 1,
-        'source_sha256': hashlib.sha256(body).hexdigest(), 'eyebrow': 'Edition 18 · 2026-11-26',
-        'related': ['blueprint', 'ai-lab', 'automations']
+        'source_sha256': hashlib.sha256(body).hexdigest(), 'eyebrow': 'Edition 18 · 2026-11-26'
     })
     manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     first_run_hashes = None
@@ -51,6 +50,7 @@ with tempfile.TemporaryDirectory(prefix='fab-publication-fixture-') as temp:
     assert len([r for r in records if r.get('status') != 'published']) == 1
     assert len([r for r in records if r.get('title') == manifest[0]['title']]) == 1
     assert next(r for r in records if r['slug'] == slug)['id'] == 'ai-powered-agency-from-scratch'
+    assert next(r for r in records if r['slug'] == slug)['related'] == ['blueprint', 'ai-lab', 'automations']
     assert len(json.loads((site / 'data/resource-ecosystem.json').read_text(encoding='utf-8'))['records']) == 443
     for old_slug, digest in originals.items():
         assert hashlib.sha256((site / 'content/editions' / (old_slug + '.md')).read_bytes()).hexdigest() == digest
