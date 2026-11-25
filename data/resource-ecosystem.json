@@ -17,7 +17,10 @@
       "relationship": "unspecified",
       "url": "https://www.7figurescredit.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-7-figures-funding",
@@ -47,7 +50,10 @@
       "relationship": "active (source recorded)",
       "url": "https://www.7figuresfunding.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-8fig",
@@ -75,7 +81,10 @@
       "relationship": "active (source recorded)",
       "url": "https://8fig.co/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-badcreditloans-com",
@@ -96,7 +105,10 @@
       "relationship": "active (source recorded)",
       "url": "https://badcreditloans.com",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-bank-breezy",
@@ -132,7 +144,10 @@
       "relationship": "active (source recorded)",
       "url": "https://bankbreezy.com/",
       "affiliate_url": "https://bankbreezy.com/jason/",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-business-credit-workshop",
@@ -157,7 +172,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-capchase",
@@ -184,7 +202,10 @@
       "relationship": "active (source recorded)",
       "url": "https://capchase.com/",
       "affiliate_url": "https://capchase.com/referrals?referralId=395c26d9",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-casca",
@@ -208,7 +229,10 @@
       "relationship": "pending (source recorded)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-cashusa-com",
@@ -231,7 +255,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": "https://fxo.co/IwM9",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-chatgpt",
@@ -251,7 +278,10 @@
       "relationship": "editorial recommendation",
       "url": "https://chatgpt.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-clearco",
@@ -274,7 +304,10 @@
       "relationship": "unspecified",
       "url": "https://clear.co/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-credibly",
@@ -303,7 +336,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-credit-suite",
@@ -328,7 +364,10 @@
       "relationship": "active (source recorded)",
       "url": "https://creditsuite.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-david-allen-capital",
@@ -363,7 +402,10 @@
       "relationship": "active (source recorded)",
       "url": "https://davidallencapital.com",
       "affiliate_url": "https://davidallencapital.com/jason/",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-dlp-capital",
@@ -387,7 +429,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-equitynet",
@@ -410,7 +455,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": "https://equitynetinc.sjv.io/Kj1aOv",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-finta",
@@ -433,7 +481,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-fora-financial",
@@ -461,7 +512,10 @@
       "relationship": "active (source recorded)",
       "url": "https://www.forafinancial.com/",
       "affiliate_url": "https://forafinancial.pxf.io/c/2229127/2015280/24953",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-founderpath",
@@ -481,7 +535,10 @@
       "relationship": "unspecified",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-fund-grow",
@@ -509,7 +566,10 @@
       "relationship": "active (source recorded)",
       "url": "https://www.fundandgrow.com/",
       "affiliate_url": "https://www.fundandgrow.com/jasonfeimster/",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-fundandgrow",
@@ -537,7 +597,10 @@
       "relationship": "active (source recorded)",
       "url": "https://www.fundandgrow.com/",
       "affiliate_url": "https://www.fundandgrow.com/jasonfeimster/",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-fundera",
@@ -557,7 +620,10 @@
       "relationship": "unspecified",
       "url": "https://fundera.com",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-gator-lending",
@@ -585,7 +651,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-github",
@@ -605,7 +674,10 @@
       "relationship": "editorial recommendation",
       "url": "https://github.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-gokapital",
@@ -641,7 +713,10 @@
       "relationship": "active (source recorded)",
       "url": "https://gokapital.com",
       "affiliate_url": null,
-      "image_url": "/assets/images/resources/gokapital.png"
+      "image_url": "/assets/images/resources/gokapital.png",
+      "image_role": "logo",
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-guidant",
@@ -668,7 +743,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": "https://www.gfprequal.com/mc",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-hubspot",
@@ -688,7 +766,10 @@
       "relationship": "editorial recommendation",
       "url": "https://www.hubspot.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-kiava",
@@ -709,7 +790,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": "https://try.kiavi.com/wc6dxe4vsra5",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-kriya",
@@ -730,7 +814,10 @@
       "relationship": "unspecified",
       "url": "https://www.kriya.co/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-lendflow",
@@ -754,7 +841,10 @@
       "relationship": "unspecified",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-lendio",
@@ -779,7 +869,10 @@
       "relationship": "unspecified",
       "url": null,
       "affiliate_url": null,
-      "image_url": "/assets/images/resources/lendio.jpg"
+      "image_url": "/assets/images/resources/lendio.jpg",
+      "image_role": "logo",
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-maxlend",
@@ -799,7 +892,10 @@
       "relationship": "unspecified",
       "url": "https://maxlend.com",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-my-figures",
@@ -817,7 +913,10 @@
       "relationship": "unspecified",
       "url": "https://myfigures.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-n8n",
@@ -837,7 +936,10 @@
       "relationship": "editorial recommendation",
       "url": "https://n8n.io/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-nav",
@@ -857,7 +959,10 @@
       "relationship": "editorial recommendation",
       "url": "https://www.nav.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": "/assets/images/resources/nav-white.webp",
+      "image_role": "logo",
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-new-silver",
@@ -883,7 +988,10 @@
       "relationship": "active (source recorded)",
       "url": "https://newsilver.com/",
       "affiliate_url": "https://fxo.co/ItIN",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-notion",
@@ -903,7 +1011,10 @@
       "relationship": "editorial recommendation",
       "url": "https://www.notion.so/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-onramp",
@@ -931,7 +1042,10 @@
       "relationship": "active (source recorded)",
       "url": "https://www.onrampfunds.com/",
       "affiliate_url": null,
-      "image_url": "/assets/images/resources/onramp.png"
+      "image_url": "/assets/images/resources/onramp.png",
+      "image_role": "logo",
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-opm-mastery",
@@ -959,7 +1073,10 @@
       "relationship": "active (source recorded)",
       "url": "https://opmmastery.com",
       "affiliate_url": "https://opmmastery.referralrock.com/v2/1",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-parker",
@@ -979,7 +1096,10 @@
       "relationship": "unspecified",
       "url": "https://www.getparker.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-payability",
@@ -1007,7 +1127,10 @@
       "relationship": "active (source recorded)",
       "url": "https://payability.com",
       "affiliate_url": "https://fas.st/t/P7LZc7v7",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-personalloans-com",
@@ -1028,7 +1151,10 @@
       "relationship": "active (source recorded)",
       "url": "https://personallaons.com/",
       "affiliate_url": "https://fxo.co/IpnR",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-ramp",
@@ -1053,7 +1179,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": "https://api.fintelconnect.com/t/l/645b368ec92e38001ba614ac",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-rok-financial",
@@ -1083,7 +1212,10 @@
       "relationship": "active (source recorded)",
       "url": "https://www.rok.biz/",
       "affiliate_url": "https://go.mypartner.io/business-financing/?ref=0014x00000H3JAsAAN",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-sellersfi",
@@ -1109,7 +1241,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-spot-light-loans",
@@ -1130,7 +1265,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": "https://fxo.co/IqZE",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-stilt",
@@ -1155,7 +1293,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": "https://fxo.co/IwSM",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-subto",
@@ -1177,7 +1318,10 @@
       "relationship": "active (source recorded)",
       "url": "https://www.subto.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-supabase",
@@ -1197,7 +1341,10 @@
       "relationship": "editorial recommendation",
       "url": "https://supabase.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-supermoney",
@@ -1218,7 +1365,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": "https://fxo.co/IwMA",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-tally",
@@ -1238,7 +1388,10 @@
       "relationship": "editorial recommendation",
       "url": "https://tally.so/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-finance-factory",
@@ -1269,7 +1422,10 @@
       "relationship": "active (source recorded)",
       "url": null,
       "affiliate_url": "https://lp.thefinancefactory.com/lp/r/6018",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-uncapped",
@@ -1294,7 +1450,10 @@
       "relationship": "active (source recorded)",
       "url": "https://weareuncapped.com",
       "affiliate_url": "https://portal.weareuncapped.com/registration?referral=moonshinecapital",
-      "image_url": "/assets/images/resources/uncapped.png"
+      "image_url": "/assets/images/resources/uncapped.png",
+      "image_role": "logo",
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-uplyft-capital",
@@ -1322,7 +1481,10 @@
       "relationship": "active (source recorded)",
       "url": "https://uplyftcapital.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-upstart",
@@ -1351,7 +1513,10 @@
       "relationship": "active (source recorded)",
       "url": "https://www.upstart.com/",
       "affiliate_url": "https://upstart.9c65.net/qnKBjj",
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-vercel",
@@ -1371,7 +1536,10 @@
       "relationship": "editorial recommendation",
       "url": "https://vercel.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-visio-lending",
@@ -1398,7 +1566,10 @@
       "relationship": "active (source recorded)",
       "url": "https://visiolending.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-wayflyer",
@@ -1418,7 +1589,10 @@
       "relationship": "unspecified",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "partner-wix",
@@ -1438,7 +1612,10 @@
       "relationship": "editorial recommendation",
       "url": "https://www.wix.com/",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-premium-finance-gap-calculator",
@@ -1456,7 +1633,10 @@
       "output": "Policy-Bound Checklist & Funding Quote (PDF) 1",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-urgent-tax-advance-estimator",
@@ -1474,7 +1654,10 @@
       "output": "IRS Protection Advance Estimate (Summary) 3",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-gig-income-funding-predictor-giggle-finance",
@@ -1492,7 +1675,10 @@
       "output": "Back on the Road Funding Score 5",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-neca-material-money-quoter",
@@ -1510,7 +1696,10 @@
       "output": "Project Material Finance Bridge Quote (PDF) 7 | \"Project Material Bridge Quote\" (PDF)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-turndown-retrieval-script-generator",
@@ -1528,7 +1717,10 @@
       "output": "Turndown Retrieval Script (Copy-Paste Text) 9",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-blue-collar-banker-lead-qualifier",
@@ -1546,7 +1738,10 @@
       "output": "Fundability Scorecard (Image) 11",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-daily-commission-projection-dashboard",
@@ -1564,7 +1759,10 @@
       "output": "Daily Paycheck Goal Tracker (Dashboard) 12",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-auto-repair-emergency-advance-tool",
@@ -1582,7 +1780,10 @@
       "output": "Emergency Repair Funding Auth (SMS Link) 13",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-merchant-cash-advance-mca-repayment-estimator",
@@ -1600,7 +1801,10 @@
       "output": "Daily Cash Flow Impact Report (Table) 15",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-competitor-meet-or-beat-submitter",
@@ -1618,7 +1822,10 @@
       "output": "Risk-Free Guarantee Certificate 16 | \"Risk-Free Guarantee Certificate\"",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-referral-commission-payout-estimator",
@@ -1636,7 +1843,10 @@
       "output": "Daily Commission Snapshot (Chart) 18",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-buy-here-pay-here-down-payment-bridge",
@@ -1654,7 +1864,10 @@
       "output": "Vehicle Deposit Authorization (Voucher) 19",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-trade-association-profit-split-calculator",
@@ -1672,7 +1885,10 @@
       "output": "Association Revenue Projection Dashboard 20",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-credit-score-vs-cash-flow-analyzer",
@@ -1690,7 +1906,10 @@
       "output": "Bankability Shift Report (Image) 22",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-cold-lead-monetization-calculator",
@@ -1708,7 +1927,10 @@
       "output": "Lost Commission Recovery Report 23",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-payroll-bridge-funding-quoter",
@@ -1726,7 +1948,10 @@
       "output": "Weekly Payroll Liquidity Plan 24",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-trucker-repair-to-revenue-tracker",
@@ -1744,7 +1969,10 @@
       "output": "Repair ROI Timeline (Chart) 25",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-passive-income-network-builder",
@@ -1762,7 +1990,10 @@
       "output": "3-Tier Override Projection (Table) 26",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-bank-firing-risk-score",
@@ -1780,7 +2011,10 @@
       "output": "Traditional Bank Risk Score 27 | \"Traditional Bank Risk Score\" (On-Screen Score)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-equipment-leasing-deposit-calculator",
@@ -1798,7 +2032,10 @@
       "output": "Equipment Lease Deposit Bridge Quote 28",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-same-day-vs-60-day-cost-analyzer",
@@ -1816,7 +2053,10 @@
       "output": "Opportunity Cost Report 29",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-tax-prep-fee-advance-solution",
@@ -1834,7 +2074,10 @@
       "output": "Tax Preparation Fee Guarantee (Voucher) 30",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-bad-credit-good-business-certifier",
@@ -1852,7 +2095,10 @@
       "output": "Good Business Certificate (Image) 31",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-service-industry-tip-to-revenue-translator",
@@ -1870,7 +2116,10 @@
       "output": "Credit Card Tip Flow Analysis 32",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-neca-endorsement-value-illustrator",
@@ -1888,7 +2137,10 @@
       "output": "Trust & Approval Rating (Gauge) 33",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-competitor-rate-to-factor-rate-translator",
@@ -1906,7 +2158,10 @@
       "output": "Loan Terms Comparison Table 34",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-cash-flow-gap-bridge-calculator",
@@ -1924,7 +2179,10 @@
       "output": "Emergency Funding Requirement (PDF) 35",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-fix-and-flip-roi-and-max-loan-estimator",
@@ -1942,7 +2200,10 @@
       "output": "Deal Profitability Scorecard (PDF) 36",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-startup-funding-eligibility-quiz",
@@ -1960,7 +2221,10 @@
       "output": "70-Second Eligibility Score 37",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-bank-rejected-second-look-finder",
@@ -1978,7 +2242,10 @@
       "output": "Second-Chance Funding Match (PDF) 38",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-real-estate-proof-of-funds-pof-generator",
@@ -1996,7 +2263,10 @@
       "output": "Conditional Pre-Qualification Letter 39",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-sba-denial-pivot-tool",
@@ -2014,7 +2284,10 @@
       "output": "Fast Funding Alternatives Checklist 40",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-bad-credit-business-funding-match",
@@ -2032,7 +2305,10 @@
       "output": "My Best Funding Options Dashboard 41",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-equipment-payment-estimator",
@@ -2050,7 +2326,10 @@
       "output": "Equipment Financing Estimate (Quote) 42",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-lender-readiness-score",
@@ -2068,7 +2347,10 @@
       "output": "Your 60-Day Funding Action Plan 43",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-competitor-rejection-analyzer",
@@ -2086,7 +2368,10 @@
       "output": "Your GoKapital Backdoor Pass (Guide) 44",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-invoice-to-cash-flow-gap-analyzer",
@@ -2104,7 +2389,10 @@
       "output": "Your Cash Runway & Survival Score 45",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-gig-worker-back-on-the-road-calculator",
@@ -2122,7 +2410,10 @@
       "output": "Your Daily Lost Income Counter (Widget) 46",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-tax-payment-advance-estimator",
@@ -2140,7 +2431,10 @@
       "output": "IRS Payment Plan vs. Advance Comparison 47",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-material-cost-inflation-tracker",
@@ -2158,7 +2452,10 @@
       "output": "Your Material Budget Gap Dashboard 48",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-premium-finance-double-commission-calc",
@@ -2176,7 +2473,10 @@
       "output": "Your Revenue Retention Opportunity Report 49",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-meet-or-beat-rate-comparison-tool",
@@ -2194,7 +2494,10 @@
       "output": "$500 Guarantee Qualification Letter 50",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-equipment-roi-and-payment-calculator",
@@ -2212,7 +2515,10 @@
       "output": "Equipment Investment Profitability Forecast 51",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-restaurant-walk-in-emergency-tool",
@@ -2230,7 +2536,10 @@
       "output": "Emergency Equipment Replacement Estimate 52",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-payroll-gap-bridge-estimator",
@@ -2248,7 +2557,10 @@
       "output": "Friday Payroll Protection Plan (PDF) 53",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-embedded-finance-widget",
@@ -2266,7 +2578,10 @@
       "output": "Embeddable White-Label Widget 54",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-wholesaler-real-estate-deal-analyzer-pro",
@@ -2284,7 +2599,10 @@
       "output": "Deal Package with Pre-Qualification Letter 55",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-turndown-retrieval-lead-magnet-template",
@@ -2302,7 +2620,10 @@
       "output": "Co-Branded Alternative Funding PDF 56",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-daily-pay-commission-calculator",
@@ -2320,7 +2641,10 @@
       "output": "Your Daily Income Simulator 57",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-supply-house-partnership-landing-page",
@@ -2338,7 +2662,10 @@
       "output": "Customizable Static HTML Page 58",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-credit-incubator-roadmap-generator",
@@ -2356,7 +2683,10 @@
       "output": "Your Path to Funding Approval PDF 59",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-stockout-death-spiral-estimator",
@@ -2374,7 +2704,10 @@
       "output": "\"Damage Report\" PDF 60 | \"The Stockout Hemorrhage Report\" (PDF)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-equity-saver-shield-vc-vs-8fig",
@@ -2392,7 +2725,10 @@
       "output": "Founder Ownership Dashboard 61",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-boat-to-bank-gap-analyzer",
@@ -2410,7 +2746,10 @@
       "output": "Cash Gap Timeline Infographic 62",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-mca-shark-auditor",
@@ -2428,7 +2767,10 @@
       "output": "Audit Certificate 63 | \"High-Risk Debt Audit Certificate\"",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-viral-hit-stress-test",
@@ -2446,7 +2788,10 @@
       "output": "Supply Chain Fragility Score 64",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-asset-light-roi-multiplier",
@@ -2464,7 +2809,10 @@
       "output": "Capital Allocation Map 65",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-amazon-payout-bridge-predictor",
@@ -2482,7 +2830,10 @@
       "output": "Payout Bridge Checklist 66",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-q4-war-room-po-planner",
@@ -2500,7 +2851,10 @@
       "output": "Q4 Logistics Calendar (.ics/PDF) 67",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-ghost-revenue-interceptor",
@@ -2518,7 +2872,10 @@
       "output": "Ghost Revenue Report 68",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-landed-cost-profit-leak-finder",
@@ -2536,7 +2893,10 @@
       "output": "Profit Leakage Checklist 68",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-exit-value-accelerator",
@@ -2554,7 +2914,10 @@
       "output": "Exit Strategy Road Map 69",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-air-freight-panic-button",
@@ -2572,7 +2935,10 @@
       "output": "Logistics Triage Card 70",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-big-box-trap-simulator-net-90",
@@ -2590,7 +2956,10 @@
       "output": "Wholesale Readiness Scorecard 71",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-zombie-sku-hunter",
@@ -2608,7 +2977,10 @@
       "output": "Dead Stock Hitlist 72",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-ad-cost-inflation-forecaster",
@@ -2626,7 +2998,10 @@
       "output": "Q4 Margin Stress Test Graph 73",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-golden-quarter-bonus-calculator",
@@ -2644,7 +3019,10 @@
       "output": "Founder's Check (Mock Graphic) 74",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-supplier-bully-power-meter",
@@ -2662,7 +3040,10 @@
       "output": "Supplier Negotiation Script (PDF) 75",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-discount-death-spiral-check",
@@ -2680,7 +3061,10 @@
       "output": "Discount Danger Gauge 76",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-amazon-fees-and-fines-auditor",
@@ -2698,7 +3082,10 @@
       "output": "Bezos Tax Receipt 77",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-subscription-box-churn-burner",
@@ -2716,7 +3103,10 @@
       "output": "Subscription Risk Profile 78",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-influencer-break-even-calculator",
@@ -2734,7 +3124,10 @@
       "output": "Influencer ROI Contract 78",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-3pl-switching-cost-calculator",
@@ -2752,7 +3145,10 @@
       "output": "Logistics Migration Plan 79",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-dd-7-impact-calculator",
@@ -2770,7 +3166,10 @@
       "output": "Liquidity Loss Report (PDF) 80",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-inventory-turnover-accelerator",
@@ -2788,7 +3187,10 @@
       "output": "Inventory ROI Projection (Chart) 81",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-fee-nullifier-cash-back-calculator",
@@ -2806,7 +3208,10 @@
       "output": "Net Cost of Capital Report (Table) 82",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-tiktok-shop-viral-curse-predictor",
@@ -2824,7 +3229,10 @@
       "output": "LDR Risk Assessment Score 83",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-account-level-reserve-hostage-calculator",
@@ -2842,7 +3250,10 @@
       "output": "Trapped Capital Opportunity Cost (Image) 84",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-cpa-bookkeeper-fee-integration-tool",
@@ -2860,7 +3271,10 @@
       "output": "Seamless Vendor Payment Checklist 85",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-supply-chain-hostage-release-timer",
@@ -2878,7 +3292,10 @@
       "output": "Stockout Risk Report (PDF) 86",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-fba-prep-center-payout-predictor",
@@ -2896,7 +3313,10 @@
       "output": "Guaranteed Payout Flowchart 87",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-black-box-amazon-lending-score",
@@ -2914,7 +3334,10 @@
       "output": "Lending Access Audit (Scorecard) 88",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-cost-of-waiting-vs-cost-of-fee-analyzer",
@@ -2932,7 +3355,10 @@
       "output": "The Winning Math Report 89",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-wholesale-distributor-payout-gap-closer",
@@ -2950,7 +3376,10 @@
       "output": "Distributor Profit Gap Analysis 90",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-multi-channel-expansion-forecaster",
@@ -2968,7 +3397,10 @@
       "output": "Missed Channel Revenue Projection 91",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-seasonal-stock-up-stress-reliever",
@@ -2986,7 +3418,10 @@
       "output": "Seasonal Inventory Funding Timeline 92",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-freight-forwarder-funding-guarantee",
@@ -3004,7 +3439,10 @@
       "output": "Seller Payment Reliability Score 93",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-q4-profit-erosion-forecaster",
@@ -3022,7 +3460,10 @@
       "output": "Q4 Margin Protector Audit 94",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-customer-review-velocity-builder",
@@ -3040,7 +3481,10 @@
       "output": "Review Velocity Acceleration Model 95",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-bezos-interest-calculator",
@@ -3058,7 +3502,10 @@
       "output": "The Lost Profit Receipt 97 | \"The Lost Profit Receipt\" (Graphic)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-stockout-bleed-auditor",
@@ -3076,7 +3523,10 @@
       "output": "The Hemorrhage Report 98",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-velocity-multiplier-simulator",
@@ -3094,7 +3544,10 @@
       "output": "The J-Curve Graph 99",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-dd-7-reality-calendar",
@@ -3112,7 +3565,10 @@
       "output": "The Cash Gap Calendar 100",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-prep-center-shock-audit-2026",
@@ -3130,7 +3586,10 @@
       "output": "The Liquidity Trap Warning (PDF) 101",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-wholesale-deal-sniper-analyzer",
@@ -3148,7 +3607,10 @@
       "output": "The Green Light Card 102",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-unbankable-fundability-quiz",
@@ -3166,7 +3628,10 @@
       "output": "The 'Credit-Agnostic' Certificate 103",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-q4-load-up-capacity-calculator",
@@ -3184,7 +3649,10 @@
       "output": "The Inventory Mountain (Visual) 104",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-deferred-transaction-unlocker",
@@ -3202,7 +3670,10 @@
       "output": "The Unlock Key (Animation) 105",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-zombie-inventory-detector",
@@ -3220,7 +3691,10 @@
       "output": "The Dead Stock Report 106",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-payroll-panic-countdown-timer",
@@ -3238,7 +3712,10 @@
       "output": "Survival Dashboard PDF 108",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-bid-protector-inflation-adjuster",
@@ -3256,7 +3733,10 @@
       "output": "Safe Bid Certificate 109",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-net-90-opportunity-cost-calculator",
@@ -3274,7 +3754,10 @@
       "output": "Lost Profit Report 110 | \"Lost Profit Recovery Plan\" (Table)",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-repair-vs-replace-roi-engine",
@@ -3292,7 +3775,10 @@
       "output": "Financial Roadmap Chart 111",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-spot-market-breakeven-calculator",
@@ -3310,7 +3796,10 @@
       "output": "Minimum Acceptable Rate Card 112",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-deal-killer-hard-money-analyzer",
@@ -3328,7 +3817,10 @@
       "output": "Deal Scorecard 113",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-am-i-bankable-probability-score",
@@ -3346,7 +3838,10 @@
       "output": "Funding Readiness Report 114",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-section-179-tax-slash-calculator",
@@ -3364,7 +3859,10 @@
       "output": "Tax Savings PDF (for CPA) 115",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-burn-rate-runway-extender",
@@ -3382,7 +3880,10 @@
       "output": "Death Date Calendar Invite 116",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-bad-debt-consolidator",
@@ -3400,7 +3901,10 @@
       "output": "Cash Flow Liberation Chart 117",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-equity-defender-simulator",
@@ -3418,7 +3922,10 @@
       "output": "Animated Data Dashboard 118",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-bad-debt-detector-mca-killer",
@@ -3436,7 +3943,10 @@
       "output": "True Cost Report 119",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-runway-extender-dashboard",
@@ -3454,7 +3964,10 @@
       "output": "Interactive Plaid Dashboard 120",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-deal-memo-generator-ai-agent",
@@ -3472,7 +3985,10 @@
       "output": "PDF Deal Memo / Exec Summary 121",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-recession-proof-stress-tester",
@@ -3490,7 +4006,10 @@
       "output": "Personalized Risk Report 122",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-compliance-and-kyc-vault",
@@ -3508,7 +4027,10 @@
       "output": "Funding Ready ZIP File 123",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-investor-data-room-template",
@@ -3526,7 +4048,10 @@
       "output": "Private Link Data Room 124",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-link-in-bio-finance-deck",
@@ -3544,7 +4069,10 @@
       "output": "Mobile-First Pitch Page 125",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-fundability-score-widget",
@@ -3562,7 +4090,10 @@
       "output": "Embeddable Dashboard Widget 125",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-cost-of-capital-comparator",
@@ -3580,7 +4111,10 @@
       "output": "Interactive Table Widget 126",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-funding-simulator",
@@ -3598,7 +4132,10 @@
       "output": "Visual Runway Chart (Web App) 128",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-cash-command-center-dashboard",
@@ -3616,7 +4153,10 @@
       "output": "The Daily Pulse Dashboard 129",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-pitch-deck-roaster",
@@ -3634,7 +4174,10 @@
       "output": "Downloadable Roast Report & Score 130",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-amazon-dd-7-survival-calculator",
@@ -3652,7 +4195,10 @@
       "output": "Liquidity Hemorrhage Report 132",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-bankability-scorecard",
@@ -3670,7 +4216,10 @@
       "output": "The Einstein Predictor (Score) 132",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-mentorship-roi-accelerator",
@@ -3688,7 +4237,10 @@
       "output": "Coaching Program ROI Table 132",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-tiktok-viral-curse-predictor",
@@ -3706,7 +4258,10 @@
       "output": "\"LDR Risk Assessment Score\"",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-section-179-tax-slash-tool",
@@ -3724,7 +4279,10 @@
       "output": "\"Tax Savings PDF for Your CPA\"",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-gig-income-funding-predictor",
@@ -3742,7 +4300,10 @@
       "output": "\"Back on the Road Funding Score\"",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-runway-death-clock",
@@ -3760,7 +4321,10 @@
       "output": "The \"Zero Hour\" Dashboard: A giant red countdown clock showing the exact month and year they run out of money.",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-cac-payback-analyzer",
@@ -3778,7 +4342,10 @@
       "output": "The \"Bankability Scale\" PDF: A visual dial (Red/Yellow/Green) scoring their capital efficiency.",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-term-sheet-toxicity",
@@ -3796,7 +4363,10 @@
       "output": "The \"Toxicity Score\" Checklist: A graded report (A to F) showing how predatory their current term sheet is.",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-trapped-cash-calculator",
@@ -3814,7 +4384,10 @@
       "output": "The \"Missing Millions\" Report: A bar chart showing how much of their cash is trapped in AR.",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-fundability-scorecard",
@@ -3832,7 +4405,10 @@
       "output": "The \"Lender's Eye\" Score: A personalized teardown of the metrics keeping them from getting funded.",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-debt-vs-equity-showdown",
@@ -3850,7 +4426,10 @@
       "output": "The \"Net Wealth\" Chart: A side-by-side bar chart of their take-home pay at exit.",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-saas-ltv-cac-diagnostic",
@@ -3868,7 +4447,10 @@
       "output": "The \"Growth Engine\" Gauge: Visualizes if their business is a leaky bucket or a compounding asset.",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-cost-of-a-board-seat",
@@ -3886,7 +4468,10 @@
       "output": "The \"Boss Tax\" Invoice: A fake, customized invoice showing what they pay annually just to manage their VC board.",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-true-apr-revealer",
@@ -3904,7 +4489,10 @@
       "output": "The \"Unmasked Rate\" Summary: Shows the delta between the \"advertised\" rate and the real mathematical rate.",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "calculator-the-exit-waterfall-simulator",
@@ -3922,7 +4510,10 @@
       "output": "The \"Waterfall\" Diagram: A step-by-step visual of the cash trickling down (or drying up before it hits the founder).",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-agent-launch-site-builder",
@@ -3946,7 +4537,10 @@
         "Embed package"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-ai-agent-generator",
@@ -3968,7 +4562,10 @@
         "Knowledge file recommendations"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-consistent-character-gpt",
@@ -3990,7 +4587,10 @@
         "Prompt variations"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-no-code-gpt-builder",
@@ -4013,7 +4613,10 @@
         "Knowledge file list"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-prompt-analyst",
@@ -4035,7 +4638,10 @@
         "Failure risk notes"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-ai-reviews-blog-writer",
@@ -4058,7 +4664,10 @@
         "Comparison sections"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-affiliate-agency-gpt",
@@ -4081,7 +4690,10 @@
         "Content ideas"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-landing-page-builder-gpt",
@@ -4103,7 +4715,10 @@
         "HTML/CSS/JS"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-loan-broker-automation-architect-gpt",
@@ -4127,7 +4742,10 @@
         "Implementation plan"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-embedded-finance-integrator",
@@ -4150,7 +4768,10 @@
         "Compliance notes"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-agent-growth-hub",
@@ -4173,7 +4794,10 @@
         "KPI tracker"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-bizcredit-builder-gpt",
@@ -4196,7 +4820,10 @@
         "Credit-building reminders"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-bank-match-gpt",
@@ -4219,7 +4846,10 @@
         "Risk warnings"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-startup-valuation-expert",
@@ -4242,7 +4872,10 @@
         "Risk factors"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-voiceover-script-genius",
@@ -4264,7 +4897,10 @@
         "Short-form cuts"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-resumetailor-ai",
@@ -4286,7 +4922,10 @@
         "Gap notes"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-deepprompt-architect",
@@ -4308,7 +4947,10 @@
         "Reusable framework"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-industry-analysis-bot",
@@ -4331,7 +4973,10 @@
         "Strategic recommendations"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-personalized-tax-planning-strategy",
@@ -4354,7 +4999,10 @@
         "Risk notes"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-habit-reactor-engineer",
@@ -4376,7 +5024,10 @@
         "Tracker structure"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-funding-workflow-sop-builder-gpt",
@@ -4399,7 +5050,10 @@
         "Human review points"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-landing-page-generator",
@@ -4423,7 +5077,10 @@
         "README"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-real-time-cash-flow-analyzer",
@@ -4446,7 +5103,10 @@
         "Summary report"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "gpt-broker-follow-up-machine-gpt",
@@ -4470,7 +5130,13 @@
         "Metrics"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": "/assets/images/resources/automate-your-follow-ups.webp",
+      "image_role": "illustration",
+      "download_url": null,
+      "related_images": [
+        "/assets/images/resources/ai-crm-blueprint.webp",
+        "/assets/images/resources/five-step-crm-checklist.webp"
+      ]
     },
     {
       "id": "gpt-gpt-stack-builder",
@@ -4493,7 +5159,10 @@
         "Monetization roadmap"
       ],
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-onboarding",
@@ -4508,7 +5177,10 @@
       "url": "https://onboarding-kappa-gules.vercel.app/",
       "repository_url": "https://github.com/JFeimster/Onboarding",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-staged-funding",
@@ -4523,7 +5195,10 @@
       "url": "https://staged-funding.vercel.app/",
       "repository_url": "https://github.com/JFeimster/staged-funding",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-estimator",
@@ -4538,7 +5213,10 @@
       "url": "https://estimator-lyart.vercel.app/",
       "repository_url": "https://github.com/JFeimster/estimator",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-moonshine-capital",
@@ -4553,7 +5231,10 @@
       "url": "https://moonshine-capital.vercel.app/",
       "repository_url": "https://github.com/JFeimster/moonshine-capital",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-ai-funding-coach",
@@ -4568,7 +5249,10 @@
       "url": "https://ai-funding-coach.vercel.app/",
       "repository_url": "https://github.com/JFeimster/ai-funding-coach",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-moonsine-partner-page",
@@ -4583,7 +5267,10 @@
       "url": "https://moonsine-partner-page.vercel.app/",
       "repository_url": "https://github.com/JFeimster/Moonsine-Partner-Page",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-dac-comp",
@@ -4598,7 +5285,10 @@
       "url": "https://dac-comp.vercel.app/",
       "repository_url": "https://github.com/JFeimster/DAC-Comp",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-dac-pay",
@@ -4613,7 +5303,10 @@
       "url": "https://dac-pay.vercel.app/",
       "repository_url": "https://github.com/JFeimster/DAC-pay",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-partnerhub",
@@ -4628,7 +5321,10 @@
       "url": "https://partner-hub-mocha.vercel.app/",
       "repository_url": "https://github.com/JFeimster/PartnerHub",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-moonshine-ai-directory",
@@ -4643,7 +5339,10 @@
       "url": "https://moonshine-ai-directory.vercel.app/",
       "repository_url": "https://github.com/JFeimster/moonshine-ai-directory",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-amazon-payout-unlocker",
@@ -4658,7 +5357,10 @@
       "url": "https://amazon-payout-unlocker.vercel.app/",
       "repository_url": "https://github.com/JFeimster/amazon-payout-unlocker",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-funding-any-reason",
@@ -4673,7 +5375,10 @@
       "url": "https://funding-any-reason.vercel.app/",
       "repository_url": "https://github.com/JFeimster/Funding-Any-Reason",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-affiliate-launch-kit-generator",
@@ -4688,7 +5393,10 @@
       "url": "https://affiliate-launch-kit-generator.vercel.app/",
       "repository_url": "https://github.com/JFeimster/affiliate-launch-kit-generator",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-funding-embed",
@@ -4703,7 +5411,10 @@
       "url": "https://funding-embed.vercel.app/",
       "repository_url": "https://github.com/JFeimster/funding-embed",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-operator-funding-site",
@@ -4718,7 +5429,10 @@
       "url": "https://operator-funding-site.vercel.app/",
       "repository_url": "https://github.com/JFeimster/operator-funding-site",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-moonshine-broker",
@@ -4733,7 +5447,10 @@
       "url": "https://moonshine-broker.vercel.app/",
       "repository_url": "https://github.com/JFeimster/moonshine-broker",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-moonshine-funding-static",
@@ -4748,7 +5465,10 @@
       "url": "https://moonshine-funding-landing.vercel.app/",
       "repository_url": "https://github.com/JFeimster/moonshine-funding-static",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-finops-ai-agents",
@@ -4763,7 +5483,10 @@
       "url": "https://finops-ai-sooty.vercel.app/",
       "repository_url": "https://github.com/JFeimster/FinOps-AI-Agents",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-agency-lab",
@@ -4778,7 +5501,10 @@
       "url": "https://agency-lab.vercel.app/",
       "repository_url": "https://github.com/JFeimster/agency-lab",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-cashflow",
@@ -4793,7 +5519,10 @@
       "url": "https://cashflow-sable-nu.vercel.app/",
       "repository_url": "https://github.com/JFeimster/cashflow",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-agent-hunt",
@@ -4808,7 +5537,10 @@
       "url": "https://agent-hunt.vercel.app/",
       "repository_url": "https://github.com/JFeimster/Agent-Hunt",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-start-your-agency",
@@ -4823,7 +5555,10 @@
       "url": "https://start-your-agency.vercel.app/",
       "repository_url": "https://github.com/JFeimster/start-your-agency",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-capitalstack",
@@ -4838,7 +5573,10 @@
       "url": "https://capital-stack.vercel.app/",
       "repository_url": "https://github.com/JFeimster/CapitalStack",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "application-funding-ceo",
@@ -4853,7 +5591,10 @@
       "url": "https://funding-ceo.vercel.app/",
       "repository_url": "https://github.com/JFeimster/funding-ceo",
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-real-time-financial-insights-gpt-1",
@@ -4868,7 +5609,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-cash-flow-management-assistant-2",
@@ -4883,7 +5627,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-expense-categorization-gpt-3",
@@ -4898,7 +5645,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-revenue-forecasting-gpt-4",
@@ -4913,7 +5663,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-financial-kpis-gpt-5",
@@ -4928,7 +5681,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-profit-margin-optimization-gpt-6",
@@ -4943,7 +5699,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-subscription-management-gpt-7",
@@ -4958,7 +5717,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-accounts-receivable-automation-gpt-8",
@@ -4973,7 +5735,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-automated-payroll-gpt-9",
@@ -4988,7 +5753,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-investment-portfolio-management-gpt-10",
@@ -5003,7 +5771,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-business-credit-score-monitoring-gpt-11",
@@ -5018,7 +5789,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-tax-preparation-gpt-12",
@@ -5033,7 +5807,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-loan-eligibility-gpt-13",
@@ -5048,7 +5825,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-business-valuation-gpt-14",
@@ -5063,7 +5843,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-vendor-payment-automation-gpt-15",
@@ -5078,7 +5861,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-funding-source-gpt-16",
@@ -5093,7 +5879,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-inventory-cost-analysis-gpt-17",
@@ -5108,7 +5897,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-invoice-automation-gpt-18",
@@ -5123,7 +5915,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-debt-repayment-gpt-19",
@@ -5138,7 +5933,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-budget-gpt-for-startups-20",
@@ -5153,7 +5951,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-automated-financial-compliance-gpt-21",
@@ -5168,7 +5969,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-dynamic-pricing-gpt-22",
@@ -5183,7 +5987,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-capital-planning-gpt-23",
@@ -5198,7 +6005,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-break-even-analysis-gpt-24",
@@ -5213,7 +6023,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-ecommerce-sales-forecasting-gpt-25",
@@ -5228,7 +6041,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-customer-lifetime-value-gpt-26",
@@ -5243,7 +6059,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-financial-risk-assessment-gpt-27",
@@ -5258,7 +6077,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-funding-goal-tracker-gpt-28",
@@ -5273,7 +6095,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-recurring-revenue-tracker-gpt-29",
@@ -5288,7 +6113,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-saas-metrics-gpt-30",
@@ -5303,7 +6131,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-income-and-expense-projections-gpt-31",
@@ -5318,7 +6149,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-freelancer-finance-manager-gpt-32",
@@ -5333,7 +6167,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-ai-powered-financial-planning-gpt-33",
@@ -5348,7 +6185,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-profitability-analysis-gpt-34",
@@ -5363,7 +6203,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-financial-health-score-gpt-35",
@@ -5378,7 +6221,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-roi-calculator-gpt-36",
@@ -5393,7 +6239,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-automated-accounting-gpt-37",
@@ -5408,7 +6257,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-scenario-planning-gpt-38",
@@ -5423,7 +6275,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-amazon-fba-profit-analyzer-gpt-39",
@@ -5438,7 +6293,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-tiktok-shop-sales-optimizer-gpt-40",
@@ -5453,7 +6311,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-marketplace-fee-calculator-gpt-41",
@@ -5468,7 +6329,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-ad-spend-roi-gpt-42",
@@ -5483,7 +6347,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-multi-channel-inventory-manager-gpt-43",
@@ -5498,7 +6365,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-product-trend-analyzer-gpt-44",
@@ -5513,7 +6383,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-cross-channel-revenue-gpt-45",
@@ -5528,7 +6401,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-ecommerce-product-ranking-gpt-46",
@@ -5543,7 +6419,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-order-fulfillment-automation-gpt-47",
@@ -5558,7 +6437,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-supplier-cost-comparison-gpt-48",
@@ -5573,7 +6455,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-returns-refunds-manager-gpt-49",
@@ -5588,7 +6473,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-product-pricing-assistant-gpt-50",
@@ -5603,7 +6491,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-marketplace-review-analyzer-gpt-51",
@@ -5618,7 +6509,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-tiktok-ad-performance-gpt-52",
@@ -5633,7 +6527,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-customer-retention-gpt-53",
@@ -5648,7 +6545,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-flash-sale-gpt-54",
@@ -5663,7 +6563,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-ecommerce-profitability-forecasting-gpt-55",
@@ -5678,7 +6581,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-fulfillment-by-merchant-fbm-profit-gpt-56",
@@ -5693,7 +6599,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-discount-strategy-gpt-57",
@@ -5708,7 +6617,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-ecommerce-tax-compliance-gpt-58",
@@ -5723,7 +6635,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-customer-sentiment-analyzer-gpt-59",
@@ -5738,7 +6653,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-product-lifecycle-gpt-60",
@@ -5753,7 +6671,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-advertising-budget-planner-gpt-61",
@@ -5768,7 +6689,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-bundle-deal-optimization-gpt-62",
@@ -5783,7 +6707,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-shipping-cost-analyzer-gpt-63",
@@ -5798,7 +6725,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-competitor-pricing-tracker-gpt-64",
@@ -5813,7 +6743,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-sales-channel-performance-gpt-65",
@@ -5828,7 +6761,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-wholesale-order-management-gpt-66",
@@ -5843,7 +6779,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-customer-acquisition-cost-gpt-67",
@@ -5858,7 +6797,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-upsell-cross-sell-recommendation-gpt-68",
@@ -5873,7 +6815,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-sales-tax-nexus-gpt-69",
@@ -5888,7 +6833,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-inventory-turnover-gpt-70",
@@ -5903,7 +6851,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-product-photography-gpt-71",
@@ -5918,7 +6869,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-amazon-seller-performance-gpt-72",
@@ -5933,7 +6887,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-seasonal-sales-forecasting-gpt-73",
@@ -5948,7 +6905,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-business-credit-builder-gpt-74",
@@ -5963,7 +6923,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-lender-match-gpt-75",
@@ -5978,7 +6941,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-prequalification-score-gpt-76",
@@ -5993,7 +6959,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-robs-401-k-setup-advisor-gpt-77",
@@ -6008,7 +6977,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-business-bank-account-setup-gpt-78",
@@ -6023,7 +6995,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-bank-reconciliation-gpt-79",
@@ -6038,7 +7013,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-loan-offer-comparison-gpt-80",
@@ -6053,7 +7031,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-dscr-loan-analyzer-gpt-81",
@@ -6068,7 +7049,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-credit-limit-growth-planner-gpt-82",
@@ -6083,7 +7067,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-ucc-filing-monitor-gpt-83",
@@ -6098,7 +7085,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-net-30-vendor-match-gpt-84",
@@ -6113,7 +7103,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-business-credit-report-explainer-gpt-85",
@@ -6128,7 +7121,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-founder-pay-gpt-86",
@@ -6143,7 +7139,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-runway-calculator-gpt-87",
@@ -6158,7 +7157,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-profit-first-allocation-gpt-88",
@@ -6173,7 +7175,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-cash-cushion-gpt-89",
@@ -6188,7 +7193,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-burn-rate-tracker-gpt-90",
@@ -6203,7 +7211,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-real-time-finops-dashboard-builder-gpt-91",
@@ -6218,7 +7229,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-break-even-finder-gpt-92",
@@ -6233,7 +7247,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-non-dilutive-capital-planner-gpt-93",
@@ -6248,7 +7265,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-annual-financial-review-gpt-94",
@@ -6263,7 +7283,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-recurring-revenue-valuation-gpt-95",
@@ -6278,7 +7301,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-deferred-revenue-tracker-gpt-96",
@@ -6293,7 +7319,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-kpi-reporter-gpt-97",
@@ -6308,7 +7337,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-agency-financial-tracker-gpt-98",
@@ -6323,7 +7355,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-capital-stack-designer-gpt-99",
@@ -6338,7 +7373,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-financial-sop-generator-gpt-100",
@@ -6353,7 +7391,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-upload-my-bank-csv-gpt-101",
@@ -6368,7 +7409,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-upload-my-profit-loss-statement-gpt-102",
@@ -6383,7 +7427,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-business-credit-report-breakdown-gpt-103",
@@ -6398,7 +7445,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-upload-my-amazon-sales-report-gpt-104",
@@ -6413,7 +7463,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-csv-cash-flow-timeline-builder-gpt-105",
@@ -6428,7 +7481,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-business-budget-builder-gpt-106",
@@ -6443,7 +7499,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-llc-vs-s-corp-tax-strategy-gpt-107",
@@ -6458,7 +7517,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-monthly-finance-checklist-generator-gpt-108",
@@ -6473,7 +7535,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-financial-sop-writer-gpt-109",
@@ -6488,7 +7553,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-emergency-fund-planner-gpt-110",
@@ -6503,7 +7571,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-profit-margin-calculator-gpt-111",
@@ -6518,7 +7589,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-loan-payment-estimator-gpt-112",
@@ -6533,7 +7607,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-breakeven-point-calculator-gpt-113",
@@ -6548,7 +7625,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-cash-runway-estimator-gpt-114",
@@ -6563,7 +7643,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-saas-valuation-estimator-gpt-115",
@@ -6578,7 +7661,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-notion-cash-flow-tracker-generator-gpt-116",
@@ -6593,7 +7679,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-funding-pitch-template-builder-gpt-117",
@@ -6608,7 +7697,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-saas-kpi-dashboard-copy-generator-gpt-118",
@@ -6623,7 +7715,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-loan-offer-response-script-gpt-119",
@@ -6638,7 +7733,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-pricing-strategy-brainstorm-gpt-120",
@@ -6653,7 +7751,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-bank-connection-gpt-121",
@@ -6668,7 +7769,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-real-time-cash-flow-analyzer-gpt-122",
@@ -6683,7 +7787,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-banking-health-score-gpt-123",
@@ -6698,7 +7805,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-auto-generated-monthly-p-l-gpt-124",
@@ -6713,7 +7823,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-credit-readiness-gpt-125",
@@ -6728,7 +7841,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-loan-document-analyzer-gpt-126",
@@ -6743,7 +7859,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-funding-timeline-generator-gpt-127",
@@ -6758,7 +7877,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-instant-offer-simulator-gpt-128",
@@ -6773,7 +7895,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-open-banking-budget-gpt-129",
@@ -6788,7 +7913,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-cash-burn-runway-gpt-130",
@@ -6803,7 +7931,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-ai-cfo-insights-gpt-131",
@@ -6818,7 +7949,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-revenue-quality-analyzer-gpt-132",
@@ -6833,7 +7967,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-stripe-dashboard-gpt-133",
@@ -6848,7 +7985,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-paypal-stripe-fee-tracker-gpt-134",
@@ -6863,7 +8003,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-shopify-cash-flow-gpt-135",
@@ -6878,7 +8021,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-audit-trail-gpt-136",
@@ -6893,7 +8039,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-auto-categorize-flag-gpt-137",
@@ -6908,7 +8057,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-financial-sop-compliance-gpt-138",
@@ -6923,7 +8075,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-gpt-to-notion-financial-tracker-generator-139",
@@ -6938,7 +8093,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-openai-finops-assistant-rows-140",
@@ -6953,7 +8111,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-financial-goal-tracker-gpt-141",
@@ -6968,7 +8129,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-ai-working-capital-estimator-gpt-142",
@@ -6983,7 +8147,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-cash-buffer-strategy-gpt-143",
@@ -6998,7 +8165,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-smart-bank-account-organizer-gpt-144",
@@ -7013,7 +8183,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-vendor-leak-detector-gpt-145",
@@ -7028,7 +8201,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-credit-readiness-scanner-gpt-146",
@@ -7043,7 +8219,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-business-credit-score-tracker-gpt-147",
@@ -7058,7 +8237,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-auto-tradeline-manager-gpt-148",
@@ -7073,7 +8255,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-cash-flow-stress-test-gpt-149",
@@ -7088,7 +8273,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-ar-recovery-planner-gpt-150",
@@ -7103,7 +8291,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-daily-cash-snapshot-gpt-151",
@@ -7118,7 +8309,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-automated-prequal-match-gpt-152",
@@ -7133,7 +8327,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-funding-stack-planner-gpt-153",
@@ -7148,7 +8345,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-funding-timeline-scheduler-gpt-154",
@@ -7163,7 +8363,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-12-week-forecast-gpt-155",
@@ -7178,7 +8381,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-funding-readiness-score-gpt-156",
@@ -7193,7 +8399,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-kpi-drilldown-gpt-157",
@@ -7208,7 +8417,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-capital-literacy-gpt-158",
@@ -7223,7 +8435,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-digital-finops-ai-advisor-gpt-159",
@@ -7238,7 +8453,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-deal-intake-evaluator-gpt-160",
@@ -7253,7 +8471,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-micro-saas-scorecard-gpt-161",
@@ -7268,7 +8489,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-exit-readiness-gpt-162",
@@ -7283,7 +8507,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-post-acquisition-kpi-tracker-gpt-163",
@@ -7298,7 +8525,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "ai-concept-cash-flow-to-acquisition-budget-planner-gpt-164",
@@ -7313,7 +8543,10 @@
       "concept": true,
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "offer-concept-magnet-forge",
@@ -7329,7 +8562,10 @@
       "persona": "Founders, brokers, affiliates",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "offer-concept-capital-readiness-brief",
@@ -7345,7 +8581,10 @@
       "persona": "Business owners exploring funding",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "offer-concept-workshop-funnel-starter",
@@ -7361,7 +8600,10 @@
       "persona": "Educators, lenders, consultants, affiliates",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "offer-concept-partner-recruiter-pack",
@@ -7377,7 +8619,10 @@
       "persona": "Affiliate teams and recruiting partners",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "offer-concept-signal-sprint",
@@ -7393,7 +8638,10 @@
       "persona": "Funding agencies, partners, fintech creators",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "offer-concept-broker-brain-vault",
@@ -7409,7 +8657,10 @@
       "persona": "Broker teams, affiliate orgs",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "offer-concept-funnel-stack-buildout",
@@ -7425,7 +8676,10 @@
       "persona": "Founders and business owners preparing for funding",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "offer-concept-narrative-kit",
@@ -7441,7 +8695,10 @@
       "persona": "Fundraising/funding applicants",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "offer-concept-content-ops-install",
@@ -7457,7 +8714,10 @@
       "persona": "Loan brokers, partner teams",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "offer-concept-submission-story-builder",
@@ -7473,7 +8733,10 @@
       "persona": "Founders, acquirers, operators",
       "url": null,
       "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "resource-bpa-7abf8d9b3e55df",
@@ -7488,8 +8751,11 @@
         "/ai-lab/",
         "/start/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-80de1286a2c081",
@@ -7504,8 +8770,11 @@
         "/ai-lab/",
         "/start/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-d3a257bcf5469f",
@@ -7520,8 +8789,11 @@
         "/automations/",
         "/resources/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-73e2806f295852",
@@ -7536,15 +8808,18 @@
         "/automations/",
         "/playbooks/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-60046de0f9c3fd",
       "source_id": "bpa-60046de0f9c3fd",
       "kind": "resource",
       "title": "Funding Product Matrix",
-      "description": "Explore funding product categories; confirm current provider criteria independently.",
+      "description": "Explore the existing Funding Product Matrix application and its comprehensive 20-page broker guide. Confirm current provider criteria independently.",
       "status": "Configured domain · runtime untested",
       "categories": [],
       "url": "https://funding-product-matrix.vercel.app/",
@@ -7552,8 +8827,11 @@
         "/tools/",
         "/playbooks/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": "/assets/images/resources/funding-product-matrix.webp",
+      "image_role": "document-cover",
+      "download_url": "/downloads/funding-product-matrix-for-brokers.pdf",
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-59a09ea9d7f29d",
@@ -7567,8 +8845,11 @@
       "routes": [
         "/tools/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-7c221447f5ee96",
@@ -7583,8 +8864,11 @@
         "/tools/",
         "/resources/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-e312b3aa9c0c44",
@@ -7599,8 +8883,11 @@
         "/start/",
         "/blueprint/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-2d4ef7af1bd9c9",
@@ -7615,8 +8902,11 @@
         "/blueprint/",
         "/field-notes/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-9cacb6b489ec1a",
@@ -7631,8 +8921,11 @@
         "/ai-lab/",
         "/resources/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-1f5467041f5f20",
@@ -7647,8 +8940,11 @@
         "/partners/",
         "/blueprint/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-6a64b5227cf263",
@@ -7662,8 +8958,11 @@
       "routes": [
         "/tools/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-28948e523f4969",
@@ -7677,8 +8976,11 @@
       "routes": [
         "/tools/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-d53960914e65cb",
@@ -7692,8 +8994,11 @@
       "routes": [
         "/tools/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-052e61bc083695",
@@ -7708,8 +9013,11 @@
         "/tools/",
         "/resources/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-5f9e797600d69d",
@@ -7723,8 +9031,11 @@
       "routes": [
         "/tools/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-117c961695fca7",
@@ -7740,8 +9051,11 @@
         "/blueprint/",
         "/automations/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-8a72d225f2689b",
@@ -7757,8 +9071,11 @@
         "/ai-lab/",
         "/playbooks/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-bpa-a2af1f00b9c96f",
@@ -7773,8 +9090,55 @@
         "/blueprint/",
         "/start/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
+    },
+    {
+      "id": "resource-bpa-838ed58f0d1c40",
+      "source_id": "bpa-838ed58f0d1c40",
+      "kind": "resource",
+      "title": "AI Loan Broker Stack — 2026 Operator Playbook",
+      "description": "A 28-page practical operator playbook for building an AI-supported funding brokerage.",
+      "status": "Public PDF · 28 pages",
+      "categories": [],
+      "url": "/downloads/ai-loan-broker-stack-2026-operator-playbook.pdf",
+      "routes": [
+        "/ai-lab/",
+        "/playbooks/",
+        "/resources/"
+      ],
+      "image_url": "/assets/images/resources/ai-loan-broker-stack-2026.webp",
+      "image_role": "document-cover",
+      "download_url": "/downloads/ai-loan-broker-stack-2026-operator-playbook.pdf",
+      "related_images": [
+        "/assets/images/resources/five-tool-starter-stack.webp"
+      ],
+      "affiliate_url": null
+    },
+    {
+      "id": "resource-bpa-follow-up-script-pack-2026",
+      "source_id": "bpa-follow-up-script-pack-2026",
+      "kind": "resource",
+      "title": "Follow-Up Script Pack — 2026 Operator Playbook",
+      "description": "Existing follow-up scripts for small-business leads and relationship management.",
+      "status": "Public PDF guide",
+      "categories": [],
+      "url": "/downloads/follow-up-script-pack-2026.pdf",
+      "routes": [
+        "/playbooks/",
+        "/automations/",
+        "/resources/"
+      ],
+      "image_url": "/assets/images/resources/follow-up-script-pack.webp",
+      "image_role": "document-cover",
+      "download_url": "/downloads/follow-up-script-pack-2026.pdf",
+      "related_images": [
+        "/assets/images/resources/automate-your-follow-ups.webp"
+      ],
+      "affiliate_url": null
     },
     {
       "id": "resource-editorial-ai-prompts",
@@ -7790,8 +9154,11 @@
         "/resources/",
         "/playbooks/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-editorial-claude-skills",
@@ -7806,8 +9173,11 @@
         "/ai-lab/",
         "/resources/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-editorial-registry-build",
@@ -7822,8 +9192,11 @@
         "/field-notes/",
         "/about/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     },
     {
       "id": "resource-editorial-six-designs",
@@ -7837,8 +9210,11 @@
       "routes": [
         "/field-notes/"
       ],
-      "affiliate_url": null,
-      "image_url": null
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": [],
+      "affiliate_url": null
     }
   ],
   "edition_associations": {
@@ -7848,23 +9224,23 @@
       "application-moonshine-broker",
       "gpt-agent-launch-site-builder",
       "gpt-funding-workflow-sop-builder-gpt",
-      "application-agent-hunt"
+      "resource-bpa-838ed58f0d1c40"
     ],
     "your-income-problem-isnt-leads-its-your-identity": [
       "gpt-broker-follow-up-machine-gpt",
       "gpt-agent-launch-site-builder",
+      "resource-bpa-follow-up-script-pack-2026",
       "application-affiliate-launch-kit-generator",
       "application-dac-pay",
-      "application-moonshine-broker",
-      "gpt-funding-workflow-sop-builder-gpt"
+      "application-moonshine-broker"
     ],
     "stop-selling-funding-start-being-the-local-plug": [
+      "resource-bpa-838ed58f0d1c40",
       "application-affiliate-launch-kit-generator",
       "application-dac-pay",
       "application-moonshine-broker",
       "application-operator-funding-site",
-      "application-start-your-agency",
-      "partner-bank-breezy"
+      "application-start-your-agency"
     ],
     "stop-quoting-rates-start-closing-deals-the-january-gym-funding-play-what-dac-just-changed": [
       "application-start-your-agency",
@@ -7893,7 +9269,8 @@
     "how-to-kill-the-identity-crisis-that-follows-rejection": [],
     "nervous-system-hijackwhy-you-cant-just-get-over-it": [],
     "rejection-sensitivity-the-killer-you-never-saw-coming": [
-      "resource-bpa-2d4ef7af1bd9c9"
+      "resource-bpa-2d4ef7af1bd9c9",
+      "resource-bpa-follow-up-script-pack-2026"
     ],
     "game-plan-the-unfiltered-truth-about-building-your-funding-empire-before-the-rents-late-again": [
       "gpt-agent-launch-site-builder",
@@ -7909,13 +9286,14 @@
       "partner-parker",
       "resource-bpa-73e2806f295852",
       "resource-bpa-80de1286a2c081",
-      "resource-editorial-registry-build"
+      "resource-bpa-838ed58f0d1c40"
     ],
     "how-to-turn-a-stack-of-coupons-into-a-6-figure-funding-hustle": [
       "application-affiliate-launch-kit-generator",
       "application-agent-hunt",
       "application-capitalstack",
-      "application-dac-pay"
+      "application-dac-pay",
+      "resource-bpa-838ed58f0d1c40"
     ],
     "the-gospel-according-to-grind-why-most-leaders-fail-and-how-you-wont": [
       "application-agent-hunt",
@@ -7942,11 +9320,11 @@
     ],
     "from-broke-to-multiplying-the-no-bs-guide-to-building-a-high-performing-sales-culture": [
       "gpt-agent-launch-site-builder",
+      "resource-bpa-60046de0f9c3fd",
       "application-ai-funding-coach",
       "application-amazon-payout-unlocker",
       "application-operator-funding-site",
-      "gpt-broker-follow-up-machine-gpt",
-      "resource-bpa-60046de0f9c3fd"
+      "gpt-broker-follow-up-machine-gpt"
     ],
     "welcome-to-the-funding-agency-blueprint": [
       "application-affiliate-launch-kit-generator",

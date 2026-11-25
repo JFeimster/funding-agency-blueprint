@@ -17,7 +17,11 @@
         "/about/"
       ],
       "label": "Publication link recovered",
-      "url": "https://www.linkedin.com/newsletters/7327196925177327617/"
+      "url": "https://www.linkedin.com/newsletters/7327196925177327617/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-c85151fb910e3e",
@@ -29,7 +33,11 @@
         "/about/"
       ],
       "label": "Interest form",
-      "url": "https://tally.so/r/mOe658"
+      "url": "https://tally.so/r/mOe658",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-3f642d49a8ed95",
@@ -42,7 +50,11 @@
         "/ai-lab/"
       ],
       "label": "Edition 17 · Published 2026-11-25",
-      "url": "/editions/your-funding-agency-just-got-two-ai-employees/"
+      "url": "/editions/your-funding-agency-just-got-two-ai-employees/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-7abf8d9b3e55df",
@@ -54,7 +66,11 @@
         "/start/"
       ],
       "label": "GPT link · access may vary",
-      "url": "https://chatgpt.com/g/g-1u8W1T1bM-start-your-own-funding-agency"
+      "url": "https://chatgpt.com/g/g-1u8W1T1bM-start-your-own-funding-agency",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-80de1286a2c081",
@@ -66,7 +82,11 @@
         "/start/"
       ],
       "label": "GPT link · access may vary",
-      "url": "https://chatgpt.com/g/g-sAsXvLr6H-affiliate-agency-gpt"
+      "url": "https://chatgpt.com/g/g-sAsXvLr6H-affiliate-agency-gpt",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-d3a257bcf5469f",
@@ -78,7 +98,11 @@
         "/resources/"
       ],
       "label": "Source-linked video · playback untested",
-      "url": "https://youtu.be/-KEEAlEBDO0"
+      "url": "https://youtu.be/-KEEAlEBDO0",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-73e2806f295852",
@@ -90,19 +114,27 @@
         "/playbooks/"
       ],
       "label": "Configured domain · runtime untested",
-      "url": "https://funding-workflow-builder.vercel.app/"
+      "url": "https://funding-workflow-builder.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-60046de0f9c3fd",
       "title": "Funding Product Matrix",
-      "description": "Explore funding product categories; confirm current provider criteria independently.",
+      "description": "Explore the existing Funding Product Matrix application and its comprehensive 20-page broker guide. Confirm current provider criteria independently.",
       "kind": "application",
       "routes": [
         "/tools/",
         "/playbooks/"
       ],
       "label": "Configured domain · runtime untested",
-      "url": "https://funding-product-matrix.vercel.app/"
+      "url": "https://funding-product-matrix.vercel.app/",
+      "image_url": "/assets/images/resources/funding-product-matrix.webp",
+      "image_role": "document-cover",
+      "download_url": "/downloads/funding-product-matrix-for-brokers.pdf",
+      "related_images": []
     },
     {
       "id": "bpa-59a09ea9d7f29d",
@@ -113,7 +145,11 @@
         "/tools/"
       ],
       "label": "Configured domain · runtime untested",
-      "url": "https://funding-tools-os.vercel.app/"
+      "url": "https://funding-tools-os.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-7c221447f5ee96",
@@ -125,7 +161,11 @@
         "/resources/"
       ],
       "label": "Configured domain · runtime untested",
-      "url": "https://tools.distilledfunding.com/"
+      "url": "https://tools.distilledfunding.com/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-e312b3aa9c0c44",
@@ -137,7 +177,11 @@
         "/blueprint/"
       ],
       "label": "Configured domain · runtime untested",
-      "url": "https://funding-action-plan.vercel.app/"
+      "url": "https://funding-action-plan.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-2d4ef7af1bd9c9",
@@ -149,7 +193,11 @@
         "/field-notes/"
       ],
       "label": "Configured domain · runtime untested",
-      "url": "https://funding-operator-os.vercel.app/"
+      "url": "https://funding-operator-os.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-9cacb6b489ec1a",
@@ -161,7 +209,11 @@
         "/resources/"
       ],
       "label": "Configured domain · runtime untested",
-      "url": "https://funding-data-room-copilot.vercel.app/"
+      "url": "https://funding-data-room-copilot.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-1f5467041f5f20",
@@ -173,7 +225,11 @@
         "/blueprint/"
       ],
       "label": "Configured domain · runtime untested",
-      "url": "https://funding-partners-os.vercel.app/"
+      "url": "https://funding-partners-os.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-6a64b5227cf263",
@@ -184,7 +240,11 @@
         "/tools/"
       ],
       "label": "Source-reported live · runtime untested",
-      "url": "https://trucker-repair-tracker.vercel.app/"
+      "url": "https://trucker-repair-tracker.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-239f8e40c44cac",
@@ -195,7 +255,11 @@
         "/tools/"
       ],
       "label": "Source-reported live · runtime untested",
-      "url": "https://amazon-payout-unlocker.vercel.app/"
+      "url": "https://amazon-payout-unlocker.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-28948e523f4969",
@@ -206,7 +270,11 @@
         "/tools/"
       ],
       "label": "Source-reported live · runtime untested",
-      "url": "https://inventory-turnover-accelerator.vercel.app/"
+      "url": "https://inventory-turnover-accelerator.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-d53960914e65cb",
@@ -217,7 +285,11 @@
         "/tools/"
       ],
       "label": "Source-reported live · runtime untested",
-      "url": "https://equity-defender.vercel.app/"
+      "url": "https://equity-defender.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-052e61bc083695",
@@ -229,7 +301,11 @@
         "/resources/"
       ],
       "label": "Source-reported live · runtime untested",
-      "url": "https://investor-data-room-zeta.vercel.app/"
+      "url": "https://investor-data-room-zeta.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-5f9e797600d69d",
@@ -240,7 +316,11 @@
         "/tools/"
       ],
       "label": "Source-reported live · runtime untested",
-      "url": "https://cash-command-pi.vercel.app/"
+      "url": "https://cash-command-pi.vercel.app/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-117c961695fca7",
@@ -253,7 +333,11 @@
         "/automations/"
       ],
       "label": "Original editorial adaptation",
-      "url": "/downloads/lead-to-funding-workflow.md"
+      "url": "/downloads/lead-to-funding-workflow.md",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-8a72d225f2689b",
@@ -266,7 +350,11 @@
         "/playbooks/"
       ],
       "label": "Original editorial adaptation",
-      "url": "/ai-lab/"
+      "url": "/ai-lab/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-a2af1f00b9c96f",
@@ -278,7 +366,11 @@
         "/start/"
       ],
       "label": "Original editorial adaptation",
-      "url": "/downloads/agency-launch-scorecard.csv"
+      "url": "/downloads/agency-launch-scorecard.csv",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "bpa-455fe70454d784",
@@ -290,7 +382,49 @@
         "/automations/"
       ],
       "label": "Original editorial adaptation",
-      "url": "/downloads/lead-to-funding-workflow.md"
+      "url": "/downloads/lead-to-funding-workflow.md",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
+    },
+    {
+      "id": "bpa-838ed58f0d1c40",
+      "title": "AI Loan Broker Stack — 2026 Operator Playbook",
+      "description": "A 28-page practical operator playbook for building an AI-supported funding brokerage.",
+      "kind": "guide",
+      "routes": [
+        "/ai-lab/",
+        "/playbooks/",
+        "/resources/"
+      ],
+      "label": "Public PDF · 28 pages",
+      "url": "/downloads/ai-loan-broker-stack-2026-operator-playbook.pdf",
+      "image_url": "/assets/images/resources/ai-loan-broker-stack-2026.webp",
+      "image_role": "document-cover",
+      "download_url": "/downloads/ai-loan-broker-stack-2026-operator-playbook.pdf",
+      "related_images": [
+        "/assets/images/resources/five-tool-starter-stack.webp"
+      ]
+    },
+    {
+      "id": "bpa-follow-up-script-pack-2026",
+      "title": "Follow-Up Script Pack — 2026 Operator Playbook",
+      "description": "Existing follow-up scripts for small-business leads and relationship management.",
+      "kind": "guide",
+      "routes": [
+        "/playbooks/",
+        "/automations/",
+        "/resources/"
+      ],
+      "label": "Public PDF guide",
+      "url": "/downloads/follow-up-script-pack-2026.pdf",
+      "image_url": "/assets/images/resources/follow-up-script-pack.webp",
+      "image_role": "document-cover",
+      "download_url": "/downloads/follow-up-script-pack-2026.pdf",
+      "related_images": [
+        "/assets/images/resources/automate-your-follow-ups.webp"
+      ]
     },
     {
       "id": "editorial-ai-prompts",
@@ -303,7 +437,11 @@
         "/playbooks/"
       ],
       "label": "Publisher article link · access untested",
-      "url": "https://www.distilledfunding.com/post/ai-prompts-for-business-funding"
+      "url": "https://www.distilledfunding.com/post/ai-prompts-for-business-funding",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "editorial-claude-skills",
@@ -315,7 +453,11 @@
         "/resources/"
       ],
       "label": "Publisher article link · access untested",
-      "url": "https://www.distilledfunding.com/post/claude-skills-for-finance"
+      "url": "https://www.distilledfunding.com/post/claude-skills-for-finance",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "editorial-registry-build",
@@ -327,7 +469,11 @@
         "/about/"
       ],
       "label": "Build note · November 2026",
-      "url": "/resources/"
+      "url": "/resources/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "editorial-six-designs",
@@ -338,7 +484,11 @@
         "/field-notes/"
       ],
       "label": "Build note · November 2026",
-      "url": "/sites/brokers-manifesto/"
+      "url": "/sites/brokers-manifesto/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     },
     {
       "id": "editorial-from-scratch",
@@ -351,7 +501,11 @@
         "/blueprint/"
       ],
       "label": "In production · companion roadmap",
-      "url": "/blueprint/"
+      "url": "/blueprint/",
+      "image_url": null,
+      "image_role": null,
+      "download_url": null,
+      "related_images": []
     }
   ],
   "toolConcepts": [

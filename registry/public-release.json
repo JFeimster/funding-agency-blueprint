@@ -89,13 +89,16 @@
     {
       "id": "bpa-60046de0f9c3fd",
       "title": "Funding Product Matrix",
-      "description": "Explore funding product categories; confirm current provider criteria independently.",
+      "description": "Explore the existing Funding Product Matrix application and its comprehensive 20-page broker guide. Confirm current provider criteria independently.",
       "kind": "application",
       "routes": [
         "/tools/",
         "/playbooks/"
       ],
-      "label": "Configured domain · runtime untested"
+      "label": "Configured domain · runtime untested",
+      "download_url": "/downloads/funding-product-matrix-for-brokers.pdf",
+      "image_url": "/assets/images/resources/funding-product-matrix.webp",
+      "image_role": "document-cover"
     },
     {
       "id": "bpa-59a09ea9d7f29d",
@@ -272,6 +275,44 @@
       ],
       "label": "Original editorial adaptation",
       "local": "/downloads/lead-to-funding-workflow.md"
+    },
+    {
+      "id": "bpa-838ed58f0d1c40",
+      "title": "AI Loan Broker Stack — 2026 Operator Playbook",
+      "description": "A 28-page practical operator playbook for building an AI-supported funding brokerage.",
+      "kind": "guide",
+      "routes": [
+        "/ai-lab/",
+        "/playbooks/",
+        "/resources/"
+      ],
+      "label": "Public PDF · 28 pages",
+      "local": "/downloads/ai-loan-broker-stack-2026-operator-playbook.pdf",
+      "download_url": "/downloads/ai-loan-broker-stack-2026-operator-playbook.pdf",
+      "image_url": "/assets/images/resources/ai-loan-broker-stack-2026.webp",
+      "image_role": "document-cover",
+      "related_images": [
+        "/assets/images/resources/five-tool-starter-stack.webp"
+      ]
+    },
+    {
+      "id": "bpa-follow-up-script-pack-2026",
+      "title": "Follow-Up Script Pack — 2026 Operator Playbook",
+      "description": "Existing follow-up scripts for small-business leads and relationship management.",
+      "kind": "guide",
+      "routes": [
+        "/playbooks/",
+        "/automations/",
+        "/resources/"
+      ],
+      "label": "Public PDF guide",
+      "local": "/downloads/follow-up-script-pack-2026.pdf",
+      "download_url": "/downloads/follow-up-script-pack-2026.pdf",
+      "image_url": "/assets/images/resources/follow-up-script-pack.webp",
+      "image_role": "document-cover",
+      "related_images": [
+        "/assets/images/resources/automate-your-follow-ups.webp"
+      ]
     }
   ],
   "supplements": [

@@ -6556,17 +6556,17 @@
           "source_id": "16AuIytSoYdU9Jau6Rk-DdGCqotl6-mOgizKrMw8wYTU"
         }
       ],
-      "publication_status": "unknown",
+      "publication_status": "published",
       "verification_status": "metadata_retrieved",
       "verified_at": "2026-11-25",
-      "access_level": "review_required",
-      "public_release_approved": false,
+      "access_level": "public",
+      "public_release_approved": true,
       "live_url": null,
       "brand": null,
       "target_persona": null,
       "priority": "P1",
-      "integration_method": "adapt_after_review",
-      "notes": ""
+      "integration_method": "existing_public_pdf",
+      "notes": "28-page public PDF derivative; editable source remains private. Embedded CTA destinations retained; Tally destinations resolved, tools hub access could not be confirmed."
     },
     {
       "id": "bpa-b9f17bc8aa3903",
@@ -8566,6 +8566,23 @@
       "integration_method": "review_then_link",
       "notes": "GitHub existence confirmed; runtime and public access not tested. Same-name Vercel association is provisional.",
       "repository_url": "https://github.com/JFeimster/Moonsine-Partner-Page"
+    },
+    {
+      "id": "bpa-follow-up-script-pack-2026",
+      "title": "Follow-Up Script Pack — 2026 Operator Playbook",
+      "asset_type": "guide",
+      "target_routes": [
+        "/playbooks/",
+        "/automations/",
+        "/resources/"
+      ],
+      "source_records": [],
+      "publication_status": "published",
+      "verification_status": "public_pdf_reviewed",
+      "access_level": "public",
+      "public_release_approved": true,
+      "live_url": null,
+      "notes": "Existing small-business follow-up guide; public PDF derivative."
     }
   ]
 }

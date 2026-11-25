@@ -9,7 +9,7 @@ function makePublic(master,manifest){
 const byId=new Map(master.assets.map(x=>[x.id,x]));
 const allowed=new Set(["/","/editions/","/blueprint/","/playbooks/","/ai-lab/","/automations/","/tools/","/partners/","/resources/","/field-notes/","/start/","/about/"]);
 function safeUrl(s){if(typeof s!=="string")return false;if(/^\/(?!\/)[a-z0-9/_\-.]*$/i.test(s)&&!s.includes("..")&&!s.startsWith("/registry"))return true;const m=s.match(/^https:\/\/([a-z0-9.-]+)(?:\/[^\s]*)?$/i);if(!m)return false;const h=m[1].toLowerCase();return !/[?&](?:token|signature|x-amz-credential)=/i.test(s)&&(["www.linkedin.com","tally.so","chatgpt.com","youtu.be","www.distilledfunding.com","tools.distilledfunding.com"].includes(h)||h.endsWith(".vercel.app"))}
-const project=e=>({id:e.id,title:e.title,description:e.description,kind:e.kind,routes:e.routes,label:e.label,url:e.url});
+const project=e=>({id:e.id,title:e.title,description:e.description,kind:e.kind,routes:e.routes,label:e.label,url:e.url,image_url:e.image_url||null,image_role:e.image_role||null,download_url:e.download_url||null,related_images:e.related_images||[]});
 const assets=[...manifest.entries.map(e=>{const s=byId.get(e.id);if(!s)throw Error("Unknown master record "+e.id);if(!e.local&&(!s.live_url||["internal","private","restricted"].includes(s.access_level)))throw Error("Restricted or missing URL "+e.id);return project({...e,url:e.local||s.live_url})}),...manifest.supplements.map(project)];
 const seen=new Set();for(const a of assets){if(seen.has(a.id)||!safeUrl(a.url)||!a.routes.every(r=>allowed.has(r)))throw Error("Invalid public record "+a.id);seen.add(a.id)}
 for(const u of Object.values(manifest.publication))if(!safeUrl(u))throw Error("Invalid publication link");

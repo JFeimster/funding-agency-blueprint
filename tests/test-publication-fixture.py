@@ -19,6 +19,7 @@ with tempfile.TemporaryDirectory(prefix='fab-publication-fixture-') as temp:
     staging = base / 'staging'
     shutil.copytree(EXPORT, staging)
     old = json.loads((site / 'data/editions.json').read_text(encoding='utf-8'))
+    resource_count = len(json.loads((site / 'data/resource-ecosystem.json').read_text(encoding='utf-8'))['records'])
     originals = {r['slug']: hashlib.sha256((site / 'content/editions' / (r['slug'] + '.md')).read_bytes()).hexdigest() for r in old if r.get('status') == 'published'}
     manifest_path = staging / 'editions-source.json'
     manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
@@ -51,7 +52,7 @@ with tempfile.TemporaryDirectory(prefix='fab-publication-fixture-') as temp:
     assert len([r for r in records if r.get('title') == manifest[0]['title']]) == 1
     assert next(r for r in records if r['slug'] == slug)['id'] == 'ai-powered-agency-from-scratch'
     assert next(r for r in records if r['slug'] == slug)['related'] == ['blueprint', 'ai-lab', 'automations']
-    assert len(json.loads((site / 'data/resource-ecosystem.json').read_text(encoding='utf-8'))['records']) == 443
+    assert len(json.loads((site / 'data/resource-ecosystem.json').read_text(encoding='utf-8'))['records']) == resource_count
     for old_slug, digest in originals.items():
         assert hashlib.sha256((site / 'content/editions' / (old_slug + '.md')).read_bytes()).hexdigest() == digest
     page = (site / 'editions' / slug / 'index.html').read_text(encoding='utf-8')
@@ -60,4 +61,4 @@ with tempfile.TemporaryDirectory(prefix='fab-publication-fixture-') as temp:
     assert 'EDITION 18' in (site / 'index.html').read_text(encoding='utf-8')
     assert f'/editions/{slug}/' in (site / 'sitemap.xml').read_text(encoding='utf-8')
     assert '18 records' in (site / 'editions/index.html').read_text(encoding='utf-8')
-    print('Fixture passed: 18 published, 1 planned, 443 resources, original hashes retained, safe Markdown, repeat run stable')
+    print(f'Fixture passed: 18 published, 1 planned, {resource_count} resources, original hashes retained, safe Markdown, repeat run stable')
