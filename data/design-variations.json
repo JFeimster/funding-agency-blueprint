@@ -1,0 +1,34 @@
+{
+  "project": "The Funding Agency Blueprint",
+  "publisher": "Moonshine Capital",
+  "primary_theme": "brokers-manifesto",
+  "primary_path": "/",
+  "status": "development-starter",
+  "variations": [
+    {
+      "id": "funding-agency-blueprint-press",
+      "slug": "blueprint-press",
+      "name": "Blueprint Press",
+      "path": "/sites/blueprint-press/",
+      "theme": "Independent Magazine Editorial + Protocol Grid",
+      "is_primary": false
+    },
+    {
+      "id": "funding-agency-agency-signal",
+      "slug": "agency-signal",
+      "name": "Agency Signal",
+      "path": "/sites/agency-signal/",
+      "theme": "Ember Matrix + Protocol Grid",
+      "is_primary": false
+    },
+    {
+      "id": "funding-agency-brokers-manifesto",
+      "slug": "brokers-manifesto",
+      "name": "The Broker’s Manifesto",
+      "path": "/sites/brokers-manifesto/",
+      "theme": "Punk Utility Brutalism + Neo-Brutalist Jester",
+      "is_primary": true
+    }
+  ],
+  "primary": "brokers-manifesto"
+}

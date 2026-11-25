@@ -1,0 +1,41 @@
+[
+  {
+    "title": "The Funding Agency Blueprint — Blueprint Press",
+    "slug": "funding-agency-blueprint-press",
+    "category": "Editorial & Media",
+    "type": "static-site",
+    "status": "portfolio-ready",
+    "source": "funding-agency-blueprint project",
+    "path": "sites/funding-agency-blueprint-press",
+    "livePath": "/sites/funding-agency-blueprint-press/",
+    "hasIndex": true,
+    "variantNumbers": [],
+    "notes": "Standalone editorial design study; copy the site subfolder when integrating. Primary production design: Broker’s Manifesto."
+  },
+  {
+    "title": "The Funding Agency Blueprint — Agency Signal",
+    "slug": "funding-agency-agency-signal",
+    "category": "Editorial & Media",
+    "type": "static-site",
+    "status": "portfolio-ready",
+    "source": "funding-agency-blueprint project",
+    "path": "sites/funding-agency-agency-signal",
+    "livePath": "/sites/funding-agency-agency-signal/",
+    "hasIndex": true,
+    "variantNumbers": [],
+    "notes": "Standalone editorial design study; copy the site subfolder when integrating. Primary production design: Broker’s Manifesto."
+  },
+  {
+    "title": "The Funding Agency Blueprint — Broker’s Manifesto",
+    "slug": "funding-agency-brokers-manifesto",
+    "category": "Editorial & Media",
+    "type": "static-site",
+    "status": "portfolio-ready",
+    "source": "funding-agency-blueprint project",
+    "path": "sites/funding-agency-brokers-manifesto",
+    "livePath": "/sites/funding-agency-brokers-manifesto/",
+    "hasIndex": true,
+    "variantNumbers": [],
+    "notes": "Standalone editorial design study; copy the site subfolder when integrating. Primary production design: Broker’s Manifesto."
+  }
+]
