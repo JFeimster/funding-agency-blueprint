@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "publications": {
+    "fab": {
+      "name": "The Funding Agency Blueprint",
+      "masthead": "FAB.",
+      "publisher": "Moonshine Capital",
+      "tagline": "More Deals. Less Bullshit. Better Systems.",
+      "default_theme": "brokers-manifesto",
+      "registry": "data/image-production.registry.json",
+      "reference": "assets/social/repo-social-preview.png",
+      "output_root": "assets/images",
+      "manifest": "data/image-assets.generated.json",
+      "catalog_root": "assets/images/generated/fab"
+    }
+  },
+  "defaults": {
+    "model": "gpt-image-1.5",
+    "quality": "medium",
+    "webp_quality": 88
+  }
+}

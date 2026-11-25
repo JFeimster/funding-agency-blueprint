@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "layouts": {
+    "split-paper": {
+      "mode": "split",
+      "background": "paper",
+      "foreground": "ink",
+      "art_side": "right"
+    },
+    "split-dark": {
+      "mode": "split",
+      "background": "ink",
+      "foreground": "paper",
+      "art_side": "left"
+    },
+    "cover": {
+      "mode": "stack",
+      "background": "paper",
+      "foreground": "ink"
+    },
+    "diagram": {
+      "mode": "stack",
+      "background": "ink",
+      "foreground": "paper"
+    },
+    "metric": {
+      "mode": "split",
+      "background": "lime",
+      "foreground": "ink",
+      "art_side": "right"
+    },
+    "catalog-card": {
+      "mode": "stack",
+      "background": "paper",
+      "foreground": "ink"
+    },
+    "edition-cover": {
+      "mode": "stack",
+      "background": "ink",
+      "foreground": "paper"
+    },
+    "quote-poster": {
+      "mode": "split",
+      "background": "paper",
+      "foreground": "ink",
+      "art_side": "left"
+    }
+  },
+  "catalogs": [
+    [
+      "calculators.json",
+      "calculator",
+      "Concept specification",
+      "07"
+    ],
+    [
+      "ai-agents.json",
+      "gpt",
+      "AI assistant",
+      "05"
+    ],
+    [
+      "ai-agent-concepts.json",
+      "ai-concept",
+      "AI concept",
+      "05"
+    ],
+    [
+      "partners.json",
+      "partner",
+      "Partner profile",
+      "08"
+    ],
+    [
+      "funding-products.json",
+      "funding-product",
+      "Funding product",
+      "04"
+    ],
+    [
+      "applications.json",
+      "application",
+      "Application",
+      "06"
+    ],
+    [
+      "offers.json",
+      "offer",
+      "Development concept",
+      "10"
+    ],
+    [
+      "editions.json",
+      "edition",
+      "Newsletter edition",
+      "09"
+    ]
+  ]
+}

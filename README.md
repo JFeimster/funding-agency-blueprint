@@ -78,3 +78,7 @@ Educational examples are not funding offers or income promises. The registry fol
 Partner directories: `/partners/funding/`, `/partners/affiliates/`, `/partners/technology/`. 59 distinct entities, 41 funding listings, 38 affiliate-program listings and 18 technology listings (overlapping classifications). Affiliate status is source-recorded; recommendations do not imply affiliation.
 
 Public catalogs: funding-partners, affiliate-programs, recommended-tools, funding-products, calculators, ai-agents, ai-agent-concepts, applications and offers under `data/`. Includes 138 calculator specifications (119 original concepts matched), 25 GPT assets, 164 AI concepts, 24 public repository/deployment matches and 10 Moonshine offer concepts. No borrower or recruit CRM records imported. Concepts do not require live URLs. Deployment inventory links are not runtime guarantees. Phase 4 generator preserves the enriched calculator section; other Phase 5 catalogs are curated snapshots of upstream registries.
+
+## Creative Asset Factory
+
+40 image specifications, reusable visual themes, deterministic editorial posters and batch catalog rendering. See [the production guide](docs/CREATIVE-ASSET-FACTORY.md). AI generation is opt-in; the static site and production-only deployment remain independent of the local creative pipeline.

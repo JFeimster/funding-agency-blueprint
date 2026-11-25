@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "themes": {
+    "brokers-manifesto": {
+      "palette": {
+        "lime": "#B8FF38",
+        "ink": "#131513",
+        "paper": "#F6F5EE",
+        "red": "#FC4D3C",
+        "purple": "#B746E9"
+      },
+      "art_direction": "Aggressive neo-brutalist editorial collage, classical marble sculpture, acid-lime brush strokes, black-and-white industrial engraving, halftone and torn paper. High contrast; no corporate stock photography."
+    },
+    "technical-deconstruction": {
+      "palette": {
+        "lime": "#B8FF38",
+        "ink": "#131513",
+        "paper": "#F6F5EE",
+        "red": "#FC4D3C",
+        "purple": "#B746E9"
+      },
+      "art_direction": "Spare black ink architectural line drawing on warm paper, exploded mechanical components, technical grid details and selective acid-lime circuitry. Generous negative space, precise line work; not a dense collage."
+    },
+    "neo-pop-brutalism": {
+      "palette": {
+        "lime": "#B8FF38",
+        "ink": "#131513",
+        "paper": "#F6F5EE",
+        "red": "#FC4D3C",
+        "purple": "#B746E9"
+      },
+      "art_direction": "Classical sculpture against oversized geometric cutouts, flat acid lime and limited electric purple, hard shadows and angular graphic shapes. Contemporary neo-pop art; strong silhouette, less distressed texture."
+    },
+    "industrial-editorial": {
+      "palette": {
+        "lime": "#B8FF38",
+        "ink": "#131513",
+        "paper": "#F6F5EE",
+        "red": "#FC4D3C",
+        "purple": "#B746E9"
+      },
+      "art_direction": "Monochrome industrial printmaking, bold machinery silhouettes, diagrammatic composition, restrained acid-lime highlights, warm-paper background and asymmetric magazine layout."
+    }
+  }
+}
