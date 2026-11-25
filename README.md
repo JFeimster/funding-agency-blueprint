@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="repo-social-preview" src="https://github.com/user-attachments/assets/be6d7f69-facb-4430-8b11-47687e672d0e" />
+
 # The Funding Agency Blueprint
 
 **Primary design:** Broker’s Manifesto — neo-brutalist editorial.
