@@ -1,0 +1,351 @@
+[
+  {
+    "id": "business-credit-workshop",
+    "name": "Business Credit Workshop",
+    "types": [
+      "technology",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal",
+      "Consulting"
+    ],
+    "products": [
+      "Business Credit Cards / 0% Stacking",
+      "Line of Credit"
+    ],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": null,
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Business Credit Cards / 0% Stacking · Line of Credit · Personal · Consulting"
+  },
+  {
+    "id": "casca",
+    "name": "Casca",
+    "types": [
+      "technology",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Software"
+    ],
+    "products": [
+      "SBA 7(a)",
+      "Funding-as-a-Service Platform"
+    ],
+    "industries": [],
+    "relationship": "pending (source recorded)",
+    "website": null,
+    "affiliate_url": null,
+    "category": "Software",
+    "status": "pending (source recorded)",
+    "description": "SBA 7(a) · Funding-as-a-Service Platform · Software"
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "AI assistance"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://chatgpt.com/",
+    "affiliate_url": null,
+    "category": "AI assistance",
+    "status": "editorial recommendation",
+    "description": "AI assistance"
+  },
+  {
+    "id": "credit-suite",
+    "name": "Credit Suite",
+    "types": [
+      "technology",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal",
+      "Consulting",
+      "Business"
+    ],
+    "products": [],
+    "industries": [
+      "Small Business"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://creditsuite.com/",
+    "affiliate_url": null,
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Personal · Consulting · Business"
+  },
+  {
+    "id": "finta",
+    "name": "Finta.io",
+    "types": [
+      "technology",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Software"
+    ],
+    "products": [
+      "Funding-as-a-Service Platform"
+    ],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": null,
+    "category": "Software",
+    "status": "active (source recorded)",
+    "description": "Funding-as-a-Service Platform · Software"
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Source control"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://github.com/",
+    "affiliate_url": null,
+    "category": "Source control",
+    "status": "editorial recommendation",
+    "description": "Source control"
+  },
+  {
+    "id": "hubspot",
+    "name": "HubSpot",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "CRM"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://www.hubspot.com/",
+    "affiliate_url": null,
+    "category": "CRM",
+    "status": "editorial recommendation",
+    "description": "CRM"
+  },
+  {
+    "id": "kriya",
+    "name": "Kriya",
+    "types": [
+      "funding_partner",
+      "technology"
+    ],
+    "categories": [],
+    "products": [
+      "Embedded Finance (API / White-label)"
+    ],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": "https://www.kriya.co/",
+    "affiliate_url": null,
+    "category": "Provider",
+    "status": "unspecified",
+    "description": "Embedded Finance (API / White-label)"
+  },
+  {
+    "id": "lendflow",
+    "name": "Lendflow",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "API",
+      "Software"
+    ],
+    "products": [
+      "Embedded Finance (API / White-label)",
+      "Funding-as-a-Service Platform"
+    ],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": null,
+    "affiliate_url": null,
+    "category": "API",
+    "status": "unspecified",
+    "description": "Embedded Finance (API / White-label) · Funding-as-a-Service Platform · API · Software"
+  },
+  {
+    "id": "my-figures",
+    "name": "My Figures",
+    "types": [
+      "technology"
+    ],
+    "categories": [],
+    "products": [],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": "https://myfigures.com/",
+    "affiliate_url": null,
+    "category": "Provider",
+    "status": "unspecified",
+    "description": "Explore this provider or program."
+  },
+  {
+    "id": "n8n",
+    "name": "n8n",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Workflow automation"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://n8n.io/",
+    "affiliate_url": null,
+    "category": "Workflow automation",
+    "status": "editorial recommendation",
+    "description": "Workflow automation"
+  },
+  {
+    "id": "nav",
+    "name": "Nav",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Business credit"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://www.nav.com/",
+    "affiliate_url": null,
+    "category": "Business credit",
+    "status": "editorial recommendation",
+    "description": "Business credit"
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Knowledge management"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://www.notion.so/",
+    "affiliate_url": null,
+    "category": "Knowledge management",
+    "status": "editorial recommendation",
+    "description": "Knowledge management"
+  },
+  {
+    "id": "ramp",
+    "name": "Ramp",
+    "types": [
+      "funding_partner",
+      "technology",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business",
+      "Software"
+    ],
+    "products": [
+      "Business Credit Cards / 0% Stacking"
+    ],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": "https://api.fintelconnect.com/t/l/645b368ec92e38001ba614ac",
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Business Credit Cards / 0% Stacking · Business · Software"
+  },
+  {
+    "id": "supabase",
+    "name": "Supabase",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Database and authentication"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://supabase.com/",
+    "affiliate_url": null,
+    "category": "Database and authentication",
+    "status": "editorial recommendation",
+    "description": "Database and authentication"
+  },
+  {
+    "id": "tally",
+    "name": "Tally",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Intake forms"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://tally.so/",
+    "affiliate_url": null,
+    "category": "Intake forms",
+    "status": "editorial recommendation",
+    "description": "Intake forms"
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Hosting and deployment"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://vercel.com/",
+    "affiliate_url": null,
+    "category": "Hosting and deployment",
+    "status": "editorial recommendation",
+    "description": "Hosting and deployment"
+  },
+  {
+    "id": "wix",
+    "name": "Wix",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Publishing and CMS"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://www.wix.com/",
+    "affiliate_url": null,
+    "category": "Publishing and CMS",
+    "status": "editorial recommendation",
+    "description": "Publishing and CMS"
+  }
+]

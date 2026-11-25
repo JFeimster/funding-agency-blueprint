@@ -1,0 +1,227 @@
+[
+  {
+    "id": "term-loan",
+    "name": "Term Loan",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "line-of-credit",
+    "name": "Line of Credit",
+    "group": "Financing Option + Applicant-Requested"
+  },
+  {
+    "id": "business-credit-cards-0-stacking",
+    "name": "Business Credit Cards / 0% Stacking",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "working-capital-general",
+    "name": "Working Capital (General)",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "merchant-cash-advance-mca",
+    "name": "Merchant Cash Advance (MCA)",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "revenue-based-financing-rbf",
+    "name": "Revenue-Based Financing (RBF)",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "invoice-factoring",
+    "name": "Invoice Factoring",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "invoice-financing-ar-advance",
+    "name": "Invoice Financing (AR Advance)",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "purchase-order-financing",
+    "name": "Purchase Order Financing",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "inventory-financing",
+    "name": "Inventory Financing",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "equipment-financing",
+    "name": "Equipment Financing",
+    "group": "Financing Option + Applicant-Requested"
+  },
+  {
+    "id": "asset-based-lending-abl",
+    "name": "Asset-Based Lending (ABL)",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "sba-7-a",
+    "name": "SBA 7(a)",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "sba-504",
+    "name": "SBA 504",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "sba-microloan",
+    "name": "SBA Microloan",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "bridge-loan-business",
+    "name": "Bridge Loan (Business)",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "business-acquisition-financing",
+    "name": "Business Acquisition Financing",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "franchise-financing",
+    "name": "Franchise Financing",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "startup-venture-debt",
+    "name": "Startup / Venture Debt",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "embedded-finance-api-white-label",
+    "name": "Embedded Finance (API / White-label)",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "funding-as-a-service-platform",
+    "name": "Funding-as-a-Service Platform",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "auto-loan",
+    "name": "Auto Loan",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "heloc-home-equity",
+    "name": "HELOC / Home Equity",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "commercial-real-estate-loan",
+    "name": "Commercial Real Estate Loan",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "real-estate-bridge-loan",
+    "name": "Real Estate Bridge Loan",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "fix-flip-loan",
+    "name": "Fix & Flip Loan",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "ground-up-construction-loan",
+    "name": "Ground-Up Construction Loan",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "dscr-loan",
+    "name": "DSCR Loan",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "instant-micro-funding",
+    "name": "Instant Micro Funding",
+    "group": "Financing Option (Partner Database)"
+  },
+  {
+    "id": "financing-consulting",
+    "name": "Financing Consulting",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "personal-loans",
+    "name": "Personal Loans",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "business-loans",
+    "name": "Business Loans",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "unsecured-loans",
+    "name": "Unsecured Loans",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "working-capital",
+    "name": "Working Capital",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "term-loans",
+    "name": "Term Loans",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "sba-loans",
+    "name": "SBA Loans",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "merchant-cash-advance",
+    "name": "Merchant Cash Advance",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "business-credit",
+    "name": "Business Credit",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "e-commerce",
+    "name": "E-commerce",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "business-credit-lines",
+    "name": "Business Credit Lines",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "startup-funding",
+    "name": "Startup Funding",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "real-estate-financing",
+    "name": "Real Estate Financing",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "debt-consolidation",
+    "name": "Debt Consolidation",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "home-improvement",
+    "name": "Home Improvement",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  },
+  {
+    "id": "auto-refinance",
+    "name": "Auto Refinance",
+    "group": "Applicant-Requested Product Type (Intake CRM)"
+  }
+]

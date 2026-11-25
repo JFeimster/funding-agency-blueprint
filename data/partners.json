@@ -1,122 +1,1323 @@
 [
   {
-    "id": "dac-bank-breezy",
-    "name": "DAC / Bank Breezy",
-    "category": "Funding network",
-    "description": "Training and affiliate channel. Verify current authorization, terms and branding requirements before public promotions.",
-    "status": "research-unverified",
-    "verified_at": null,
-    "website": null,
-    "permission_to_promote": "unverified"
+    "id": "7-figures-credit",
+    "name": "7 Figures Credit",
+    "types": [
+      "funding_partner"
+    ],
+    "categories": [],
+    "products": [],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": "https://www.7figurescredit.com/",
+    "affiliate_url": null,
+    "category": "Provider",
+    "status": "unspecified",
+    "description": "Explore this provider or program."
   },
   {
-    "id": "rok-financial",
-    "name": "ROK Financial",
-    "category": "Funding provider",
-    "description": "Business funding partner to evaluate for product coverage and broker workflow.",
-    "status": "research-unverified",
-    "verified_at": null,
+    "id": "7-figures-funding",
+    "name": "7 Figures Funding",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal",
+      "Business"
+    ],
+    "products": [
+      "Term Loan",
+      "Line of Credit",
+      "Revenue-Based Financing (RBF)",
+      "Merchant Cash Advance (MCA)"
+    ],
+    "industries": [
+      "Startups",
+      "Entrepreneurs"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://www.7figuresfunding.com/",
+    "affiliate_url": null,
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Term Loan · Line of Credit · Revenue-Based Financing (RBF) · Merchant Cash Advance (MCA) · Personal · Business"
+  },
+  {
+    "id": "8fig",
+    "name": "8fig",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Revenue-Based Financing (RBF)"
+    ],
+    "industries": [
+      "E-commerce",
+      "Amazon Sellers",
+      "Walmart Sellers",
+      "Shopify Sellers"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://8fig.co/",
+    "affiliate_url": null,
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Revenue-Based Financing (RBF) · Business"
+  },
+  {
+    "id": "badcreditloans-com",
+    "name": "BadCreditLoans.com",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": "https://badcreditloans.com",
+    "affiliate_url": null,
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Personal"
+  },
+  {
+    "id": "bank-breezy",
+    "name": "Bank Breezy",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Working Capital (General)",
+      "Line of Credit",
+      "Term Loan",
+      "Revenue-Based Financing (RBF)",
+      "Merchant Cash Advance (MCA)"
+    ],
+    "industries": [
+      "Construction",
+      "Healthcare",
+      "Restaurants",
+      "Contractors",
+      "HVAC",
+      "Gig Workers",
+      "Self-Employed",
+      "Freelancers"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://bankbreezy.com/",
+    "affiliate_url": "https://bankbreezy.com/jason/",
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Working Capital (General) · Line of Credit · Term Loan · Revenue-Based Financing (RBF) · Merchant Cash Advance (MCA) · Business"
+  },
+  {
+    "id": "business-credit-workshop",
+    "name": "Business Credit Workshop",
+    "types": [
+      "technology",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal",
+      "Consulting"
+    ],
+    "products": [
+      "Business Credit Cards / 0% Stacking",
+      "Line of Credit"
+    ],
+    "industries": [],
+    "relationship": "active (source recorded)",
     "website": null,
-    "permission_to_promote": "unverified"
+    "affiliate_url": null,
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Business Credit Cards / 0% Stacking · Line of Credit · Personal · Consulting"
+  },
+  {
+    "id": "capchase",
+    "name": "Capchase",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Revenue-Based Financing (RBF)"
+    ],
+    "industries": [
+      "Startups",
+      "Entrepreneurs",
+      "Small Business"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://capchase.com/",
+    "affiliate_url": "https://capchase.com/referrals?referralId=395c26d9",
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Revenue-Based Financing (RBF) · Business"
+  },
+  {
+    "id": "casca",
+    "name": "Casca",
+    "types": [
+      "technology",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Software"
+    ],
+    "products": [
+      "SBA 7(a)",
+      "Funding-as-a-Service Platform"
+    ],
+    "industries": [],
+    "relationship": "pending (source recorded)",
+    "website": null,
+    "affiliate_url": null,
+    "category": "Software",
+    "status": "pending (source recorded)",
+    "description": "SBA 7(a) · Funding-as-a-Service Platform · Software"
+  },
+  {
+    "id": "cashusa-com",
+    "name": "Cashusa.com",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal"
+    ],
+    "products": [
+      "Working Capital (General)"
+    ],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": "https://fxo.co/IwM9",
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Working Capital (General) · Personal"
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "AI assistance"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://chatgpt.com/",
+    "affiliate_url": null,
+    "category": "AI assistance",
+    "status": "editorial recommendation",
+    "description": "AI assistance"
+  },
+  {
+    "id": "clearco",
+    "name": "ClearCo",
+    "types": [
+      "funding_partner"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Revenue-Based Financing (RBF)",
+      "Embedded Finance (API / White-label)"
+    ],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": "https://clear.co/",
+    "affiliate_url": null,
+    "category": "Business",
+    "status": "unspecified",
+    "description": "Revenue-Based Financing (RBF) · Embedded Finance (API / White-label) · Business"
+  },
+  {
+    "id": "credibly",
+    "name": "Credibly",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Line of Credit",
+      "Working Capital (General)",
+      "Equipment Financing"
+    ],
+    "industries": [
+      "Small Business",
+      "Healthcare",
+      "Retail"
+    ],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": null,
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Line of Credit · Working Capital (General) · Equipment Financing · Business"
+  },
+  {
+    "id": "credit-suite",
+    "name": "Credit Suite",
+    "types": [
+      "technology",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal",
+      "Consulting",
+      "Business"
+    ],
+    "products": [],
+    "industries": [
+      "Small Business"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://creditsuite.com/",
+    "affiliate_url": null,
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Personal · Consulting · Business"
+  },
+  {
+    "id": "david-allen-capital",
+    "name": "David Allen Capital",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Revenue-Based Financing (RBF)",
+      "Merchant Cash Advance (MCA)",
+      "Line of Credit",
+      "Instant Micro Funding"
+    ],
+    "industries": [
+      "Construction",
+      "Contractors",
+      "HVAC",
+      "Restaurants",
+      "Healthcare",
+      "Gig Workers",
+      "Self-Employed",
+      "Freelancers"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://davidallencapital.com",
+    "affiliate_url": "https://davidallencapital.com/jason/",
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Revenue-Based Financing (RBF) · Merchant Cash Advance (MCA) · Line of Credit · Instant Micro Funding · Business"
+  },
+  {
+    "id": "dlp-capital",
+    "name": "DLP Capital",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Real Estate"
+    ],
+    "products": [
+      "Commercial Real Estate Loan",
+      "Working Capital (General)"
+    ],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": null,
+    "category": "Real Estate",
+    "status": "active (source recorded)",
+    "description": "Commercial Real Estate Loan · Working Capital (General) · Real Estate"
+  },
+  {
+    "id": "equitynet",
+    "name": "EquityNet",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Marketplace"
+    ],
+    "products": [
+      "Startup / Venture Debt"
+    ],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": "https://equitynetinc.sjv.io/Kj1aOv",
+    "category": "Marketplace",
+    "status": "active (source recorded)",
+    "description": "Startup / Venture Debt · Marketplace"
+  },
+  {
+    "id": "finta",
+    "name": "Finta.io",
+    "types": [
+      "technology",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Software"
+    ],
+    "products": [
+      "Funding-as-a-Service Platform"
+    ],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": null,
+    "category": "Software",
+    "status": "active (source recorded)",
+    "description": "Funding-as-a-Service Platform · Software"
+  },
+  {
+    "id": "fora-financial",
+    "name": "Fora Financial",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Working Capital (General)",
+      "Term Loan"
+    ],
+    "industries": [
+      "Small Business",
+      "Retail",
+      "Restaurants"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://www.forafinancial.com/",
+    "affiliate_url": "https://forafinancial.pxf.io/c/2229127/2015280/24953",
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Working Capital (General) · Term Loan · Business"
+  },
+  {
+    "id": "founderpath",
+    "name": "Founderpath",
+    "types": [
+      "funding_partner"
+    ],
+    "categories": [],
+    "products": [
+      "Revenue-Based Financing (RBF)"
+    ],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": null,
+    "affiliate_url": null,
+    "category": "Provider",
+    "status": "unspecified",
+    "description": "Revenue-Based Financing (RBF)"
+  },
+  {
+    "id": "fund-grow",
+    "name": "Fund&Grow",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal",
+      "Business",
+      "Consulting"
+    ],
+    "products": [
+      "Working Capital (General)"
+    ],
+    "industries": [
+      "Small Business",
+      "Startups"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://www.fundandgrow.com/",
+    "affiliate_url": "https://www.fundandgrow.com/jasonfeimster/",
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Working Capital (General) · Personal · Business · Consulting"
+  },
+  {
+    "id": "fundandgrow",
+    "name": "Fund&Grow",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal",
+      "Business",
+      "Consulting"
+    ],
+    "products": [
+      "Working Capital (General)"
+    ],
+    "industries": [
+      "Small Business",
+      "Startups"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://www.fundandgrow.com/",
+    "affiliate_url": "https://www.fundandgrow.com/jasonfeimster/",
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Working Capital (General) · Personal · Business · Consulting"
+  },
+  {
+    "id": "fundera",
+    "name": "Fundera",
+    "types": [
+      "funding_partner"
+    ],
+    "categories": [
+      "Marketplace"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": "https://fundera.com",
+    "affiliate_url": null,
+    "category": "Marketplace",
+    "status": "unspecified",
+    "description": "Marketplace"
+  },
+  {
+    "id": "gator-lending",
+    "name": "Gator Lending",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Real Estate"
+    ],
+    "products": [
+      "Commercial Real Estate Loan",
+      "Real Estate Bridge Loan",
+      "Fix & Flip Loan",
+      "DSCR Loan"
+    ],
+    "industries": [
+      "Real Estate"
+    ],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": null,
+    "category": "Real Estate",
+    "status": "active (source recorded)",
+    "description": "Commercial Real Estate Loan · Real Estate Bridge Loan · Fix & Flip Loan · DSCR Loan · Real Estate"
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Source control"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://github.com/",
+    "affiliate_url": null,
+    "category": "Source control",
+    "status": "editorial recommendation",
+    "description": "Source control"
   },
   {
     "id": "gokapital",
     "name": "GoKapital",
-    "category": "Funding provider",
-    "description": "Alternative financing provider; validate current products and broker eligibility.",
-    "status": "research-unverified",
-    "verified_at": null,
-    "website": null,
-    "permission_to_promote": "unverified"
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal",
+      "Business",
+      "Real Estate"
+    ],
+    "products": [
+      "Revenue-Based Financing (RBF)",
+      "Commercial Real Estate Loan",
+      "Line of Credit",
+      "Term Loan",
+      "SBA 7(a)",
+      "Equipment Financing",
+      "Working Capital (General)",
+      "Startup / Venture Debt"
+    ],
+    "industries": [
+      "Real Estate",
+      "Healthcare",
+      "Retail"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://gokapital.com",
+    "affiliate_url": null,
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Revenue-Based Financing (RBF) · Commercial Real Estate Loan · Line of Credit · Term Loan · SBA 7(a) · Equipment Financing · Working Capital (General) · Startup / Venture Debt · Personal · Business · Real Estate"
   },
   {
-    "id": "national-business-capital",
-    "name": "National Business Capital",
-    "category": "Funding provider",
-    "description": "Financing marketplace/provider; validate current lending network and terms.",
-    "status": "research-unverified",
-    "verified_at": null,
+    "id": "guidant",
+    "name": "Guidant",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Equipment Financing"
+    ],
+    "industries": [
+      "Franchises",
+      "Startups",
+      "Small Business"
+    ],
+    "relationship": "active (source recorded)",
     "website": null,
-    "permission_to_promote": "unverified"
+    "affiliate_url": "https://www.gfprequal.com/mc",
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Equipment Financing · Business"
+  },
+  {
+    "id": "hubspot",
+    "name": "HubSpot",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "CRM"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://www.hubspot.com/",
+    "affiliate_url": null,
+    "category": "CRM",
+    "status": "editorial recommendation",
+    "description": "CRM"
+  },
+  {
+    "id": "kiava",
+    "name": "Kiava",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Real Estate"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": "https://try.kiavi.com/wc6dxe4vsra5",
+    "category": "Real Estate",
+    "status": "active (source recorded)",
+    "description": "Real Estate"
+  },
+  {
+    "id": "kriya",
+    "name": "Kriya",
+    "types": [
+      "funding_partner",
+      "technology"
+    ],
+    "categories": [],
+    "products": [
+      "Embedded Finance (API / White-label)"
+    ],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": "https://www.kriya.co/",
+    "affiliate_url": null,
+    "category": "Provider",
+    "status": "unspecified",
+    "description": "Embedded Finance (API / White-label)"
+  },
+  {
+    "id": "lendflow",
+    "name": "Lendflow",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "API",
+      "Software"
+    ],
+    "products": [
+      "Embedded Finance (API / White-label)",
+      "Funding-as-a-Service Platform"
+    ],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": null,
+    "affiliate_url": null,
+    "category": "API",
+    "status": "unspecified",
+    "description": "Embedded Finance (API / White-label) · Funding-as-a-Service Platform · API · Software"
   },
   {
     "id": "lendio",
     "name": "Lendio",
-    "category": "Funding marketplace",
-    "description": "Potential marketplace relationship; confirm current referral and API availability.",
-    "status": "research-unverified",
-    "verified_at": null,
+    "types": [
+      "funding_partner"
+    ],
+    "categories": [
+      "Marketplace"
+    ],
+    "products": [
+      "SBA 7(a)",
+      "Term Loan",
+      "Line of Credit",
+      "Equipment Financing"
+    ],
+    "industries": [],
+    "relationship": "unspecified",
     "website": null,
-    "permission_to_promote": "unverified"
+    "affiliate_url": null,
+    "category": "Marketplace",
+    "status": "unspecified",
+    "description": "SBA 7(a) · Term Loan · Line of Credit · Equipment Financing · Marketplace"
   },
   {
-    "id": "finance-factory",
-    "name": "Finance Factory",
-    "category": "Funding provider",
-    "description": "Potential funding partner; verify current programs and referral processes.",
-    "status": "research-unverified",
-    "verified_at": null,
-    "website": null,
-    "permission_to_promote": "unverified"
+    "id": "maxlend",
+    "name": "MaxLend",
+    "types": [
+      "funding_partner"
+    ],
+    "categories": [
+      "Personal"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": "https://maxlend.com",
+    "affiliate_url": null,
+    "category": "Personal",
+    "status": "unspecified",
+    "description": "Personal"
+  },
+  {
+    "id": "my-figures",
+    "name": "My Figures",
+    "types": [
+      "technology"
+    ],
+    "categories": [],
+    "products": [],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": "https://myfigures.com/",
+    "affiliate_url": null,
+    "category": "Provider",
+    "status": "unspecified",
+    "description": "Explore this provider or program."
+  },
+  {
+    "id": "n8n",
+    "name": "n8n",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Workflow automation"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://n8n.io/",
+    "affiliate_url": null,
+    "category": "Workflow automation",
+    "status": "editorial recommendation",
+    "description": "Workflow automation"
   },
   {
     "id": "nav",
     "name": "Nav",
-    "category": "Business credit technology",
-    "description": "Credit and financing education ecosystem; verify integrations and commercial arrangements.",
-    "status": "research-unverified",
-    "verified_at": null,
-    "website": null,
-    "permission_to_promote": "unverified"
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Business credit"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://www.nav.com/",
+    "affiliate_url": null,
+    "category": "Business credit",
+    "status": "editorial recommendation",
+    "description": "Business credit"
   },
   {
-    "id": "tally",
-    "name": "Tally",
-    "category": "Intake forms",
-    "description": "Form builder candidate for consented intake with controlled downstream routing.",
-    "status": "research-unverified",
-    "verified_at": null,
-    "website": null,
-    "permission_to_promote": "unverified"
-  },
-  {
-    "id": "supabase",
-    "name": "Supabase",
-    "category": "Infrastructure",
-    "description": "Database/authentication foundation for approved data and workflow infrastructure.",
-    "status": "research-unverified",
-    "verified_at": null,
-    "website": null,
-    "permission_to_promote": "unverified"
-  },
-  {
-    "id": "vercel",
-    "name": "Vercel",
-    "category": "Infrastructure",
-    "description": "Deployment host for standalone tools, publication frontend and static resources.",
-    "status": "research-unverified",
-    "verified_at": null,
-    "website": null,
-    "permission_to_promote": "unverified"
+    "id": "new-silver",
+    "name": "New Silver",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Real Estate"
+    ],
+    "products": [
+      "Ground-Up Construction Loan",
+      "Commercial Real Estate Loan"
+    ],
+    "industries": [
+      "Real Estate"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://newsilver.com/",
+    "affiliate_url": "https://fxo.co/ItIN",
+    "category": "Real Estate",
+    "status": "active (source recorded)",
+    "description": "Ground-Up Construction Loan · Commercial Real Estate Loan · Real Estate"
   },
   {
     "id": "notion",
     "name": "Notion",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Knowledge management"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://www.notion.so/",
+    "affiliate_url": null,
     "category": "Knowledge management",
-    "description": "Editorial and training knowledge base candidate, not a source of live underwriting rules.",
-    "status": "research-unverified",
-    "verified_at": null,
+    "status": "editorial recommendation",
+    "description": "Knowledge management"
+  },
+  {
+    "id": "onramp",
+    "name": "Onramp",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Revenue-Based Financing (RBF)"
+    ],
+    "industries": [
+      "E-commerce",
+      "Amazon Sellers",
+      "Shopify Sellers",
+      "Walmart Sellers"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://www.onrampfunds.com/",
+    "affiliate_url": null,
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Revenue-Based Financing (RBF) · Business"
+  },
+  {
+    "id": "opm-mastery",
+    "name": "OPM Mastery",
+    "types": [
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal",
+      "Business"
+    ],
+    "products": [
+      "Business Credit Cards / 0% Stacking"
+    ],
+    "industries": [
+      "Small Business",
+      "Entrepreneurs",
+      "Startups",
+      "Real Estate"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://opmmastery.com",
+    "affiliate_url": "https://opmmastery.referralrock.com/v2/1",
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Business Credit Cards / 0% Stacking · Personal · Business"
+  },
+  {
+    "id": "parker",
+    "name": "Parker",
+    "types": [
+      "funding_partner"
+    ],
+    "categories": [],
+    "products": [
+      "Funding-as-a-Service Platform"
+    ],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": "https://www.getparker.com/",
+    "affiliate_url": null,
+    "category": "Provider",
+    "status": "unspecified",
+    "description": "Funding-as-a-Service Platform"
+  },
+  {
+    "id": "payability",
+    "name": "Payability",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Revenue-Based Financing (RBF)",
+      "Working Capital (General)"
+    ],
+    "industries": [
+      "E-commerce",
+      "Amazon Sellers",
+      "Walmart Sellers"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://payability.com",
+    "affiliate_url": "https://fas.st/t/P7LZc7v7",
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Revenue-Based Financing (RBF) · Working Capital (General) · Business"
+  },
+  {
+    "id": "personalloans-com",
+    "name": "PersonalLoans.com",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": "https://personallaons.com/",
+    "affiliate_url": "https://fxo.co/IpnR",
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Personal"
+  },
+  {
+    "id": "ramp",
+    "name": "Ramp",
+    "types": [
+      "funding_partner",
+      "technology",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business",
+      "Software"
+    ],
+    "products": [
+      "Business Credit Cards / 0% Stacking"
+    ],
+    "industries": [],
+    "relationship": "active (source recorded)",
     "website": null,
-    "permission_to_promote": "unverified"
+    "affiliate_url": "https://api.fintelconnect.com/t/l/645b368ec92e38001ba614ac",
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Business Credit Cards / 0% Stacking · Business · Software"
+  },
+  {
+    "id": "rok-financial",
+    "name": "ROK Financial",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal",
+      "Business",
+      "Real Estate"
+    ],
+    "products": [
+      "Working Capital (General)",
+      "Term Loan"
+    ],
+    "industries": [
+      "Small Business",
+      "Healthcare",
+      "Construction"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://www.rok.biz/",
+    "affiliate_url": "https://go.mypartner.io/business-financing/?ref=0014x00000H3JAsAAN",
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Working Capital (General) · Term Loan · Personal · Business · Real Estate"
+  },
+  {
+    "id": "sellersfi",
+    "name": "SellersFi",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Revenue-Based Financing (RBF)",
+      "Working Capital (General)"
+    ],
+    "industries": [
+      "E-commerce"
+    ],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": null,
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Revenue-Based Financing (RBF) · Working Capital (General) · Business"
+  },
+  {
+    "id": "spot-light-loans",
+    "name": "Spot Light Loans",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": "https://fxo.co/IqZE",
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Personal"
+  },
+  {
+    "id": "stilt",
+    "name": "Stilt",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal"
+    ],
+    "products": [
+      "Embedded Finance (API / White-label)"
+    ],
+    "industries": [
+      "General Consumers"
+    ],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": "https://fxo.co/IwSM",
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Embedded Finance (API / White-label) · Personal"
+  },
+  {
+    "id": "subto",
+    "name": "Subto",
+    "types": [
+      "affiliate_program"
+    ],
+    "categories": [
+      "Real Estate"
+    ],
+    "products": [],
+    "industries": [
+      "Real Estate"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://www.subto.com/",
+    "affiliate_url": null,
+    "category": "Real Estate",
+    "status": "active (source recorded)",
+    "description": "Real Estate"
+  },
+  {
+    "id": "supabase",
+    "name": "Supabase",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Database and authentication"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://supabase.com/",
+    "affiliate_url": null,
+    "category": "Database and authentication",
+    "status": "editorial recommendation",
+    "description": "Database and authentication"
+  },
+  {
+    "id": "supermoney",
+    "name": "SuperMoney",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": "https://fxo.co/IwMA",
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Personal"
+  },
+  {
+    "id": "tally",
+    "name": "Tally",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Intake forms"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://tally.so/",
+    "affiliate_url": null,
+    "category": "Intake forms",
+    "status": "editorial recommendation",
+    "description": "Intake forms"
+  },
+  {
+    "id": "finance-factory",
+    "name": "The Finance Factory",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal",
+      "Business"
+    ],
+    "products": [
+      "SBA 7(a)",
+      "Term Loan",
+      "Working Capital (General)",
+      "Revenue-Based Financing (RBF)",
+      "Equipment Financing",
+      "Line of Credit"
+    ],
+    "industries": [
+      "Small Business"
+    ],
+    "relationship": "active (source recorded)",
+    "website": null,
+    "affiliate_url": "https://lp.thefinancefactory.com/lp/r/6018",
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "SBA 7(a) · Term Loan · Working Capital (General) · Revenue-Based Financing (RBF) · Equipment Financing · Line of Credit · Personal · Business"
+  },
+  {
+    "id": "uncapped",
+    "name": "Uncapped",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Working Capital (General)",
+      "Line of Credit",
+      "Term Loan"
+    ],
+    "industries": [],
+    "relationship": "active (source recorded)",
+    "website": "https://weareuncapped.com",
+    "affiliate_url": "https://portal.weareuncapped.com/registration?referral=moonshinecapital",
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Working Capital (General) · Line of Credit · Term Loan · Business"
+  },
+  {
+    "id": "uplyft-capital",
+    "name": "Uplyft Capital",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "products": [
+      "Working Capital (General)",
+      "SBA 7(a)"
+    ],
+    "industries": [
+      "Small Business",
+      "Retail",
+      "Restaurants"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://uplyftcapital.com/",
+    "affiliate_url": null,
+    "category": "Business",
+    "status": "active (source recorded)",
+    "description": "Working Capital (General) · SBA 7(a) · Business"
+  },
+  {
+    "id": "upstart",
+    "name": "Upstart",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Personal"
+    ],
+    "products": [
+      "Term Loan",
+      "Line of Credit",
+      "Business Credit Cards / 0% Stacking",
+      "Auto Loan",
+      "HELOC / Home Equity"
+    ],
+    "industries": [
+      "General Consumers"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://www.upstart.com/",
+    "affiliate_url": "https://upstart.9c65.net/qnKBjj",
+    "category": "Personal",
+    "status": "active (source recorded)",
+    "description": "Term Loan · Line of Credit · Business Credit Cards / 0% Stacking · Auto Loan · HELOC / Home Equity · Personal"
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Hosting and deployment"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://vercel.com/",
+    "affiliate_url": null,
+    "category": "Hosting and deployment",
+    "status": "editorial recommendation",
+    "description": "Hosting and deployment"
+  },
+  {
+    "id": "visio-lending",
+    "name": "Visio Lending",
+    "types": [
+      "funding_partner",
+      "affiliate_program"
+    ],
+    "categories": [
+      "Real Estate"
+    ],
+    "products": [
+      "DSCR Loan",
+      "Commercial Real Estate Loan",
+      "Asset-Based Lending (ABL)"
+    ],
+    "industries": [
+      "Real Estate"
+    ],
+    "relationship": "active (source recorded)",
+    "website": "https://visiolending.com/",
+    "affiliate_url": null,
+    "category": "Real Estate",
+    "status": "active (source recorded)",
+    "description": "DSCR Loan · Commercial Real Estate Loan · Asset-Based Lending (ABL) · Real Estate"
+  },
+  {
+    "id": "wayflyer",
+    "name": "Wayflyer",
+    "types": [
+      "funding_partner"
+    ],
+    "categories": [],
+    "products": [
+      "Revenue-Based Financing (RBF)"
+    ],
+    "industries": [],
+    "relationship": "unspecified",
+    "website": null,
+    "affiliate_url": null,
+    "category": "Provider",
+    "status": "unspecified",
+    "description": "Revenue-Based Financing (RBF)"
   },
   {
     "id": "wix",
     "name": "Wix",
-    "category": "Publishing/CMS",
-    "description": "Moonshine content, members and blog source where appropriate.",
-    "status": "research-unverified",
-    "verified_at": null,
-    "website": null,
-    "permission_to_promote": "unverified"
+    "types": [
+      "technology"
+    ],
+    "categories": [
+      "Publishing and CMS"
+    ],
+    "products": [],
+    "industries": [],
+    "relationship": "editorial recommendation",
+    "website": "https://www.wix.com/",
+    "affiliate_url": null,
+    "category": "Publishing and CMS",
+    "status": "editorial recommendation",
+    "description": "Publishing and CMS"
   }
 ]
