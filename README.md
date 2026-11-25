@@ -2,48 +2,71 @@
 
 # The Funding Agency Blueprint
 
-**Primary design:** Broker’s Manifesto — neo-brutalist editorial.
-**Publisher:** Moonshine Capital. **Author:** Jason Feimster.
+**The operating manual for modern funding agencies.** Published by Moonshine Capital · Jason Feimster.
 
-## What is included
+[Live publication](https://funding-agency-blueprint.vercel.app/) · [LinkedIn newsletter](https://www.linkedin.com/newsletters/7327196925177327617/) · [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7327196925177327617) · [Funding partner directory](https://moonshine-ai-directory.vercel.app/partners)
 
-- Static publication homepage (`index.html`) and 11 companion section pages (`/editions/`, `/blueprint/`, `/playbooks/`, `/ai-lab/`, `/automations/`, `/tools/`, `/partners/`, `/resources/`, `/field-notes/`, `/start/`, `/about/`).
-- Independent visual variations under `sites/blueprint-press/`, `sites/agency-signal/`, and `sites/brokers-manifesto/`.
-- Client-side commission/funding volume, deal-flow calculators, directory filtering, AI prompt copy and launch-path quiz.
-- Original CSV/Markdown downloads under `downloads/`; structured data under `data/`.
-- No frontend build chain, API keys or database required for the demo.
+## Publication
 
-## Editorial integrity
+A static editorial and practical resource hub for funding brokers, affiliates and agency operators. Broker’s Manifesto is the primary design at the root; six standalone design studies are retained.
 
-The newsletter article data is **in production**, **unverified**, or **planned**, as labeled. No edition is falsely presented as published. Partner records are **research/unverified** and are not current financial product offers or current commercial partnership representations. No DAC or other proprietary materials are redistributed. Input assumptions in calculators are not income or funding forecasts.
+| Route | Purpose |
+| --- | --- |
+| / | Publication homepage |
+| /editions/ | Newsletter editions |
+| /blueprint/ | Agency launch roadmap |
+| /playbooks/ | Operating guides |
+| /ai-lab/ | Agents and prompts |
+| /automations/ | Workflows |
+| /tools/ | Calculators and development catalog |
+| /partners/ | Funding and technology resources |
+| /resources/ | Downloads and training |
+| /field-notes/ | Build notes |
+| /start/ | Agency launch path |
+| /about/ | Publisher and author |
 
-## Test locally
+## Design studies
 
-Run `python -m http.server 8000` in the repository root. Open `http://localhost:8000/`.
+- [Broker’s Manifesto](sites/brokers-manifesto/)
+- [Blueprint Press](sites/blueprint-press/)
+- [Agency Signal](sites/agency-signal/)
+- [Independent Magazine Editorial](sites/independent-magazine-editorial/)
+- [Nocturnal Editorial Noir](sites/nocturnal-editorial-noir/)
+- [Dada Riot](sites/dada-riot/)
 
-All routes also work as static folders with `index.html` under a relative base path. Test via a local server rather than `file://`.
+## Data and content
 
-## Publishing URL planning
+The master registry contains 259 records. Phase 4 exports 29 connected resources and 119 development concepts (148 public catalog entries). Concepts can be published without deployment URLs; they are not working applications.
 
-Intended future URL: `https://media.distilledfunding.com/the-funding-agency/`. This is a **proposed** URL, not a claimed live deployment. `media.distilledfunding.com` requires an existing media host and routing/proxy configuration to mount the site at `/the-funding-agency/`. A subdomain is not created just by setting a Vercel hostname or uploading these files. If hosted on its own Vercel project, publish the project on its Vercel URL first; then configure a rewrite on the media host or use a dedicated `blueprint.distilledfunding.com`. Relative assets and links were chosen to support a prefix mount. Update canonical/sitemap values if public hostname differs.
+- `registry/blueprint-assets.master.json`: source inventory.
+- `registry/public-release.json`: release selection.
+- `data/blueprint-public.json`: generated public catalog.
+- `data/partners.json`: existing mixed partner seed catalog.
+- `scripts/generate-public-registry.mjs`: dependency-free JSON and HTML generator.
+- `downloads/`: original downloadable resources.
 
-## Source-of-truth strategy
+Run with Node 18+:
 
-`data/editions.json`, `partners.json`, `resources.json`, `prompts.json` are seed content. `data/source-registry.schema.json` defines the eventual cross-platform inventory; The 259-record master inventory is now stored in `registry/`. Avoid creating fake sources or treating placeholders as live integrations.
+```sh
+node scripts/generate-public-registry.mjs
+node scripts/generate-public-registry.mjs --check
+python -m http.server 8000
+```
 
-## Deploy / GitHub
+Open http://localhost:8000/. Commit regenerated JSON and HTML together.
 
-The file `scripts/publish-github.ps1` creates a new GitHub repository and pushes the site with the user’s authenticated GitHub CLI. It is not run automatically. For GitHub repo creation, the GitHub integration currently exposes no repository-create action.
+## Deployment
 
-## Additional design studies
+Production branch: `main`. Git-triggered automatic deployments are enabled for main and disabled for other branches in `vercel.json`. Manual preview deployments are not prohibited by this setting. The production branch in Vercel must remain main.
 
-Independent Magazine Editorial, Nocturnal Editorial Noir, and Dada Riot are standalone homepage prototypes under `sites/`. Broker’s Manifesto remains the primary 12-route publication. All six studies retain the illustrative calculator; photography is not yet supplied.
+Current host: https://funding-agency-blueprint.vercel.app/
 
+Proposed media route: `https://media.distilledfunding.com/the-funding-agency/` (requires media-host routing; not configured here). Preserve relative paths for future prefix mounting.
 
-## Canonical registry (Phase 4)
+## Partner directory direction
 
-The private master remains under `registry/`, excluded by `.vercelignore`. `registry/public-release.json` is the curated release manifest; only explicit display fields and allowed public URLs are emitted. Original editorial adaptations use local links and do not expose private source text or links. `data/blueprint-public.json` is the generated catalog. Run `node scripts/generate-public-registry.mjs` after editing the release manifest or master; `node scripts/generate-public-registry.mjs --check` checks generated files. Commit the generated JSON and HTML together. Existing calculators, quiz, prompts and six design studies remain intact. Configured domains and historical source-reported statuses are not runtime verification. Scheduled editions are not represented as published.
+Separate funding providers, affiliate software, and independently recommended technology. Reuse the existing [Moonshine AI Directory](https://github.com/JFeimster/moonshine-ai-directory) provider registry rather than maintaining another lender source of truth. Distinguish recorded affiliate relationships from editorial recommendations. Link to public destinations, not private partner portals.
 
-### Development catalog
+## Publication boundaries
 
-All 119 tool concepts without deployment URLs are exported as a separate public-safe `toolConcepts` collection and rendered on `/tools/`. Missing deployments do not prevent inclusion. Titles and types are published without internal partner routing, private source URLs or invented launch links.
+Educational examples are not funding offers or income promises. The registry folder is excluded from Vercel deployment by `.vercelignore`, not from GitHub visibility. Keep borrower and recruit CRM records, internal payout arrangements and private source links out of public exports. Repository visibility is managed separately.
