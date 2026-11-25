@@ -39,7 +39,7 @@ jobs:
           rows=json.loads((p/'data/editions.json').read_text())
           published=[r for r in rows if r['status']=='published']
           assert len(published)==17
-          assert any(r.get('slug')=='how-to-build-an-ai-powered-funding-agency-from-scratch' and r['status']!='published' for r in rows)
+          assert any(r.get('id')=='ai-powered-agency-from-scratch' and r['status']!='published' for r in rows), 'Existing draft must remain unpublished'
           keys={'id','slug','edition_number','title','status','publication_date','series','topic','description','seo_title','seo_description','link','reading_minutes','source_sha256','eyebrow','related'}
           with tempfile.TemporaryDirectory() as d:
               s=pathlib.Path(d);(s/'articles').mkdir()
