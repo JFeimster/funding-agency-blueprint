@@ -32,15 +32,15 @@
     {
       "id": "bpa-3f642d49a8ed95",
       "title": "Your Funding Agency Just Got Two AI Employees",
-      "description": "Two AI assistants for client outreach and broker recruitment, with human oversight. Individual article URL not confirmed.",
+      "description": "Discover how AI agents help business funding brokers automate client outreach, recruit new brokers, manage follow-ups, and build a scalable funding agency.",
       "kind": "edition",
       "routes": [
         "/",
         "/editions/",
         "/ai-lab/"
       ],
-      "label": "Scheduled · publication unconfirmed",
-      "local": "/ai-lab/"
+      "label": "Edition 17 · Published 2026-11-25",
+      "local": "/editions/your-funding-agency-just-got-two-ai-employees/"
     },
     {
       "id": "bpa-7abf8d9b3e55df",

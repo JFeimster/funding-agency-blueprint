@@ -1,5 +1,325 @@
 [
   {
+    "id": "two-ai-employees",
+    "slug": "your-funding-agency-just-got-two-ai-employees",
+    "edition_number": 17,
+    "title": "Your Funding Agency Just Got Two AI Employees",
+    "eyebrow": "Edition 17 · 2026-11-25",
+    "status": "published",
+    "publication_date": "2026-11-25",
+    "series": "The AI-Powered Funding Agency",
+    "topic": "Affiliate / Loan Broker",
+    "description": "Discover how AI agents help business funding brokers automate client outreach, recruit new brokers, manage follow-ups, and build a scalable funding agency.",
+    "seo_title": "AI Agents for Business Funding Brokers: Automate Outreach",
+    "related": [
+      "ai-lab",
+      "automations",
+      "blueprint"
+    ],
+    "link": "https://www.linkedin.com/pulse/your-funding-agency-just-got-two-ai-employees-jason-feimster-arv1e/"
+  },
+  {
+    "id": "your-income-problem-isnt-leads-its-your-identity",
+    "slug": "your-income-problem-isnt-leads-its-your-identity",
+    "edition_number": 16,
+    "title": "Your Income Problem Isn’t Leads. It’s Your Identity.",
+    "eyebrow": "Edition 16 · 2026-04-17",
+    "status": "published",
+    "publication_date": "2026-04-17",
+    "series": null,
+    "topic": "Sales, outreach, and client acquisition",
+    "description": "Argues that a broker’s professional identity shapes follow-up, persistence, and execution more than access to additional leads.",
+    "seo_title": "Funding Broker Mindset: Identity Before Leads",
+    "related": [
+      "blueprint",
+      "playbooks",
+      "start"
+    ],
+    "link": "https://www.linkedin.com/pulse/your-income-problem-isnt-leads-its-identity-jason-feimster-okxme/"
+  },
+  {
+    "id": "stop-selling-funding-start-being-the-local-plug",
+    "slug": "stop-selling-funding-start-being-the-local-plug",
+    "edition_number": 15,
+    "title": "Stop Selling Funding. Start Being The Local Plug.",
+    "eyebrow": "Edition 15 · 2026-01-17",
+    "status": "published",
+    "publication_date": "2026-01-17",
+    "series": null,
+    "topic": "Sales, outreach, and client acquisition",
+    "description": "Explains how local visibility, bank relationships, and practical resources can position a funding broker as a trusted community contact.",
+    "seo_title": "Build Local Business Funding Relationships",
+    "related": [
+      "playbooks",
+      "partners",
+      "tools"
+    ],
+    "link": "https://www.linkedin.com/pulse/stop-selling-funding-start-being-local-plug-jason-feimster-rnoee/"
+  },
+  {
+    "id": "stop-quoting-rates-start-closing-deals-the-january-gym-funding-play-what-dac-just-changed",
+    "slug": "stop-quoting-rates-start-closing-deals-the-january-gym-funding-play-what-dac-just-changed",
+    "edition_number": 14,
+    "title": "Stop Quoting Rates. Start Closing Deals: The January “Gym Funding” Play + What DAC Just Changed",
+    "eyebrow": "Edition 14 · 2026-01-12",
+    "status": "published",
+    "publication_date": "2026-01-12",
+    "series": null,
+    "topic": "Business funding and capital access",
+    "description": "Reviews DAC updates, broker messaging, gym-owner outreach, training, and the activity checklist presented in the January update.",
+    "seo_title": "Gym Business Funding: Outreach and Broker Updates",
+    "related": [
+      "partners/funding",
+      "tools",
+      "playbooks"
+    ],
+    "link": "https://www.linkedin.com/pulse/stop-quoting-rates-start-closing-deals-january-gym-funding-feimster-p8kge/"
+  },
+  {
+    "id": "taking-your-funding-business-to-the-next-level-without-chasing-instant-gratification",
+    "slug": "taking-your-funding-business-to-the-next-level-without-chasing-instant-gratification",
+    "edition_number": 13,
+    "title": "Taking Your Funding Business to the Next Level (Without Chasing Instant Gratification)",
+    "eyebrow": "Edition 13 · 2026-01-08",
+    "status": "published",
+    "publication_date": "2026-01-08",
+    "series": null,
+    "topic": "Funding agency growth",
+    "description": "Discusses patient agency building, training, team development, and the Spanish-language funding opportunity described in the source update. Read the...",
+    "seo_title": "Scale a Funding Agency Through Systems and Patience",
+    "related": [
+      "blueprint",
+      "playbooks",
+      "start"
+    ],
+    "link": "https://www.linkedin.com/pulse/taking-your-funding-business-next-level-without-chasing-feimster-sj3ze/"
+  },
+  {
+    "id": "structure-over-your-goal-why-motivation-is-a-scam-and-what-actually-works",
+    "slug": "structure-over-your-goal-why-motivation-is-a-scam-and-what-actually-works",
+    "edition_number": 12,
+    "title": "Structure Over Your Goal: Why “Motivation” Is a Scam (and What Actually Works)",
+    "eyebrow": "Edition 12 · 2026-01-02",
+    "status": "published",
+    "publication_date": "2026-01-02",
+    "series": null,
+    "topic": "Entrepreneurship and operational leverage",
+    "description": "Presents onboarding, weekly activity, follow-up, and coaching structures intended to help brokers turn goals into consistent execution.",
+    "seo_title": "Funding Agency Systems: Structure Over Motivation",
+    "related": [
+      "blueprint",
+      "playbooks",
+      "start"
+    ],
+    "link": "https://www.linkedin.com/pulse/structure-over-your-goal-why-motivation-scam-what-works-feimster-u6tke/"
+  },
+  {
+    "id": "how-to-kill-the-identity-crisis-that-follows-rejection",
+    "slug": "how-to-kill-the-identity-crisis-that-follows-rejection",
+    "edition_number": 11,
+    "title": "How to Kill the Identity Crisis That Follows Rejection",
+    "eyebrow": "Edition 11 · 2025-06-18",
+    "status": "published",
+    "publication_date": "2025-06-18",
+    "series": "Rejection and Sales Resilience",
+    "topic": "Sales, outreach, and client acquisition",
+    "description": "Explores separating personal identity from sales rejection and proposes daily practices for continuing outreach after an unwelcome response.",
+    "seo_title": "Overcoming Sales Rejection Without Losing Your Identity",
+    "related": [
+      "playbooks",
+      "resources"
+    ],
+    "link": "https://www.linkedin.com/pulse/how-kill-identity-crisis-follows-rejection-jason-feimster-9s7xe/"
+  },
+  {
+    "id": "nervous-system-hijackwhy-you-cant-just-get-over-it",
+    "slug": "nervous-system-hijackwhy-you-cant-just-get-over-it",
+    "edition_number": 10,
+    "title": "Nervous System Hijack—Why You Can’t “Just Get Over It\"",
+    "eyebrow": "Edition 10 · 2025-06-17",
+    "status": "published",
+    "publication_date": "2025-06-17",
+    "series": "Rejection and Sales Resilience",
+    "topic": "Sales, outreach, and client acquisition",
+    "description": "Discusses the author’s framing of physical stress around rejection and offers exercises intended to make outreach feel less threatening.",
+    "seo_title": "Sales Rejection Anxiety and the Follow-Up Habit",
+    "related": [
+      "playbooks",
+      "resources"
+    ],
+    "link": "https://www.linkedin.com/pulse/nervous-system-hijackwhy-you-cant-just-get-over-jason-feimster-xqxre/"
+  },
+  {
+    "id": "rejection-sensitivity-the-killer-you-never-saw-coming",
+    "slug": "rejection-sensitivity-the-killer-you-never-saw-coming",
+    "edition_number": 9,
+    "title": "Rejection Sensitivity – The Killer You Never Saw Coming",
+    "eyebrow": "Edition 09 · 2025-06-16",
+    "status": "published",
+    "publication_date": "2025-06-16",
+    "series": "Rejection and Sales Resilience",
+    "topic": "Sales, outreach, and client acquisition",
+    "description": "Examines how fear of rejection can affect outreach and follow-up, and urges readers to separate business responses from self-worth.",
+    "seo_title": "Rejection Sensitivity in Sales and Follow-Up",
+    "related": [
+      "playbooks",
+      "resources"
+    ],
+    "link": "https://www.linkedin.com/pulse/rejection-sensitivity-killer-you-never-saw-coming-jason-feimster-rdvxe/"
+  },
+  {
+    "id": "game-plan-the-unfiltered-truth-about-building-your-funding-empire-before-the-rents-late-again",
+    "slug": "game-plan-the-unfiltered-truth-about-building-your-funding-empire-before-the-rents-late-again",
+    "edition_number": 8,
+    "title": "🔥 Game Plan: The Unfiltered Truth About Building Your Funding Empire (Before the Rent’s Late Again) 🔥",
+    "eyebrow": "Edition 08 · 2025-05-30",
+    "status": "published",
+    "publication_date": "2025-05-30",
+    "series": null,
+    "topic": "Funding agency growth",
+    "description": "Translates an agent training session into an activity-focused plan for starting a funding business and connecting with potential customers. Read the...",
+    "seo_title": "Create a Practical Funding Agency Game Plan",
+    "related": [
+      "blueprint",
+      "playbooks",
+      "start"
+    ],
+    "link": "https://www.linkedin.com/pulse/game-plan-unfiltered-truth-building-your-funding-empire-feimster-1ehze/"
+  },
+  {
+    "id": "the-lampstand-effect-how-to-recruit-a-team-that-actually-gives-a-damn",
+    "slug": "the-lampstand-effect-how-to-recruit-a-team-that-actually-gives-a-damn",
+    "edition_number": 7,
+    "title": "The Lampstand Effect: How to Recruit a Team That Actually Gives a Damn",
+    "eyebrow": "Edition 07 · 2025-05-28",
+    "status": "published",
+    "publication_date": "2025-05-28",
+    "series": null,
+    "topic": "Leadership and team development",
+    "description": "Uses the lampstand metaphor to discuss visible leadership, ethical service, recruitment, and building a team around a shared mission.",
+    "seo_title": "Funding Agency Team Recruitment: The Lampstand Effect",
+    "related": [
+      "blueprint",
+      "playbooks",
+      "start"
+    ],
+    "link": "https://www.linkedin.com/pulse/lampstand-effect-how-recruit-team-actually-gives-damn-jason-feimster-idphe/"
+  },
+  {
+    "id": "how-to-turn-a-stack-of-coupons-into-a-6-figure-funding-hustle",
+    "slug": "how-to-turn-a-stack-of-coupons-into-a-6-figure-funding-hustle",
+    "edition_number": 6,
+    "title": "How to Turn a Stack of Coupons Into a 6-Figure Funding Hustle",
+    "eyebrow": "Edition 06 · 2025-05-21",
+    "status": "published",
+    "publication_date": "2025-05-21",
+    "series": null,
+    "topic": "Sales, outreach, and client acquisition",
+    "description": "Summarizes a training session on finding local prospects through coupon advertisers, targeted industries, and direct business outreach.",
+    "seo_title": "Local Funding Lead Generation With Coupon Prospecting",
+    "related": [
+      "playbooks",
+      "partners",
+      "tools"
+    ],
+    "link": "https://www.linkedin.com/pulse/how-turn-stack-coupons-6-figure-funding-hustle-jason-feimster-lhace/"
+  },
+  {
+    "id": "the-gospel-according-to-grind-why-most-leaders-fail-and-how-you-wont",
+    "slug": "the-gospel-according-to-grind-why-most-leaders-fail-and-how-you-wont",
+    "edition_number": 5,
+    "title": "The Gospel According to Grind: Why Most Leaders Fail (and How You Won’t)",
+    "eyebrow": "Edition 05 · 2025-05-20",
+    "status": "published",
+    "publication_date": "2025-05-20",
+    "series": null,
+    "topic": "Leadership and team development",
+    "description": "Discusses leadership standards, protecting time, developing agents, and creating systems and a culture that other team members can repeat.",
+    "seo_title": "Funding Agency Leadership: Standards and Duplication",
+    "related": [
+      "blueprint",
+      "playbooks",
+      "start"
+    ],
+    "link": "https://www.linkedin.com/pulse/gospel-according-grind-why-most-leaders-fail-how-you-wont-feimster-escze/"
+  },
+  {
+    "id": "most-entrepreneurs-stay-broke-because-they-do-this-and-youre-probably-doing-it-too",
+    "slug": "most-entrepreneurs-stay-broke-because-they-do-this-and-youre-probably-doing-it-too",
+    "edition_number": 4,
+    "title": "Most Entrepreneurs Stay Broke Because They Do This (And You’re Probably Doing It Too)",
+    "eyebrow": "Edition 04 · 2025-05-17",
+    "status": "published",
+    "publication_date": "2025-05-17",
+    "series": null,
+    "topic": "Funding agency growth",
+    "description": "Encourages entrepreneurs to focus on certification, conversations, referrals, activity tracking, and team development in a funding business.",
+    "seo_title": "Start a Funding Agency With Consistent Daily Activity",
+    "related": [
+      "blueprint",
+      "playbooks",
+      "start"
+    ],
+    "link": "https://www.linkedin.com/pulse/most-entrepreneurs-stay-broke-because-do-youre-doing-too-feimster-xlboe/"
+  },
+  {
+    "id": "recruit-to-invite-the-raw-real-strategy-that-scales-teams-even-if-youre-broke-and-new",
+    "slug": "recruit-to-invite-the-raw-real-strategy-that-scales-teams-even-if-youre-broke-and-new",
+    "edition_number": 3,
+    "title": "Recruit to Invite: The Raw, Real Strategy That Scales Teams (Even If You're Broke and New)",
+    "eyebrow": "Edition 03 · 2025-05-14",
+    "status": "published",
+    "publication_date": "2025-05-14",
+    "series": null,
+    "topic": "Leadership and team development",
+    "description": "Explains a recruitment approach built around invitations, authentic conversations, training events, and repeatable team-building activity.",
+    "seo_title": "Recruit to Invite: A Practical Team Building Strategy",
+    "related": [
+      "blueprint",
+      "playbooks",
+      "start"
+    ],
+    "link": "https://www.linkedin.com/pulse/recruit-invite-raw-real-strategy-scales-teams-even-youre-feimster-cit2e/"
+  },
+  {
+    "id": "from-broke-to-multiplying-the-no-bs-guide-to-building-a-high-performing-sales-culture",
+    "slug": "from-broke-to-multiplying-the-no-bs-guide-to-building-a-high-performing-sales-culture",
+    "edition_number": 2,
+    "title": "From Broke to Multiplying: The No-BS Guide to Building a High-Performing Sales Culture",
+    "eyebrow": "Edition 02 · 2025-05-13",
+    "status": "published",
+    "publication_date": "2025-05-13",
+    "series": null,
+    "topic": "Leadership and team development",
+    "description": "Connects visible leadership, focused execution, product positioning, and duplication with the development of a funding agency’s sales culture.",
+    "seo_title": "Build a High-Performing Sales Culture in Your Agency",
+    "related": [
+      "blueprint",
+      "playbooks",
+      "start"
+    ],
+    "link": "https://www.linkedin.com/pulse/from-broke-multiplying-no-bs-guide-building-sales-culture-feimster-khuoe/"
+  },
+  {
+    "id": "welcome-to-the-funding-agency-blueprint",
+    "slug": "welcome-to-the-funding-agency-blueprint",
+    "edition_number": 1,
+    "title": "🚀 Welcome to The Funding Agency Blueprint",
+    "eyebrow": "Edition 01 · 2025-05-11",
+    "status": "published",
+    "publication_date": "2025-05-11",
+    "series": null,
+    "topic": "Funding agency growth",
+    "description": "Introduces the newsletter’s audience, its original weekday content schedule, and routes for exploring a business funding agency.",
+    "seo_title": "The Funding Agency Blueprint: Start Here",
+    "related": [
+      "blueprint",
+      "playbooks",
+      "start"
+    ],
+    "link": "https://www.linkedin.com/pulse/welcome-funding-agency-blueprint-jason-feimster-juc2e/"
+  },
+  {
     "id": "ai-powered-agency-from-scratch",
     "title": "How to Build an AI-Powered Funding Agency From Scratch",
     "eyebrow": "Article in production",
@@ -8,19 +328,6 @@
     "description": "Choose an operating model, design the funnel, prepare partner routes and add practical AI support.",
     "related": [
       "blueprint",
-      "ai-lab",
-      "automations"
-    ],
-    "link": null
-  },
-  {
-    "id": "two-ai-employees",
-    "title": "Your Funding Agency Just Got Two AI Employees",
-    "eyebrow": "Earlier edition · publication unverified",
-    "status": "verify",
-    "topic": "AI Operations",
-    "description": "Explore how specialized AI assistants can support qualification, paperwork and follow-up without replacing human review.",
-    "related": [
       "ai-lab",
       "automations"
     ],
