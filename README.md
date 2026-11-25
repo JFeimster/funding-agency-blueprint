@@ -29,7 +29,7 @@ Intended future URL: `https://media.distilledfunding.com/the-funding-agency/`. T
 
 ## Source-of-truth strategy
 
-`data/editions.json`, `partners.json`, `resources.json`, `prompts.json` are seed content. `data/source-registry.schema.json` defines the eventual cross-platform inventory; `blueprint-assets.master.*` are intentionally blank until verified from Notion/Drive/Wix/LinkedIn/GitHub/Vercel. Avoid creating fake sources or treating placeholders as live integrations.
+`data/editions.json`, `partners.json`, `resources.json`, `prompts.json` are seed content. `data/source-registry.schema.json` defines the eventual cross-platform inventory; The 259-record master inventory is now stored in `registry/`. Avoid creating fake sources or treating placeholders as live integrations.
 
 ## Deploy / GitHub
 
@@ -38,3 +38,12 @@ The file `scripts/publish-github.ps1` creates a new GitHub repository and pushes
 ## Additional design studies
 
 Independent Magazine Editorial, Nocturnal Editorial Noir, and Dada Riot are standalone homepage prototypes under `sites/`. Broker’s Manifesto remains the primary 12-route publication. All six studies retain the illustrative calculator; photography is not yet supplied.
+
+
+## Canonical registry (Phase 4)
+
+The private master remains under `registry/`, excluded by `.vercelignore`. `registry/public-release.json` is the curated release manifest; only explicit display fields and allowed public URLs are emitted. Original editorial adaptations use local links and do not expose private source text or links. `data/blueprint-public.json` is the generated catalog. Run `node scripts/generate-public-registry.mjs` after editing the release manifest or master; `node scripts/generate-public-registry.mjs --check` checks generated files. Commit the generated JSON and HTML together. Existing calculators, quiz, prompts and six design studies remain intact. Configured domains and historical source-reported statuses are not runtime verification. Scheduled editions are not represented as published.
+
+### Development catalog
+
+All 119 tool concepts without deployment URLs are exported as a separate public-safe `toolConcepts` collection and rendered on `/tools/`. Missing deployments do not prevent inclusion. Titles and types are published without internal partner routing, private source URLs or invented launch links.
