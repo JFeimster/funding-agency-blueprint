@@ -1,0 +1,473 @@
+[
+  {
+    "id": "agent-launch-site-builder",
+    "title": "Agent Launch Site Builder",
+    "description": "Creates static landing pages, copy decks, wireframes, embeds, and launch-ready site files for AI Agents and Custom GPTs.",
+    "category": [
+      "Content & Marketing",
+      "Building & Development",
+      "Sales & Client Relations"
+    ],
+    "status": "In Development",
+    "url": "https://chatgpt.com/g/g-6a266d799fac819194b8088eb5feb9de-agent-launch-site-builder",
+    "outputs": [
+      "Landing page",
+      "Copy deck",
+      "Wireframe",
+      "HTML/CSS/JS files",
+      "README",
+      "Embed package"
+    ]
+  },
+  {
+    "id": "ai-agent-generator",
+    "title": "AI Agent Generator",
+    "description": "Generates pain-point-driven AI agent concepts, GPT instructions, actions, and implementation specs.",
+    "category": [
+      "Building & Development",
+      "Product Ideation"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "GPT concept",
+      "Instructions",
+      "Conversation starters",
+      "Action ideas",
+      "Knowledge file recommendations"
+    ]
+  },
+  {
+    "id": "consistent-character-gpt",
+    "title": "Consistent Character GPT",
+    "description": "Helps create repeatable character concepts and image prompt systems for visual content.",
+    "category": [
+      "Creative Asset",
+      "Content & Marketing"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Character prompt",
+      "Style guide",
+      "Scene prompts",
+      "Negative prompts",
+      "Prompt variations"
+    ]
+  },
+  {
+    "id": "no-code-gpt-builder",
+    "title": "No-Code GPT Builder",
+    "description": "Creates no-code GPT concepts, instructions, data structures, and builder-ready outputs.",
+    "category": [
+      "Building & Development",
+      "Productivity & Automation"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "GPT name",
+      "Use case",
+      "Ideal user",
+      "Instructions",
+      "Conversation starters",
+      "Knowledge file list"
+    ]
+  },
+  {
+    "id": "prompt-analyst",
+    "title": "Prompt Analyst",
+    "description": "Reviews, diagnoses, and improves prompts for clarity, structure, output quality, and reliability.",
+    "category": [
+      "Prompt Engineering",
+      "Productivity & Automation"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Prompt critique",
+      "Improved prompt",
+      "Output format",
+      "Test cases",
+      "Failure risk notes"
+    ]
+  },
+  {
+    "id": "ai-reviews-blog-writer",
+    "title": "AI Reviews Blog Writer",
+    "description": "Writes SEO-oriented AI tool reviews, comparison articles, and monetizable affiliate content.",
+    "category": [
+      "Content & Marketing",
+      "Affiliate"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "AI tool review",
+      "SEO title",
+      "Meta description",
+      "FAQ",
+      "CTA blocks",
+      "Comparison sections"
+    ]
+  },
+  {
+    "id": "affiliate-agency-gpt",
+    "title": "Affiliate Agency GPT",
+    "description": "Helps build affiliate agency offers, recruiting systems, partner messaging, and monetization workflows.",
+    "category": [
+      "Affiliate",
+      "Sales & Client Relations",
+      "Business Operations"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Recruiting copy",
+      "Partner onboarding plan",
+      "Commission messaging",
+      "Activation checklist",
+      "Content ideas"
+    ]
+  },
+  {
+    "id": "landing-page-builder-gpt",
+    "title": "Landing Page Builder GPT",
+    "description": "Builds conversion-focused landing page structure, copy, and static page assets.",
+    "category": [
+      "Content & Marketing",
+      "Building & Development"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Landing page copy",
+      "Wireframe",
+      "Section flow",
+      "CTA strategy",
+      "HTML/CSS/JS"
+    ]
+  },
+  {
+    "id": "loan-broker-automation-architect-gpt",
+    "title": "Loan Broker Automation Architect GPT",
+    "description": "Designs automation systems for loan brokers, funding agencies, and broker operations.",
+    "category": [
+      "Productivity & Automation",
+      "Business Operations",
+      "Sales & Client Relations"
+    ],
+    "status": "In Development",
+    "url": null,
+    "outputs": [
+      "Automation map",
+      "Trigger/action logic",
+      "CRM fields",
+      "Human review points",
+      "Tool recommendations",
+      "Implementation plan"
+    ]
+  },
+  {
+    "id": "embedded-finance-integrator",
+    "title": "Embedded-Finance Integrator",
+    "description": "Frames embedded-finance workflows, partner offers, and agent actions for platforms and service businesses.",
+    "category": [
+      "Fintech",
+      "Productivity & Automation",
+      "Sales & Client Relations"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Embedded finance workflow",
+      "Action specs",
+      "Partner handoff map",
+      "Intake fields",
+      "Compliance notes"
+    ]
+  },
+  {
+    "id": "agent-growth-hub",
+    "title": "Agent Growth Hub",
+    "description": "Helps agents grow with training assets, content, lead generation ideas, and operating rhythms.",
+    "category": [
+      "Sales & Client Relations",
+      "Training",
+      "Business Operations"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Growth plan",
+      "Training checklist",
+      "Outreach scripts",
+      "Content ideas",
+      "KPI tracker"
+    ]
+  },
+  {
+    "id": "bizcredit-builder-gpt",
+    "title": "BizCredit Builder GPT",
+    "description": "Guides business credit building, vendor setup, reporting readiness, and credit-building workflows.",
+    "category": [
+      "Finance",
+      "Business Credit",
+      "Productivity & Automation"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Business credit roadmap",
+      "Vendor checklist",
+      "Readiness score",
+      "Next steps",
+      "Credit-building reminders"
+    ]
+  },
+  {
+    "id": "bank-match-gpt",
+    "title": "Bank Match GPT",
+    "description": "Matches businesses with best-fit digital banking options based on needs, revenue, and operating style.",
+    "category": [
+      "Finance",
+      "Digital Banking",
+      "Funding Readiness"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Bank shortlist",
+      "Feature comparison",
+      "Funding-readiness notes",
+      "Setup checklist",
+      "Risk warnings"
+    ]
+  },
+  {
+    "id": "startup-valuation-expert",
+    "title": "Startup Valuation Expert",
+    "description": "Helps estimate startup valuation logic, investor narrative, and valuation drivers.",
+    "category": [
+      "Finance",
+      "Startup Strategy",
+      "Capital Advisory"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Valuation range",
+      "Assumptions",
+      "Investor narrative",
+      "Dilution notes",
+      "Risk factors"
+    ]
+  },
+  {
+    "id": "voiceover-script-genius",
+    "title": "Voiceover Script Genius",
+    "description": "Writes voiceover scripts for short-form and long-form content with strong pacing and hooks.",
+    "category": [
+      "Content & Marketing",
+      "Creative Asset"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Voiceover script",
+      "Hook options",
+      "CTA",
+      "Title ideas",
+      "Short-form cuts"
+    ]
+  },
+  {
+    "id": "resumetailor-ai",
+    "title": "ResumeTailor AI",
+    "description": "Tailors resumes to job postings and improves positioning for applicants.",
+    "category": [
+      "Career",
+      "Productivity"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Tailored resume bullets",
+      "Summary rewrite",
+      "Keyword alignment",
+      "Cover letter draft",
+      "Gap notes"
+    ]
+  },
+  {
+    "id": "deepprompt-architect",
+    "title": "DeepPrompt Architect",
+    "description": "Builds advanced prompts, prompt chains, system instructions, and structured AI workflows.",
+    "category": [
+      "Prompt Engineering",
+      "Building & Development"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Master prompt",
+      "Prompt chain",
+      "System instructions",
+      "Evaluation rubric",
+      "Reusable framework"
+    ]
+  },
+  {
+    "id": "industry-analysis-bot",
+    "title": "Industry Analysis Bot",
+    "description": "Generates structured industry analysis, opportunity mapping, and market strategy briefs.",
+    "category": [
+      "Research",
+      "Business Strategy"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Industry brief",
+      "Market map",
+      "Opportunities",
+      "Risks",
+      "Content angles",
+      "Strategic recommendations"
+    ]
+  },
+  {
+    "id": "personalized-tax-planning-strategy",
+    "title": "Personalized Tax Planning Strategy",
+    "description": "Helps users organize tax-planning questions, deductions, entity considerations, and advisor-prep checklists.",
+    "category": [
+      "Finance",
+      "Tax Planning",
+      "Business Operations"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Tax planning checklist",
+      "Question list for CPA",
+      "Deduction categories",
+      "Recordkeeping plan",
+      "Risk notes"
+    ]
+  },
+  {
+    "id": "habit-reactor-engineer",
+    "title": "Habit Reactor Engineer",
+    "description": "Builds habit systems, triggers, routines, and accountability loops.",
+    "category": [
+      "Personal Ops",
+      "Productivity"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Habit system",
+      "Trigger map",
+      "Weekly routine",
+      "Failure plan",
+      "Tracker structure"
+    ]
+  },
+  {
+    "id": "funding-workflow-sop-builder-gpt",
+    "title": "Funding Workflow SOP Builder GPT",
+    "description": "Turns messy loan broker processes into SOPs, checklists, delegation docs, and automation-ready workflows.",
+    "category": [
+      "Business Operations",
+      "Productivity & Automation"
+    ],
+    "status": "In Development",
+    "url": "https://chatgpt.com/g/g-6a21460c79d481918f2dd0f37cc9a01e-funding-workflow-sop-builder",
+    "outputs": [
+      "SOP",
+      "Checklist",
+      "Delegation guide",
+      "Automation map",
+      "CRM fields",
+      "Human review points"
+    ]
+  },
+  {
+    "id": "landing-page-generator",
+    "title": "Landing Page Generator",
+    "description": "Generates high-converting landing pages and production-ready static site files.",
+    "category": [
+      "Content & Marketing",
+      "Building & Development"
+    ],
+    "status": "In Development",
+    "url": null,
+    "outputs": [
+      "Landing page strategy",
+      "Wireframe",
+      "Copy deck",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "README"
+    ]
+  },
+  {
+    "id": "real-time-cash-flow-analyzer",
+    "title": "Real-Time Cash Flow Analyzer",
+    "description": "Analyzes cash-flow data and summarizes risks, trends, and funding readiness.",
+    "category": [
+      "Finance",
+      "Cash Flow",
+      "Funding Readiness"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "Cash flow analysis",
+      "Risk flags",
+      "Funding readiness notes",
+      "Action plan",
+      "Summary report"
+    ]
+  },
+  {
+    "id": "broker-follow-up-machine-gpt",
+    "title": "Broker Follow-Up Machine GPT",
+    "description": "Builds borrower, referral partner, and pipeline follow-up systems so loan brokers stop losing deals to forgotten check-ins.",
+    "category": [
+      "Sales & Client Relations",
+      "Productivity & Automation"
+    ],
+    "status": "In Development",
+    "url": "https://chatgpt.com/g/g-6a2152c07e488191862b272d5e3a4b44-broker-follow-up-machine",
+    "outputs": [
+      "Follow-up sequence",
+      "Email copy",
+      "SMS copy",
+      "Call script",
+      "CRM tags",
+      "Automation rules",
+      "Metrics"
+    ]
+  },
+  {
+    "id": "gpt-stack-builder",
+    "title": "GPT Stack Builder",
+    "description": "Designs stacks of GPTs, tools, workflows, and content assets around a business use case.",
+    "category": [
+      "Building & Development",
+      "Productivity & Automation",
+      "Business Strategy"
+    ],
+    "status": "Existing",
+    "url": null,
+    "outputs": [
+      "GPT stack map",
+      "Tool recommendations",
+      "Workflow sequence",
+      "Build order",
+      "Monetization roadmap"
+    ]
+  }
+]

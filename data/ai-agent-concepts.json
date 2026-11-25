@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "real-time-financial-insights-gpt-1",
+    "title": "Real-Time Financial Insights GPT",
+    "description": "Automated real-time financial reports tracking revenue, expenses, and profit margins.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "cash-flow-management-assistant-2",
+    "title": "Cash Flow Management Assistant",
+    "description": "Monitors daily cash inflows/outflows and provides shortfall-prevention suggestions.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "expense-categorization-gpt-3",
+    "title": "Expense Categorization GPT",
+    "description": "Auto-categorizes and analyzes expenses to find cost-cutting opportunities.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "revenue-forecasting-gpt-4",
+    "title": "Revenue Forecasting GPT",
+    "description": "Predicts future revenue from historical data, seasonal trends, and market changes.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "financial-kpis-gpt-5",
+    "title": "Financial KPIs GPT",
+    "description": "Tracks KPIs and alerts when thresholds are crossed.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "profit-margin-optimization-gpt-6",
+    "title": "Profit Margin Optimization GPT",
+    "description": "Analyzes revenue streams and suggests margin-improvement strategies.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "subscription-management-gpt-7",
+    "title": "Subscription Management GPT",
+    "description": "Automates tracking/management of recurring subscriptions for SaaS.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "accounts-receivable-automation-gpt-8",
+    "title": "Accounts Receivable Automation GPT",
+    "description": "Automates tracking and follow-up of unpaid invoices.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "automated-payroll-gpt-9",
+    "title": "Automated Payroll GPT",
+    "description": "Handles payroll based on hours and tax calculations.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "investment-portfolio-management-gpt-10",
+    "title": "Investment Portfolio Management GPT",
+    "description": "Tracks/manages portfolios with rebalancing recommendations.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "business-credit-score-monitoring-gpt-11",
+    "title": "Business Credit Score Monitoring GPT",
+    "description": "Insights and alerts on business credit score changes.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "tax-preparation-gpt-12",
+    "title": "Tax Preparation GPT",
+    "description": "Automates tax-form prep, tracks deductibles, suggests savings.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "loan-eligibility-gpt-13",
+    "title": "Loan Eligibility GPT",
+    "description": "Analyzes finances for loan eligibility and automates application.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "business-valuation-gpt-14",
+    "title": "Business Valuation GPT",
+    "description": "Generates valuation estimates from financials, trends, asset worth.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "vendor-payment-automation-gpt-15",
+    "title": "Vendor Payment Automation GPT",
+    "description": "Automates vendor payments, reminders, timely payment.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "funding-source-gpt-16",
+    "title": "Funding Source GPT",
+    "description": "Matches businesses with relevant funding sources.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "inventory-cost-analysis-gpt-17",
+    "title": "Inventory Cost Analysis GPT",
+    "description": "Tracks/analyzes inventory costs for optimal stock without overspending.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "invoice-automation-gpt-18",
+    "title": "Invoice Automation GPT",
+    "description": "Auto-generates/sends invoices with payment status updates.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "debt-repayment-gpt-19",
+    "title": "Debt Repayment GPT",
+    "description": "Manages debt schedules and repayment strategies.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "budget-gpt-for-startups-20",
+    "title": "Budget GPT for Startups",
+    "description": "Personalized startup budgets by industry, stage, goals.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "automated-financial-compliance-gpt-21",
+    "title": "Automated Financial Compliance GPT",
+    "description": "Monitors regulatory compliance with deadline alerts.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "dynamic-pricing-gpt-22",
+    "title": "Dynamic Pricing GPT",
+    "description": "Suggests optimal pricing from market, competitor, demand data.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "capital-planning-gpt-23",
+    "title": "Capital Planning GPT",
+    "description": "Plans capital expenditures and long-term impact.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "break-even-analysis-gpt-24",
+    "title": "Break-Even Analysis GPT",
+    "description": "Calculates break-even and profitability suggestions.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "ecommerce-sales-forecasting-gpt-25",
+    "title": "Ecommerce Sales Forecasting GPT",
+    "description": "Predicts ecommerce sales from purchase history and trends.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "customer-lifetime-value-gpt-26",
+    "title": "Customer Lifetime Value GPT",
+    "description": "Calculates CLV and retention/growth strategies.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "financial-risk-assessment-gpt-27",
+    "title": "Financial Risk Assessment GPT",
+    "description": "Identifies risks and mitigation recommendations.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "funding-goal-tracker-gpt-28",
+    "title": "Funding Goal Tracker GPT",
+    "description": "Sets/tracks funding goals and when/how to raise.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "recurring-revenue-tracker-gpt-29",
+    "title": "Recurring Revenue Tracker GPT",
+    "description": "Tracks recurring revenue streams and growth strategies.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "saas-metrics-gpt-30",
+    "title": "SaaS Metrics GPT",
+    "description": "Monitors churn, MRR, CAC.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "income-and-expense-projections-gpt-31",
+    "title": "Income and Expense Projections GPT",
+    "description": "Income/expense projections for long-term planning.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "freelancer-finance-manager-gpt-32",
+    "title": "Freelancer Finance Manager GPT",
+    "description": "Tracks multi-client income, deductions, cash flow for freelancers.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "ai-powered-financial-planning-gpt-33",
+    "title": "AI-Powered Financial Planning GPT",
+    "description": "Custom financial plans forecasting earnings, investments, capital needs.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "profitability-analysis-gpt-34",
+    "title": "Profitability Analysis GPT",
+    "description": "Identifies most profitable products/services.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "financial-health-score-gpt-35",
+    "title": "Financial Health Score GPT",
+    "description": "Generates a financial health score from cash flow, profitability, liabilities.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "roi-calculator-gpt-36",
+    "title": "ROI Calculator GPT",
+    "description": "Automates ROI for campaigns, investments, launches.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "automated-accounting-gpt-37",
+    "title": "Automated Accounting GPT",
+    "description": "Syncs with accounting software to automate bookkeeping.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "scenario-planning-gpt-38",
+    "title": "Scenario Planning GPT",
+    "description": "Models best/worst/likely financial scenarios.",
+    "category": "Financial Insights & Automation",
+    "status": "Concept"
+  },
+  {
+    "id": "amazon-fba-profit-analyzer-gpt-39",
+    "title": "Amazon FBA Profit Analyzer GPT",
+    "description": "Tracks/optimizes Amazon FBA fees and true margins.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "tiktok-shop-sales-optimizer-gpt-40",
+    "title": "TikTok Shop Sales Optimizer GPT",
+    "description": "Insights on TikTok Shop product performance and targeting.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "marketplace-fee-calculator-gpt-41",
+    "title": "Marketplace Fee Calculator GPT",
+    "description": "Calculates total marketplace fees into P&L.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "ad-spend-roi-gpt-42",
+    "title": "Ad Spend ROI GPT",
+    "description": "Analyzes cross-platform ad spend ROI.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "multi-channel-inventory-manager-gpt-43",
+    "title": "Multi-Channel Inventory Manager GPT",
+    "description": "Tracks inventory across channels, forecasts reorder.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "product-trend-analyzer-gpt-44",
+    "title": "Product Trend Analyzer GPT",
+    "description": "Identifies trending marketplace products.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "cross-channel-revenue-gpt-45",
+    "title": "Cross-Channel Revenue GPT",
+    "description": "Consolidates multi-platform sales into unified reports.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "ecommerce-product-ranking-gpt-46",
+    "title": "Ecommerce Product Ranking GPT",
+    "description": "Tracks product rankings and ranking factors.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "order-fulfillment-automation-gpt-47",
+    "title": "Order Fulfillment Automation GPT",
+    "description": "Automates shipping labels, tracking, notifications.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "supplier-cost-comparison-gpt-48",
+    "title": "Supplier Cost Comparison GPT",
+    "description": "Automates supplier price comparisons.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "returns-refunds-manager-gpt-49",
+    "title": "Returns & Refunds Manager GPT",
+    "description": "Handles returns/refunds with reduction insights.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "product-pricing-assistant-gpt-50",
+    "title": "Product Pricing Assistant GPT",
+    "description": "Optimal pricing from competition/demand/margin.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "marketplace-review-analyzer-gpt-51",
+    "title": "Marketplace Review Analyzer GPT",
+    "description": "Analyzes reviews for actionable insights.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "tiktok-ad-performance-gpt-52",
+    "title": "TikTok Ad Performance GPT",
+    "description": "Real-time TikTok ad performance and optimizations.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "customer-retention-gpt-53",
+    "title": "Customer Retention GPT",
+    "description": "Predicts repeat buyers and personalized offers.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "flash-sale-gpt-54",
+    "title": "Flash Sale GPT",
+    "description": "Schedules/manages flash sales across platforms.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "ecommerce-profitability-forecasting-gpt-55",
+    "title": "Ecommerce Profitability Forecasting GPT",
+    "description": "Projects profitability from sales/spend/trends.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "fulfillment-by-merchant-fbm-profit-gpt-56",
+    "title": "Fulfillment by Merchant (FBM) Profit GPT",
+    "description": "Analyzes FBM order profitability after fees.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "discount-strategy-gpt-57",
+    "title": "Discount Strategy GPT",
+    "description": "Optimal discount rates protecting margins.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "ecommerce-tax-compliance-gpt-58",
+    "title": "Ecommerce Tax Compliance GPT",
+    "description": "Tracks sales tax obligations and reports.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "customer-sentiment-analyzer-gpt-59",
+    "title": "Customer Sentiment Analyzer GPT",
+    "description": "Analyzes feedback/social mentions for sentiment.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "product-lifecycle-gpt-60",
+    "title": "Product Lifecycle GPT",
+    "description": "Tracks product lifecycle and discontinue/upgrade timing.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "advertising-budget-planner-gpt-61",
+    "title": "Advertising Budget Planner GPT",
+    "description": "Automates multi-platform ad budget allocation.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "bundle-deal-optimization-gpt-62",
+    "title": "Bundle Deal Optimization GPT",
+    "description": "Suggests bundles from buying behavior.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "shipping-cost-analyzer-gpt-63",
+    "title": "Shipping Cost Analyzer GPT",
+    "description": "Calculates/optimizes shipping costs across couriers.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "competitor-pricing-tracker-gpt-64",
+    "title": "Competitor Pricing Tracker GPT",
+    "description": "Monitors competitor pricing and adjustments.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "sales-channel-performance-gpt-65",
+    "title": "Sales Channel Performance GPT",
+    "description": "Compares channel performance and profitability.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "wholesale-order-management-gpt-66",
+    "title": "Wholesale Order Management GPT",
+    "description": "Automates bulk wholesale orders/invoices/labels.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "customer-acquisition-cost-gpt-67",
+    "title": "Customer Acquisition Cost GPT",
+    "description": "Tracks CAC and lowering strategies.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "upsell-cross-sell-recommendation-gpt-68",
+    "title": "Upsell & Cross-Sell Recommendation GPT",
+    "description": "Personalized upsell/cross-sell from history.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "sales-tax-nexus-gpt-69",
+    "title": "Sales Tax Nexus GPT",
+    "description": "Tracks sales tax nexus and compliance reports.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "inventory-turnover-gpt-70",
+    "title": "Inventory Turnover GPT",
+    "description": "Calculates turnover and cash-flow optimization.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "product-photography-gpt-71",
+    "title": "Product Photography GPT",
+    "description": "Suggestions to improve product images and CTR.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "amazon-seller-performance-gpt-72",
+    "title": "Amazon Seller Performance GPT",
+    "description": "Tracks Buy Box, ODR, feedback for healthy accounts.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "seasonal-sales-forecasting-gpt-73",
+    "title": "Seasonal Sales Forecasting GPT",
+    "description": "Predicts seasonal trends and inventory adjustments.",
+    "category": "Ecommerce & Marketplace",
+    "status": "Concept"
+  },
+  {
+    "id": "business-credit-builder-gpt-74",
+    "title": "Business Credit Builder GPT",
+    "description": "Step-by-step plan to build/monitor business credit (tradelines, DUNS, vendor accounts).",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "lender-match-gpt-75",
+    "title": "Lender Match GPT",
+    "description": "Recommends best-fit lenders (RBF, MCA, SBA) from a few questions.",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "prequalification-score-gpt-76",
+    "title": "Prequalification Score GPT",
+    "description": "Simulates pre-qualification scores from financial/credit inputs.",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "robs-401-k-setup-advisor-gpt-77",
+    "title": "ROBS 401(k) Setup Advisor GPT",
+    "description": "Walks through ROBS strategy to self-fund a business.",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "business-bank-account-setup-gpt-78",
+    "title": "Business Bank Account Setup GPT",
+    "description": "Compares digital banks (Mercury, Novo, Lili, Found) with custom recommendation.",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "bank-reconciliation-gpt-79",
+    "title": "Bank Reconciliation GPT",
+    "description": "Categorizes CSV/API bank transactions into reconciled cash flow.",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "loan-offer-comparison-gpt-80",
+    "title": "Loan Offer Comparison GPT",
+    "description": "Side-by-side loan offer comparison (APR, terms, penalties).",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "dscr-loan-analyzer-gpt-81",
+    "title": "DSCR Loan Analyzer GPT",
+    "description": "Calculates DSCR and DSCR-loan qualification.",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "credit-limit-growth-planner-gpt-82",
+    "title": "Credit Limit Growth Planner GPT",
+    "description": "Roadmap to increase credit limits via usage/payments.",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "ucc-filing-monitor-gpt-83",
+    "title": "UCC Filing Monitor GPT",
+    "description": "Check/monitor UCC filings impacting credit/lending.",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "net-30-vendor-match-gpt-84",
+    "title": "Net 30 Vendor Match GPT",
+    "description": "Recommends starter vendors who report to bureaus.",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "business-credit-report-explainer-gpt-85",
+    "title": "Business Credit Report Explainer GPT",
+    "description": "Simplifies Experian/D&B/Equifax reports with tips.",
+    "category": "Banking, Credit & Lending",
+    "status": "Concept"
+  },
+  {
+    "id": "founder-pay-gpt-86",
+    "title": "Founder Pay GPT",
+    "description": "Calculates safe, tax-smart founder salaries from cash flow/burn/tax structure.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "runway-calculator-gpt-87",
+    "title": "Runway Calculator GPT",
+    "description": "Calculates runway from MRR, burn, spending.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "profit-first-allocation-gpt-88",
+    "title": "Profit-First Allocation GPT",
+    "description": "Implements Profit First allocation buckets.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "cash-cushion-gpt-89",
+    "title": "Cash Cushion GPT",
+    "description": "Estimates emergency reserve needs and build strategies.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "burn-rate-tracker-gpt-90",
+    "title": "Burn Rate Tracker GPT",
+    "description": "Breaks down OPEX and visualizes capital spend velocity.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "real-time-finops-dashboard-builder-gpt-91",
+    "title": "Real-Time FinOps Dashboard Builder GPT",
+    "description": "Generates code/Notion/Rows for a personalized finance dashboard.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "break-even-finder-gpt-92",
+    "title": "Break-Even Finder GPT",
+    "description": "Calculates break-even and faster-profitability suggestions.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "non-dilutive-capital-planner-gpt-93",
+    "title": "Non-Dilutive Capital Planner GPT",
+    "description": "Maps funding milestones without raising equity (RBF, grants).",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "annual-financial-review-gpt-94",
+    "title": "Annual Financial Review GPT",
+    "description": "Year-end financial reflection: audit, tax prep, investment check-in.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "recurring-revenue-valuation-gpt-95",
+    "title": "Recurring Revenue Valuation GPT",
+    "description": "Estimates business worth from MRR/ARR, churn, LTV/CAC, multiples.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "deferred-revenue-tracker-gpt-96",
+    "title": "Deferred Revenue Tracker GPT",
+    "description": "Tracks deferred revenue/unearned income for SaaS.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "kpi-reporter-gpt-97",
+    "title": "KPI Reporter GPT",
+    "description": "Auto-generates weekly/monthly KPI reports by business type.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "agency-financial-tracker-gpt-98",
+    "title": "Agency Financial Tracker GPT",
+    "description": "Tracks invoices, collections, costs, team profitability.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "capital-stack-designer-gpt-99",
+    "title": "Capital Stack Designer GPT",
+    "description": "Builds capital stack: debt, equity, credit lines, strategic funding.",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "financial-sop-generator-gpt-100",
+    "title": "Financial SOP Generator GPT",
+    "description": "Creates money-management SOPs (daily/weekly/monthly checklists).",
+    "category": "FinOps & Financial Management",
+    "status": "Concept"
+  },
+  {
+    "id": "upload-my-bank-csv-gpt-101",
+    "title": "Upload My Bank CSV GPT",
+    "description": "Upload bank CSV; summarize top expenses, income, net cash flow, trends.",
+    "category": "Free Actions - Upload & Analyze",
+    "status": "Concept"
+  },
+  {
+    "id": "upload-my-profit-loss-statement-gpt-102",
+    "title": "Upload My Profit & Loss Statement GPT",
+    "description": "Upload P&L; breakdown of gross margin, net %, improvement suggestions.",
+    "category": "Free Actions - Upload & Analyze",
+    "status": "Concept"
+  },
+  {
+    "id": "business-credit-report-breakdown-gpt-103",
+    "title": "Business Credit Report Breakdown GPT",
+    "description": "Paste/upload credit report; explainer of sections, score factors, red flags.",
+    "category": "Free Actions - Upload & Analyze",
+    "status": "Concept"
+  },
+  {
+    "id": "upload-my-amazon-sales-report-gpt-104",
+    "title": "Upload My Amazon Sales Report GPT",
+    "description": "Upload Amazon CSV; top SKUs, revenue, margin estimates.",
+    "category": "Free Actions - Upload & Analyze",
+    "status": "Concept"
+  },
+  {
+    "id": "csv-cash-flow-timeline-builder-gpt-105",
+    "title": "CSV Cash Flow Timeline Builder GPT",
+    "description": "Turns transaction CSV into a cash flow timeline (HTML/Notion).",
+    "category": "Free Actions - Upload & Analyze",
+    "status": "Concept"
+  },
+  {
+    "id": "business-budget-builder-gpt-106",
+    "title": "Business Budget Builder GPT",
+    "description": "Builds a monthly/quarterly budget from goals and cost assumptions.",
+    "category": "Free Actions - Planners",
+    "status": "Concept"
+  },
+  {
+    "id": "llc-vs-s-corp-tax-strategy-gpt-107",
+    "title": "LLC vs S-Corp Tax Strategy GPT",
+    "description": "Tax-efficiency comparison between LLC and S-Corp.",
+    "category": "Free Actions - Planners",
+    "status": "Concept"
+  },
+  {
+    "id": "monthly-finance-checklist-generator-gpt-108",
+    "title": "Monthly Finance Checklist Generator GPT",
+    "description": "Tailored monthly finance checklist by business type.",
+    "category": "Free Actions - Planners",
+    "status": "Concept"
+  },
+  {
+    "id": "financial-sop-writer-gpt-109",
+    "title": "Financial SOP Writer GPT",
+    "description": "Guides writing financial SOPs (Notion/Markdown output).",
+    "category": "Free Actions - Planners",
+    "status": "Concept"
+  },
+  {
+    "id": "emergency-fund-planner-gpt-110",
+    "title": "Emergency Fund Planner GPT",
+    "description": "Calculates 3/6/12-month reserve needs and build strategies.",
+    "category": "Free Actions - Planners",
+    "status": "Concept"
+  },
+  {
+    "id": "profit-margin-calculator-gpt-111",
+    "title": "Profit Margin Calculator GPT",
+    "description": "Margin %, markup %, recommendations from cost/shipping/fees/price.",
+    "category": "Free Actions - Calculators",
+    "status": "Concept"
+  },
+  {
+    "id": "loan-payment-estimator-gpt-112",
+    "title": "Loan Payment Estimator GPT",
+    "description": "Monthly payment, total interest, comparison table.",
+    "category": "Free Actions - Calculators",
+    "status": "Concept"
+  },
+  {
+    "id": "breakeven-point-calculator-gpt-113",
+    "title": "Breakeven Point Calculator GPT",
+    "description": "Breakeven units and revenue from fixed/variable costs.",
+    "category": "Free Actions - Calculators",
+    "status": "Concept"
+  },
+  {
+    "id": "cash-runway-estimator-gpt-114",
+    "title": "Cash Runway Estimator GPT",
+    "description": "Runway in weeks/months with risk flags.",
+    "category": "Free Actions - Calculators",
+    "status": "Concept"
+  },
+  {
+    "id": "saas-valuation-estimator-gpt-115",
+    "title": "SaaS Valuation Estimator GPT",
+    "description": "Valuation from MRR, churn, LTV/CAC and multiples.",
+    "category": "Free Actions - Calculators",
+    "status": "Concept"
+  },
+  {
+    "id": "notion-cash-flow-tracker-generator-gpt-116",
+    "title": "Notion Cash Flow Tracker Generator GPT",
+    "description": "Generates markdown for a Notion cash flow tracker.",
+    "category": "Free Actions - Templates",
+    "status": "Concept"
+  },
+  {
+    "id": "funding-pitch-template-builder-gpt-117",
+    "title": "Funding Pitch Template Builder GPT",
+    "description": "Creates a 1-pager pitch doc by funding type.",
+    "category": "Free Actions - Templates",
+    "status": "Concept"
+  },
+  {
+    "id": "saas-kpi-dashboard-copy-generator-gpt-118",
+    "title": "SaaS KPI Dashboard Copy Generator GPT",
+    "description": "Generates Notion/Rows property titles, formulas, tracker logic.",
+    "category": "Free Actions - Templates",
+    "status": "Concept"
+  },
+  {
+    "id": "loan-offer-response-script-gpt-119",
+    "title": "Loan Offer Response Script GPT",
+    "description": "Drafts professional reply: acceptance, negotiation, or rejection.",
+    "category": "Free Actions - Templates",
+    "status": "Concept"
+  },
+  {
+    "id": "pricing-strategy-brainstorm-gpt-120",
+    "title": "Pricing Strategy Brainstorm GPT",
+    "description": "Suggests 3-5 pricing strategies from product/industry/margin.",
+    "category": "Free Actions - Templates",
+    "status": "Concept"
+  },
+  {
+    "id": "bank-connection-gpt-121",
+    "title": "Bank Connection GPT",
+    "description": "Connect bank via OAuth; categorized summaries, insights, alerts.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "real-time-cash-flow-analyzer-gpt-122",
+    "title": "Real-Time Cash Flow Analyzer GPT",
+    "description": "Auto-tag income/expenses; burn rate, runway, forecast.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "banking-health-score-gpt-123",
+    "title": "Banking Health Score GPT",
+    "description": "Scores financial health from 90 days of bank data.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "auto-generated-monthly-p-l-gpt-124",
+    "title": "Auto-Generated Monthly P&L GPT",
+    "description": "Pulls categorized transactions and summarizes P&L.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "credit-readiness-gpt-125",
+    "title": "Credit Readiness GPT",
+    "description": "Score interpretation, red flags, improvement plan from credit report.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "loan-document-analyzer-gpt-126",
+    "title": "Loan Document Analyzer GPT",
+    "description": "Highlights APR, penalties, covenants, hidden clauses in loan PDFs.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "funding-timeline-generator-gpt-127",
+    "title": "Funding Timeline Generator GPT",
+    "description": "Suggests optimal apply dates, amounts, repayment strategy.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "instant-offer-simulator-gpt-128",
+    "title": "Instant Offer Simulator GPT",
+    "description": "Simulates RBF/MCA/SBA offers from 5-7 inputs.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "open-banking-budget-gpt-129",
+    "title": "Open Banking Budget GPT",
+    "description": "Auto-generates a 3-month rolling budget from bank + Stripe/PayPal.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "cash-burn-runway-gpt-130",
+    "title": "Cash Burn + Runway GPT",
+    "description": "Calculates runway and risk with cost-cut suggestions.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "ai-cfo-insights-gpt-131",
+    "title": "AI CFO Insights GPT",
+    "description": "3 insights: cash risk, growth opportunity, credit opportunity.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "revenue-quality-analyzer-gpt-132",
+    "title": "Revenue Quality Analyzer GPT",
+    "description": "Analyzes refund rates, volatility, MRR/ARR sustainability.",
+    "category": "APIs / OAuth / OpenAI",
+    "status": "Concept"
+  },
+  {
+    "id": "stripe-dashboard-gpt-133",
+    "title": "Stripe Dashboard GPT",
+    "description": "Summarizes revenue, churn, refunds, active subs, risk.",
+    "category": "Ecommerce & Payment Processors",
+    "status": "Concept"
+  },
+  {
+    "id": "paypal-stripe-fee-tracker-gpt-134",
+    "title": "PayPal & Stripe Fee Tracker GPT",
+    "description": "Aggregates fees, suggests cost-saving processors.",
+    "category": "Ecommerce & Payment Processors",
+    "status": "Concept"
+  },
+  {
+    "id": "shopify-cash-flow-gpt-135",
+    "title": "Shopify Cash Flow GPT",
+    "description": "Parses order volume, shipping, payout lags vs weekly cash flow.",
+    "category": "Ecommerce & Payment Processors",
+    "status": "Concept"
+  },
+  {
+    "id": "audit-trail-gpt-136",
+    "title": "Audit Trail GPT",
+    "description": "Flags inconsistencies, duplicates, risky vendor behavior in ledger.",
+    "category": "Compliance, Alerts & Auditing",
+    "status": "Concept"
+  },
+  {
+    "id": "auto-categorize-flag-gpt-137",
+    "title": "Auto-Categorize & Flag GPT",
+    "description": "Auto-categorizes transactions and flags outliers.",
+    "category": "Compliance, Alerts & Auditing",
+    "status": "Concept"
+  },
+  {
+    "id": "financial-sop-compliance-gpt-138",
+    "title": "Financial SOP Compliance GPT",
+    "description": "Checks if required steps (payroll, tax escrow) ran from data trails.",
+    "category": "Compliance, Alerts & Auditing",
+    "status": "Concept"
+  },
+  {
+    "id": "gpt-to-notion-financial-tracker-generator-139",
+    "title": "GPT to Notion Financial Tracker Generator",
+    "description": "Generates Notion markdown trackers from Stripe + bank data.",
+    "category": "Automated Workflows",
+    "status": "Concept"
+  },
+  {
+    "id": "openai-finops-assistant-rows-140",
+    "title": "OpenAI FinOps Assistant (Rows)",
+    "description": "Generates a weekly finance executive summary from Sheets/Rows.",
+    "category": "Automated Workflows",
+    "status": "Concept"
+  },
+  {
+    "id": "financial-goal-tracker-gpt-141",
+    "title": "Financial Goal Tracker GPT",
+    "description": "Monitors revenue/savings/debt goals with weekly nudges.",
+    "category": "Automated Workflows",
+    "status": "Concept"
+  },
+  {
+    "id": "ai-working-capital-estimator-gpt-142",
+    "title": "AI Working Capital Estimator GPT",
+    "description": "Estimates accessible non-dilutive working capital from deposits/AR/balance.",
+    "category": "Banking Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "cash-buffer-strategy-gpt-143",
+    "title": "Cash Buffer Strategy GPT",
+    "description": "Creates a 3-month reserve strategy from 90-day activity.",
+    "category": "Banking Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "smart-bank-account-organizer-gpt-144",
+    "title": "Smart Bank Account Organizer GPT",
+    "description": "Recommends OpEx/Profit/Tax/Emergency structure (Profit First).",
+    "category": "Banking Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "vendor-leak-detector-gpt-145",
+    "title": "Vendor Leak Detector GPT",
+    "description": "Identifies unused subscriptions, duplicate vendor payments, outliers.",
+    "category": "Banking Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "credit-readiness-scanner-gpt-146",
+    "title": "Credit Readiness Scanner GPT",
+    "description": "Reviews credit age, utilization, tradelines, UCC filings.",
+    "category": "Credit Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "business-credit-score-tracker-gpt-147",
+    "title": "Business Credit Score Tracker GPT",
+    "description": "Tracks credit changes, flags drop/rise, next steps.",
+    "category": "Credit Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "auto-tradeline-manager-gpt-148",
+    "title": "Auto-Tradeline Manager GPT",
+    "description": "Tracks vendor reporting, line size, payment status; flags dormant.",
+    "category": "Credit Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "cash-flow-stress-test-gpt-149",
+    "title": "Cash Flow Stress Test GPT",
+    "description": "Runs revenue-drop/slow-AR/tax-bill scenarios; cash longevity and cuts.",
+    "category": "Cash Flow Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "ar-recovery-planner-gpt-150",
+    "title": "AR Recovery Planner GPT",
+    "description": "Identifies overdue customers, risk, collection strategy.",
+    "category": "Cash Flow Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "daily-cash-snapshot-gpt-151",
+    "title": "Daily Cash Snapshot GPT",
+    "description": "Daily report: runway, burn, available cash to Slack/Discord/Notion.",
+    "category": "Cash Flow Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "automated-prequal-match-gpt-152",
+    "title": "Automated Prequal + Match GPT",
+    "description": "Shows estimated approval for RBF/MCA/LOC; matches affiliate offers.",
+    "category": "Funding Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "funding-stack-planner-gpt-153",
+    "title": "Funding Stack Planner GPT",
+    "description": "Layers credit stacking + RBF + equity + grants; stackable amounts.",
+    "category": "Funding Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "funding-timeline-scheduler-gpt-154",
+    "title": "Funding Timeline Scheduler GPT",
+    "description": "Reverse-engineers capital timeline from goals.",
+    "category": "Funding Automations",
+    "status": "Concept"
+  },
+  {
+    "id": "12-week-forecast-gpt-155",
+    "title": "12-Week Forecast GPT",
+    "description": "Rolling 12-week forecast of revenue, expenses, cash levels.",
+    "category": "Forecasting & KPI",
+    "status": "Concept"
+  },
+  {
+    "id": "funding-readiness-score-gpt-156",
+    "title": "Funding Readiness Score GPT",
+    "description": "Scores how fundable you are right now with prep work.",
+    "category": "Forecasting & KPI",
+    "status": "Concept"
+  },
+  {
+    "id": "kpi-drilldown-gpt-157",
+    "title": "KPI Drilldown GPT",
+    "description": "Analyzes deltas/trends/benchmarks for MRR, churn, CAC, LTV, burn.",
+    "category": "Forecasting & KPI",
+    "status": "Concept"
+  },
+  {
+    "id": "capital-literacy-gpt-158",
+    "title": "Capital Literacy GPT",
+    "description": "Explains funding options by stage, goals, model.",
+    "category": "Strategic & Educational",
+    "status": "Concept"
+  },
+  {
+    "id": "digital-finops-ai-advisor-gpt-159",
+    "title": "Digital FinOps AI Advisor GPT",
+    "description": "Weekly: what went well, what's a risk, what to do next.",
+    "category": "Strategic & Educational",
+    "status": "Concept"
+  },
+  {
+    "id": "deal-intake-evaluator-gpt-160",
+    "title": "Deal Intake Evaluator GPT",
+    "description": "Analyzes deal profile (niche, monetization, stack, churn, MRR) and scores potential/risk.",
+    "category": "SME Acquisition & Micro Ventures",
+    "status": "Concept"
+  },
+  {
+    "id": "micro-saas-scorecard-gpt-161",
+    "title": "Micro SaaS Scorecard GPT",
+    "description": "Investment Readiness Score + Post-Acquisition Playbook from MRR/churn/LTV/stack.",
+    "category": "SME Acquisition & Micro Ventures",
+    "status": "Concept"
+  },
+  {
+    "id": "exit-readiness-gpt-162",
+    "title": "Exit Readiness GPT",
+    "description": "Identifies deal attractiveness, gaps, Exit Prep Checklist + multiples forecast.",
+    "category": "SME Acquisition & Micro Ventures",
+    "status": "Concept"
+  },
+  {
+    "id": "post-acquisition-kpi-tracker-gpt-163",
+    "title": "Post-Acquisition KPI Tracker GPT",
+    "description": "Tracks onboarding, adoption, support tickets, churn, MRR.",
+    "category": "SME Acquisition & Micro Ventures",
+    "status": "Concept"
+  },
+  {
+    "id": "cash-flow-to-acquisition-budget-planner-gpt-164",
+    "title": "Cash-Flow to Acquisition Budget Planner GPT",
+    "description": "Maps current business cash flow to an acquisition budget.",
+    "category": "SME Acquisition & Micro Ventures",
+    "status": "Concept"
+  }
+]
