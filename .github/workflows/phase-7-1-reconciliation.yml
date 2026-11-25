@@ -1,0 +1,61 @@
+name: Phase 7.1 — reconcile and generate
+on:
+  push:
+    branches: [phase-7-1-reconciliation]
+permissions:
+  contents: write
+concurrency:
+  group: phase-7-1-reconciliation
+  cancel-in-progress: false
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Generate and check external destinations
+        run: |
+          node scripts/generate-public-registry.mjs
+          node scripts/generate-resource-ecosystem.mjs
+          python3 scripts/audit-public-links.py
+          node scripts/generate-public-registry.mjs
+          node scripts/generate-resource-ecosystem.mjs
+          node scripts/generate-public-registry.mjs --check
+          node scripts/generate-resource-ecosystem.mjs --check
+      - name: Validate publication fixture and preserve original identities
+        run: |
+          python3 - <<'PY'
+          import json,hashlib,pathlib,subprocess,tempfile,shutil
+          p=pathlib.Path('.')
+          baseline=json.loads(subprocess.check_output(['git','show','b66cfbb843ecac3a6eb7a6c5821b7743203a48ac:data/resource-ecosystem.json']))['records']
+          current=json.loads((p/'data/resource-ecosystem.json').read_text())['records']
+          ids={r['id'] for r in current}
+          assert len(ids)==len(current) and {r['id'] for r in baseline} <= ids
+          rows=json.loads((p/'data/editions.json').read_text())
+          published=[r for r in rows if r['status']=='published']
+          assert len(published)==17
+          assert any(r.get('slug')=='how-to-build-an-ai-powered-funding-agency-from-scratch' and r['status']!='published' for r in rows)
+          keys={'id','slug','edition_number','title','status','publication_date','series','topic','description','seo_title','seo_description','link','reading_minutes','source_sha256','eyebrow','related'}
+          with tempfile.TemporaryDirectory() as d:
+              s=pathlib.Path(d);(s/'articles').mkdir()
+              for r in published:
+                  src=p/'content/editions'/(r['slug']+'.md')
+                  assert hashlib.sha256(src.read_bytes()).hexdigest()==r['source_sha256']
+                  shutil.copyfile(src,s/'articles'/src.name)
+              (s/'editions-source.json').write_text(json.dumps([{k:v for k,v in r.items() if k in keys} for r in published]))
+              subprocess.run(['python3','tests/test-publication-fixture.py',str(s)],check=True)
+          print(f'Validated {len(current)} unique profiles; all {len(baseline)} original IDs and 17 published hashes preserved.')
+          PY
+      - name: Commit generated output
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Generate Phase 7.1 resources and public link evidence"
+          git push origin HEAD:phase-7-1-reconciliation

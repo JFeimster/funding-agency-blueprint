@@ -1,0 +1,9 @@
+# Phase 7.1 — asset and destination reconciliation
+
+Single integration release from the existing Wix publication inventory, upstream Tools Hub production resource metadata (4acabc2), and current Blueprint registry. Original 445 profile IDs are preserved; newly discovered public resources use stable IDs. The Business Owner Discovery record retains its existing master ID. Gated packages link to their upstream landing pages, never to unsigned API downloads. The already-public Playbook and Script Pack PDFs remain unchanged.
+
+Wix covers reuse publisher-owned CDN URLs (the existing local CRM graphic is reused). Funding Product Matrix one-page PDF, CSV and XLSX use existing public GitHub files instead of duplicate downloads. Companion links connect articles, resources and videos without new profiles for each format. Notion cover attachments for editions 01 and 09 remain located but not recovered as bytes; no signed/private URL is stored in this public repo. The 5-Tool video remains unmatched; its existing thumbnail is retained. GPT URLs are not evidence of access. No guessed video destination, no private Drive source, no new artwork.
+
+The link audit inventories public HTTPS links, excludes sensitive/private/action URLs, follows public redirects and records observed access status. HTTP is not proof of functionality, attribution or successful playback. Historical Markdown is immutable; generated current resource actions with not-found results are withheld. Other inconclusive links are explicitly labeled in resource briefs. The audit is a snapshot, not a mandatory network dependency of the existing generators.
+
+The branch workflow performs both generators, HTTP audit, both consistency checks, the isolated edition-18 fixture, and commits generated outputs after validation. It is branch-specific; existing Vercel main-only deployment behavior is unchanged.
